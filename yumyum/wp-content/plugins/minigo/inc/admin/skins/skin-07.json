@@ -1,0 +1,1742 @@
+{
+  "last_tab": "",
+  "comingsoon-enabled": "coming_soon",
+  "display-on": "all",
+  "custom-urls-mode": "whitelist",
+  "custom-urls-list": "http://example.com/blog/*",
+  "share-shortcodes": "0",
+  "switch-themes": "skin-07",
+  "site-title": "MiniGO - Uber Minimal Flat Coming Soon WP Plugin",
+  "logo": {
+    "url": "//premiothemes.com/demos/assets/images/freelancer/freelancer-logo.jpg",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "logo-width": "500",
+  "logo-height": "499",
+  "favicon": {
+    "url": "//premiothemes.com/demos/minigo/assets/template/favicon.ico",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "meta-title": "",
+  "meta-description": "",
+  "analytics-code": "",
+  "logo-on-loading": "0",
+  "loader-logo-switcher": "default",
+  "loader-logo": {
+    "url": "//premiothemes.com/demos/minigo/assets/template/images/logo-dark.png",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "loader-logo-width": "141",
+  "loader-logo-height": "141",
+  "animated-intro": "0",
+  "loader-animation-color": {
+    "color": "#03a9f4",
+    "alpha": "0.25",
+    "rgba": "rgba(3,169,244,0.25)"
+  },
+  "loader-background-color": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "gradient-loader": "0",
+  "gradient-loading-backgrounds": {
+    "from": "#8224e3",
+    "to": "#81d742"
+  },
+  "gradient-loader-color-degree": "41",
+  "hash-url": "1",
+  "navigation-type": "one-page",
+  "navigation-position": "middle",
+  "navigation-align": "right",
+  "navigation-orientation": "vertical",
+  "navigation-style": "small",
+  "navigation-labels": "always",
+  "navigation-adaptive-style": "0",
+  "navigation-responsive": "1",
+  "navigation-style-tablet": "mobile",
+  "navigation-style-mobile": "expanding",
+  "menu-background-color": {
+    "color": "#0f2528",
+    "alpha": "0.75",
+    "rgba": "rgba(15,37,40,0.75)"
+  },
+  "menu-background-color-mobile": {
+    "color": "#0f2528",
+    "alpha": "1",
+    "rgba": "rgba(15,37,40,1)"
+  },
+  "close-button-label": "CLOSE",
+  "close-button-icon": "fa-times-circle",
+  "to-top-position": "top-right",
+  "to-top-text": "Top",
+  "to-top-icon": "fa-arrow-up",
+  "menu-button-label": "MENU",
+  "menu-button-icon": "fa-bars",
+  "menu-close-button-label": "CLOSE",
+  "menu-close-button-icon": "fa-close",
+  "footer-show": "0",
+  "footer-visibility": "default",
+  "footer-size": "medium",
+  "footer-vertical-position": "bottom",
+  "footer-horizontal-align": "right",
+  "footer-orientation": "horizontal",
+  "footer-background-color": {
+    "color": "#000",
+    "alpha": "0.7",
+    "rgba": "rgba(0,0,0,0.7)"
+  },
+  "footer-background-color-mobile": {
+    "color": "#000000",
+    "alpha": "0.95",
+    "rgba": "rgba(0,0,0,0.95)"
+  },
+  "background-color": "#0a0a0a",
+  "background-type": "color",
+  "background-slideshow-duration": "10",
+  "background-slideshow-kenburns-minScale": "1.2",
+  "background-slideshow-kenburns-maxScale": "1.7",
+  "background-slideshow-kenburns-minMove": "5",
+  "background-slideshow-kenburns-maxMove": "15",
+  "background-slideshow-gallery": "",
+  "background-video-imageFallback": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-video-volume": "0",
+  "background-video-mp4": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-video-webm": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-video-ogg": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-youtube-url": "https://www.youtube.com/watch?v=a-B0uRlKk2U",
+  "background-youtube-startAt": "0",
+  "background-youtube-endAt": "0",
+  "background-vimeo-url": "14715111",
+  "background-video-loop": "0",
+  "gradient-color-switch": "1",
+  "gradient-color": {
+    "from": "#143338",
+    "to": "#1d1021"
+  },
+  "gradient-opacity": "0.8",
+  "gradient-color-degree": "270",
+  "js-animation-switch": "1",
+  "js-animation-options": "particles",
+  "js-animation-opacity": "0.15",
+  "background-pattern": "off",
+  "background-patternCustom": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-pattern-opacity": "0.2",
+  "form-validation-required": "This field is required.",
+  "form-validation-email": "Please enter a valid email address.",
+  "contact-target-address": "hello@premiothemes.com",
+  "contact-from-address": "",
+  "contact-subject-prefix": "MiniGO message from - ",
+  "contact-form-name-label": "Your name",
+  "contact-form-email-label": "Your e-mail address",
+  "contact-form-message-label": "Message",
+  "contact-form-button-label": "SEND MESSAGE",
+  "contact-form-success-message": "Message sent!",
+  "subscribe-form-title": "Subscribe Today!",
+  "subscribe-form-email-label": "Your e-mail address",
+  "subscribe-form-button-label": "GO",
+  "subscribe-form-success-message": "Got it, thank you",
+  "subscribe-use_Mailchimp": "1",
+  "subscribe-Mailchimp_API_Key": "1da1462f73495883e81efd45e324decc-us4",
+  "subscribe-Mailchimp_list_ID": "d1a2c1442d",
+  "subscribe-Mailchimp_double_optin": "0",
+  "subscribe-Mailchimp_send_welcome": "0",
+  "enable-audio": "0",
+  "audio-switch": "url",
+  "audio-track": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "url-audio-track": "//premiothemes.com/demos/assets/audio/wathne-lounge.mp3",
+  "track-name": "Optional Track Name to Display",
+  "audio-volume": "0.2",
+  "audio-controls": "1",
+  "audio-autoplay": "1",
+  "audio-loop": "1",
+  "custom-css": "",
+  "custom-html": "",
+  "pages-align": "left",
+  "pages-text-align": "default",
+  "rtl-switch": "0",
+  "pages-background": "1",
+  "pages-background-color": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "pages-border-radius": {
+    "width": "6px",
+    "units": "px"
+  },
+  "pages-background-border": "0",
+  "pages-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "pages-border-color": {
+    "color": "#fff",
+    "alpha": "0.15",
+    "rgba": "rgba(255,255,255,0.15)"
+  },
+  "pages-width-switch": "1",
+  "pages-width": {
+    "width": "80%",
+    "units": "%"
+  },
+  "pages-spacing-switch": "1",
+  "pages-margins": {
+    "margin-top": "15px",
+    "margin-right": "15px",
+    "margin-bottom": "15px",
+    "margin-left": "15px",
+    "units": "px"
+  },
+  "pages-paddings": {
+    "padding-top": "60px",
+    "padding-right": "",
+    "padding-bottom": "60px",
+    "padding-left": "",
+    "units": "px"
+  },
+  "page-full-height": "0",
+  "page-1-enabled": "1",
+  "page-1-title-show": "0",
+  "page-1-title": "Welcome!",
+  "page-1-content": "[minigo-logo]\r\n<h3>Hi, I'm Andrew and in this MiniGO demo I'll show you my mini-site.</h3>\r\n[minigo-divider size=\"6px\" top=\"30px\" bottom=\"30px\" style=\"divider-dotted\" opacity=\"0.15\"][minigo-icon-features]",
+  "page-1-nav": "0",
+  "page-1-label": "HOME",
+  "page-1-icon": "fa-home",
+  "page-2-enabled": "1",
+  "page-2-label": "Works",
+  "page-2-icon": "fa-info-circle",
+  "page-2-title": "Samples of my work",
+  "page-2-content": "Thanks to MiniGO, I have full control over my slider so I can get creative with my layouts.\r\n[minigo-gallery]",
+  "page-3-enabled": "1",
+  "page-3-label": "Clients",
+  "page-3-icon": "fa-users",
+  "page-3-title": "My #1 Priority",
+  "page-3-content": "Customer satisfaction and doing great work is what drives me so I'm very fortunate and thankful to my customers for testifying here on my behalf.\r\n[minigo-testimonials]",
+  "page-4-enabled": "1",
+  "page-4-label": "Skills",
+  "page-4-icon": "fa-cube",
+  "page-4-title": "Areas of Expertise",
+  "page-4-content": "I can show off my skills, awards or experience here and, why not, get CV out there to invite opportunity.\r\n[minigo-progress-bars]\r\n[minigo-counter-features]\r\n[minigo-divider size=\"5px\" top=\"30px\" bottom=\"30px\" style=\"divider-dotted\" opacity=\"0.15\"]\r\n[minigo-button text=\"Download My Resume\" url=\"//pre.la/minigo\" class=\"\" target=\"_blank\" style=\"btn--large\"]",
+  "page-5-enabled": "1",
+  "page-5-label": "My Book",
+  "page-5-icon": "fa-book",
+  "page-5-title": "Launching my first Book!",
+  "page-5-content": "[PT_row][PT_column size=\"one-half lap-one-whole\"]<img class=\"size-medium\" src=\"//premiothemes.com/demos/assets/images/freelancer/freelancer-book.jpg\" alt=\"Shot of the book I will be pre-selling\" width=\"1200\" height=\"1330\" />[/PT_column][PT_column size=\"one-half lap-one-whole\"][minigo-divider size=\"0px\" top=\"30px\" bottom=\"30px\" style=\"divider-no-line\" opacity=\"0\"]\r\n<h2>User Experience Patterns 101</h2>\r\nGreat news! The final draft of my book is almost ready and the feedback so far has been very positive. If you are interested in the subject and wouldn't mind having a read, I'd be happy to send you a copy in return for your honest feedback. <strong>Thank you!</strong>\r\n\r\n[minigo-countdown][minigo-icon-list][minigo-subscribe-form][/PT_column][/PT_row][minigo-divider size=\"6px\" top=\"30px\" bottom=\"30px\" style=\"divider-dotted\" opacity=\"0.15\"][minigo-addthis]",
+  "page-6-enabled": "1",
+  "page-6-label": "Hire me",
+  "page-6-icon": "fa-asterisk",
+  "page-6-title": "Work with me",
+  "page-6-content": "[PT_row]\r\n[PT_column size=\"one-third lap-one-whole\"]\r\n[minigo-title title=\"$75\" subtitle=\"hourly rate\" style=\"small-divider\"]\r\n[minigo-divider size=\"6px\" top=\"30px\" bottom=\"30px\" style=\"divider-dotted\" opacity=\"0.15\"]\r\n[minigo-title title=\"Available\" subtitle=\"for freelance\" style=\"small-divider\"]\r\n[minigo-divider size=\"6px\" top=\"30px\" bottom=\"30px\" style=\"divider-dotted\" opacity=\"0.15\"]\r\n[minigo-button text=\"Download Rate Card\" url=\"//pre.la/minigo\" class=\"\" target=\"_blank\" style=\"btn--large\"]\r\n[/PT_column]\r\n[PT_column size=\"two-thirds lap-one-whole\"]\r\n\r\nWhen things get more complicated, I have a tight group of freelancers I work with. It's good to know that you'll still be covered even if a certain task falls outside my area of expertise.\r\n\r\n[minigo-team]\r\n[/PT_column]\r\n[/PT_row]",
+  "page-7-enabled": "1",
+  "page-7-label": "Shop",
+  "page-7-icon": "fa-shopping-bag",
+  "page-7-title": "Get my Designs",
+  "page-7-content": "[minigo-shop]",
+  "page-8-enabled": "1",
+  "page-8-label": "Contact",
+  "page-8-icon": "fa-envelope-o",
+  "page-8-title": "Get in Touch",
+  "page-8-content": "I'm friendly and happy to have a chat about your project so let's start a conversation!\r\n\r\n[minigo-contact-info][minigo-divider size=\"2px\" top=\"30px\" bottom=\"10px\" style=\"divider-dashed\" opacity=\"0.25\"][PT_row][PT_column size=\"one-half lap-one-whole\"][minigo-map][/PT_column][PT_column size=\"one-half lap-one-whole\"][minigo-contact-form][/PT_column][/PT_row][minigo-divider size=\"2px\" top=\"-10px\" bottom=\"10px\" style=\"divider-dashed\" opacity=\"0.25\"][minigo-icon-menu]",
+  "page-9-enabled": "0",
+  "page-9-label": "FEATURES",
+  "page-9-icon": "fa-star",
+  "page-9-title": "Product Features",
+  "page-9-content": "[PT_row]\r\n[PT_column size=\"one-half lap-one-whole\"]\r\n[minigo-icon-list]\r\n[/PT_column]\r\n[PT_column size=\"one-half lap-one-whole\"]\r\n[minigo-video title=\"Embed Videos from Youtube or Vimeo\"]<iframe src=\"https://player.vimeo.com/video/185412081?badge=0\" width=\"800\" height=\"340\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>[/minigo-video]\r\n[/PT_column]\r\n[/PT_row]\r\n[minigo-addthis]",
+  "page-10-enabled": "0",
+  "page-10-label": "SHOP",
+  "page-10-icon": "fa-shopping-bag",
+  "page-10-title": "Online Shop",
+  "page-10-content": "[minigo-shop]",
+  "page-11-enabled": "0",
+  "page-11-label": "LOCATION",
+  "page-11-icon": "fa-map-marker",
+  "page-11-title": "Google Map",
+  "page-11-content": "[minigo-map]\r\n[minigo-divider size=\"1px\" top=\"0px\" bottom=\"15px\" style=\"divider-line\" opacity=\"0.15\"]You can display a map with plenty of options, custom dividers or buttons such as the one below.[minigo-divider size=\"2px\" top=\"10px\" bottom=\"10px\" style=\"divider-dashed\" opacity=\"0.25\"]\r\n[minigo-button text=\"Get Directions\" url=\"//pre.la/minigo-map\" class=\"\" target=\"_blank\" style=\"btn--large\"]",
+  "page-12-enabled": "0",
+  "page-12-label": "CONTACT",
+  "page-12-icon": "fa-envelope",
+  "page-12-title": "Get in Touch",
+  "page-12-content": "[minigo-contact-info]\r\n[minigo-contact-form]\r\n[minigo-divider size=\"0px\" top=\"px\" bottom=\"60px\" style=\"divider-no-line\" opacity=\"0\"]",
+  "page-13-enabled": "0",
+  "page-13-label": "",
+  "page-13-icon": "",
+  "page-13-title": "",
+  "page-13-content": "",
+  "addthis-switcher": "1",
+  "addthis-heading": "Share This",
+  "addthis-script": "<!-- Go to www.addthis.com/dashboard to customize your tools -->\r\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-543cf7a01fea0260\"></script>",
+  "addthis-code": "<!-- Go to www.addthis.com/dashboard to customize your tools -->\r\n<div class=\"addthis_sharing_toolbox\"></div>",
+  "contact-info-switcher": "1",
+  "contact-info-heading": "",
+  "contact_info": [
+    {
+      "title": "+1 555 85952",
+      "url": "",
+      "select": "fa-phone",
+      "sort": "0",
+      "force_row": "0"
+    },
+    {
+      "title": "mail@website.web",
+      "url": "mailto:mail@website.web",
+      "select": "fa-envelope-o",
+      "sort": "1",
+      "force_row": "0"
+    },
+    {
+      "title": "345 Rodeo Drive San Jose, CA 95111, USA",
+      "url": "",
+      "select": "fa-map-marker",
+      "force_row": "1",
+      "sort": "2"
+    }
+  ],
+  "countdown-enabled": "1",
+  "countdown-heading": "Countdown",
+  "countdown-type": "default",
+  "switch-charts": "1",
+  "chart-track-color": {
+    "color": "#000000",
+    "alpha": "1",
+    "rgba": "rgba(0,0,0,1)"
+  },
+  "chart-bar-color": {
+    "color": "#ffffff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "chart-outline-color": {
+    "color": "#000000",
+    "alpha": "0.5",
+    "rgba": "rgba(0,0,0,0.5)"
+  },
+  "chart-line-width": {
+    "width": "1"
+  },
+  "countdown-startDate": "02/15/2017",
+  "countdown-startHour": "23",
+  "countdown-startMinutes": "59",
+  "countdown-targetDate": "08/28/2017",
+  "countdown-targetHour": "23",
+  "countdown-targetMinutes": "59",
+  "countdown-labels": "Days,Hours,Minutes,Seconds",
+  "counter-features-switcher": "1",
+  "counter-features-heading": "Counter Features",
+  "counter-features-columns": "4",
+  "counter_features": [
+    {
+      "select": "fa-star-o",
+      "title": "5 Star Ratings",
+      "counter": "90",
+      "text": "What really matters is what users think and that's our main KPI. <strong>4.9</strong> average.",
+      "sort": "0"
+    },
+    {
+      "select": "fa-heart-o",
+      "title": "Average Rating",
+      "counter": "4.9",
+      "text": "We follow through with scalable, high quality code for any platform.",
+      "sort": "1"
+    },
+    {
+      "select": "fa-shopping-bag",
+      "title": "Sales",
+      "counter": "3133",
+      "text": "Robustness and reliability matters, proven and updated since 2014.",
+      "sort": "2"
+    },
+    {
+      "select": "fa-gears",
+      "title": "Admin Options",
+      "counter": "368",
+      "text": "Along with 8 skins, 20 shortcodes and the freedom to do whatever you imagine.",
+      "sort": "3"
+    }
+  ],
+  "map-switcher": "1",
+  "map_heading": "",
+  "map-style": "normal",
+  "map-latitude": "37.32961",
+  "map-longitude": "-121.89063",
+  "map-allow-drag": "1",
+  "map-zoom-level": "15",
+  "map-wheel-zoom": "0",
+  "map-button-zoom": "0",
+  "map-type": "0",
+  "map-street-view": "0",
+  "map-marker": {
+    "url": "//premiothemes.com/demos/minigo/assets/template/images/map-marker.png",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "map-height": "315",
+  "icon-features-switcher": "1",
+  "icon-features-heading": "I can help with:",
+  "icon-features-columns": "4",
+  "icon_features": [
+    {
+      "select": "fa-lightbulb-o",
+      "title": "Strategy",
+      "text": "In a world of MVPs MiniGO lets you publish early, test and grow an idea efficiently  and with no fuss.",
+      "sort": "0"
+    },
+    {
+      "select": "fa-pencil",
+      "title": "Design",
+      "text": "Designed to have an unobtrusive UI, it lets your content speak and your visuals impress. First impressions matter.",
+      "sort": "1"
+    },
+    {
+      "select": "fa-code",
+      "title": "Development",
+      "text": "Zero coding skills needed but we do include absolutely all sources for the devs who appreciate sass and such.",
+      "sort": "2"
+    },
+    {
+      "select": "fa-bullhorn",
+      "title": "Marketing",
+      "text": "Get your name out there, have a web placeholder, build a lead list right now, build the website in the meantime.",
+      "sort": "3"
+    }
+  ],
+  "icon-list-switcher": "1",
+  "icon-list-heading": "",
+  "icon-list-columns": "2",
+  "icon_list": [
+    {
+      "select": "fa-align-center",
+      "title": "Page Editors for Sections",
+      "sort": "0"
+    },
+    {
+      "select": "fa-bell",
+      "title": "5 Minute Set-up",
+      "sort": "1"
+    },
+    {
+      "select": "fa-calendar",
+      "title": "Count down to Launch",
+      "sort": "2"
+    },
+    {
+      "select": "fa-car",
+      "title": "Robustly Engineered",
+      "sort": "3"
+    },
+    {
+      "select": "fa-certificate",
+      "title": "Got some Awards!",
+      "sort": "4"
+    },
+    {
+      "select": "fa-codepen",
+      "title": "Gulp and SASS",
+      "sort": "5"
+    },
+    {
+      "select": "fa-dashboard",
+      "title": "Fully Featured Admin",
+      "sort": "6"
+    },
+    {
+      "select": "fa-database",
+      "title": "Build your Mailing List",
+      "sort": "7"
+    },
+    {
+      "select": "fa-diamond",
+      "title": "Pre-sell your Products",
+      "sort": "8"
+    },
+    {
+      "select": "fa-flag-checkered",
+      "title": "Build a quick MVP",
+      "sort": "9"
+    },
+    {
+      "select": "fa-heart",
+      "title": "4.9/5 Customer Rating",
+      "sort": "10"
+    },
+    {
+      "select": "fa-hourglass-2",
+      "title": "Newly Updated <strong>v3</strong> !",
+      "sort": "11"
+    }
+  ],
+  "icon-menu-heading": "Icon Menu",
+  "icon_menu": [
+    {
+      "title": "Follow us on Twitter",
+      "url": "https://twitter.com/PremioThemes",
+      "select": "fa-twitter",
+      "color": "#55acee",
+      "color-hover": "#ffffff",
+      "border-color": "",
+      "border-color-hover": "#55acee",
+      "background": "",
+      "background-hover": "#55acee",
+      "sort": "0",
+      "new-window": "0"
+    },
+    {
+      "title": "Like us on Facebook",
+      "url": "https://www.facebook.com/PremioThemes",
+      "select": "fa-facebook",
+      "color": "#3b5898",
+      "color-hover": "#ffffff",
+      "border-color": "",
+      "border-color-hover": "#3b5898",
+      "background": "",
+      "background-hover": "#3b5898",
+      "sort": "1",
+      "new-window": "0"
+    },
+    {
+      "title": "Our Youtube Channel",
+      "url": "https://www.youtube.com/channel/UCsVztxXlDTQsLxgr2AVa31Q",
+      "select": "fa-youtube-square",
+      "color": "#bb0000",
+      "color-hover": "#ffffff",
+      "border-color": "",
+      "border-color-hover": "#bb0000",
+      "background": "",
+      "background-hover": "#bb0000",
+      "sort": "2",
+      "new-window": "0"
+    },
+    {
+      "title": "Behance Portfolio",
+      "url": "https://www.behance.net/PremioThemes",
+      "select": "fa-behance",
+      "color": "#1768ff",
+      "color-hover": "#ffffff",
+      "border-color": "",
+      "border-color-hover": "#1768ff",
+      "background": "",
+      "background-hover": "#1768ff",
+      "sort": "3",
+      "new-window": "0"
+    },
+    {
+      "title": "Connect on Linkedin",
+      "url": "https://www.linkedin.com/company/4994120",
+      "select": "fa-linkedin",
+      "color": "#007cb5",
+      "color-hover": "#ffffff",
+      "border-color": "",
+      "border-color-hover": "#007cb5",
+      "background": "",
+      "background-hover": "#007cb5",
+      "sort": "4",
+      "new-window": "0"
+    },
+    {
+      "title": "© 2014-2017 Premio Themes, All rights reserved.",
+      "url": "",
+      "select": "fa-copyright",
+      "color": "#ff532c",
+      "color-hover": "#ffffff",
+      "border-color": "",
+      "border-color-hover": "#ff532c",
+      "background": "",
+      "background-hover": "#ff532c",
+      "sort": "5",
+      "new-window": "0"
+    }
+  ],
+  "gallery-switcher": "1",
+  "photo-gallery": "",
+  "gallery-thumbnails": "large",
+  "open-images-in-lightbox": "1",
+  "show-gallery-dots": "1",
+  "show-gallery-numbers": "",
+  "show-gallery-left-right-arrows": "1",
+  "gallery-rows": "3",
+  "gallery-cols": "3",
+  "slides-to-scroll": "3",
+  "gallery-autoplay": "",
+  "gallery-autoplay-speed": "3000",
+  "slides-scroll-speed": "500",
+  "gallery-infinite-scroll": "",
+  "gallery-centermode": "",
+  "gallery-break-1-width": "1024",
+  "gallery-break-1-slides": "3",
+  "gallery-break-1-slides-to-scroll": "3",
+  "gallery-break-2-width": "768",
+  "gallery-break-2-slides": "2",
+  "gallery-break-2-slides-to-scroll": "2",
+  "gallery-break-3-width": "520",
+  "gallery-break-3-slides": "1",
+  "gallery-break-3-slides-to-scroll": "1",
+  "progress-bars-switcher": "1",
+  "progress_heading": "Our Skills",
+  "progress-bars-columns": "4",
+  "progress_bars": [
+    {
+      "title": "User Experience Design",
+      "value": "94",
+      "progress": "94",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "0"
+    },
+    {
+      "title": "Empathy",
+      "value": "100",
+      "progress": "100",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "1"
+    },
+    {
+      "title": "Front-End Development",
+      "value": "76",
+      "progress": "76",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "2"
+    },
+    {
+      "title": "User Interface Design",
+      "value": "8/10",
+      "progress": "80",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "0"
+    },
+    {
+      "title": "Achievements so far",
+      "value": "24 of 200",
+      "progress": "12",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "1"
+    },
+    {
+      "title": "Back-End Development",
+      "value": "81",
+      "progress": "81",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "2"
+    },
+    {
+      "title": "Digital Marketing",
+      "value": "78%",
+      "progress": "78",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "0"
+    },
+    {
+      "title": "Servers broken till now",
+      "value": "Zero",
+      "progress": "0",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "1"
+    }
+  ],
+  "shop-switcher": "0",
+  "shop-heading": "Get the Gear",
+  "shop-before-content-switcher": "0",
+  "shop-before-content": "",
+  "shop-code": "<div id=\"my-store-10270054\"></div>\r\n<div><script type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?10270054&data_platform=code&data_date=2016-10-10\" charset=\"utf-8\"></script>\r\n<script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(3,3) list(10) table(20)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-10270054\");</script>\r\n</div>",
+  "shop-after-content-switcher": "0",
+  "shop-after-content": "",
+  "team-switcher": "1",
+  "team-heading": "The Team",
+  "team-columns": "3",
+  "team_profiles": [
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "first_name": "Jeremy",
+      "last_name": "May",
+      "job_title": "UX Designer",
+      "sort": "0",
+      "fa-link": "#",
+      "fa-envelope": "",
+      "fa-phone": "",
+      "fa-facebook": "#",
+      "fa-twitter": "",
+      "fa-linkedin": "",
+      "fa-pinterest": "",
+      "fa-google-plus": "#",
+      "fa-youtube": "",
+      "fa-instagram": "",
+      "fa-flickr": "",
+      "fa-skype": "",
+      "fa-whatsapp": "",
+      "fa-snapchat": "#",
+      "fa-vine": "",
+      "fa-wordpress": "",
+      "fa-tumblr": "",
+      "fa-slack": "",
+      "fa-git": "",
+      "fa-behance": "",
+      "fa-dribbble": "",
+      "fa-deviantart": ""
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "first_name": "James",
+      "last_name": "Hammond",
+      "job_title": "Back-End Developer",
+      "sort": "2",
+      "fa-link": "",
+      "fa-envelope": "#",
+      "fa-phone": "",
+      "fa-facebook": "",
+      "fa-twitter": "",
+      "fa-linkedin": "",
+      "fa-pinterest": "",
+      "fa-google-plus": "#",
+      "fa-youtube": "",
+      "fa-instagram": "",
+      "fa-flickr": "",
+      "fa-skype": "",
+      "fa-whatsapp": "#",
+      "fa-snapchat": "",
+      "fa-vine": "",
+      "fa-wordpress": "",
+      "fa-tumblr": "",
+      "fa-slack": "",
+      "fa-git": "#",
+      "fa-behance": "",
+      "fa-dribbble": "",
+      "fa-deviantart": ""
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "first_name": "Matt",
+      "last_name": "Jones",
+      "job_title": "Marketing Expert",
+      "sort": "0",
+      "fa-link": "",
+      "fa-envelope": "",
+      "fa-phone": "#",
+      "fa-facebook": "",
+      "fa-twitter": "",
+      "fa-linkedin": "#",
+      "fa-pinterest": "#",
+      "fa-google-plus": "",
+      "fa-youtube": "",
+      "fa-instagram": "",
+      "fa-flickr": "#",
+      "fa-skype": "",
+      "fa-whatsapp": "",
+      "fa-snapchat": "",
+      "fa-vine": "",
+      "fa-wordpress": "",
+      "fa-tumblr": "",
+      "fa-slack": "",
+      "fa-git": "",
+      "fa-behance": "#",
+      "fa-dribbble": "",
+      "fa-deviantart": ""
+    }
+  ],
+  "testimonials-switcher": "1",
+  "testimonials-heading": "Testimonials",
+  "testimonials": [
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "name": "Edward Williams",
+      "position": "CEO, Square Clothes",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Medal of Support! This guys should get a medal for his support. He mailed me in seconds after I asked for support and helped me out. Thx PremioThemes! Great plugin for a quick \"Under Maintenance\" or \"Under Construction\" website. Very flexible and easy going. Saved me hours of work. Thank you and keep up the great work.",
+      "sort": "0"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "name": "Charles Bowker",
+      "position": "CMO, Toncon",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Hello ! This word to tell you that your 2.0 version is purely AWESOME ! I never thought a coming soon plugin could offer such lots of visual configuration ! Plus, you added audio also as well as tons of styles, fonts, colors etc…the freaking MOST KILLER COMING SOON on codecanyon ! Hyper nice job !! I’m totally bluffed ! Cheers, Seb",
+      "sort": "1"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "name": "Mark Healy",
+      "position": "PR, K-dox",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Great plugin for a quick \"Under Maintenance\" or \"Under Construction\" website. Very flexible and easy going. Saved me hours of work. Thank you and keep up the great work.",
+      "sort": "2"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "name": "Charles Hillman",
+      "position": "Director, Convolin",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "We've used many different Coming Soon plugins, but MiniGO is without a doubt the best one we've used to date! It has so many different features allowing us to create a page that looks and functions exactly how we want it to! Add in the simple SEO capabilities, easy controls, overall style and of course, the AMAZING customer support and you've got yourself the complete package! If you are choosing what Coming Soon plugin to use, this is definitely the one to get!",
+      "sort": "3"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "name": "Paul Tovar",
+      "position": "Founder, Inchcare",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "The plugin is a lifesaver, it is fully customizable with an elegant design for the price. And when it comes to support, the seller is 100% there, even at odd hours of the week. I am very pleased with this purchase and would recommend them to everyone. Thanks a ton for making this so useful and easy!",
+      "sort": "4"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "name": "David Burden",
+      "position": "CMO, Triotex",
+      "url": "#",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "It does what really need for a coming soon plugin and it does it well. A lot of options, elegant and effective. The best on the market. This plugin has everything you would ever need for any small site. Amazing work!!",
+      "sort": "5"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "name": "Bruce Petty",
+      "position": "Manager, Ranstreet",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "What a great coming soon template. Some options to customize the text, content background colour and opacity are a few areas I would suggest improving upon but it really is a nice plugin. Well done. I'll try to keep it simple, I had a problem, and they fixed it, like incredibly quick. These guys are awesome, clean coding, superb design. For anyone looking for a coming soon. This is the would be the go to choice.",
+      "sort": "6"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "name": "Gregory Carroll",
+      "position": "CTO, Zoomlux",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Beautiful design and easy install. Than you so much for this elegant coming soon plugin! This is, hands down, the best looking Word Press plugin available. Worth every penny! Excellent Admin, Customisation and superb Customer Services, thank you to the Team behind MiniGo. I 100% recommend this plugin.",
+      "sort": "7"
+    }
+  ],
+  "testimonials-show-images": "1",
+  "testimonials-show-dots": "1",
+  "testimonials-show-numbers": "",
+  "testimonials-show-arrows": "1",
+  "testimonials-rows": "2",
+  "testimonials-cols": "2",
+  "testimonials-slides-to-scroll": "2",
+  "testimonials-autoplay": "1",
+  "testimonials-autoplay-speed": "5000",
+  "testimonials-slides-scroll-speed": "800",
+  "testimonials-infinite-scroll": "",
+  "testimonials-centermode": "",
+  "testimonials-break-1-width": "1280",
+  "testimonials-break-1-slides": "1",
+  "testimonials-break-1-slides-to-scroll": "1",
+  "testimonials-break-2-width": "1024",
+  "testimonials-break-2-slides": "1",
+  "testimonials-break-2-slides-to-scroll": "1",
+  "testimonials-break-3-width": "768",
+  "testimonials-break-3-slides": "1",
+  "testimonials-break-3-slides-to-scroll": "1",
+  "enable-visual-settings": "1",
+  "base-typo": {
+    "font-family": "Source Serif Pro",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "",
+    "font-style": "",
+    "font-size": "18px"
+  },
+  "body-font-color": {
+    "color": "#384b5b",
+    "alpha": "0.75",
+    "rgba": "rgba(56,75,91,0.75)"
+  },
+  "link-color": {
+    "color": "#03a9f4",
+    "alpha": "0.75",
+    "rgba": "rgba(3,169,244,0.75)"
+  },
+  "link-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "link-underline-color": {
+    "color": "#009688",
+    "alpha": "0.25",
+    "rgba": "rgba(0,150,136,0.25)"
+  },
+  "link-underline-hover": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "paragraph-styles": {
+    "font-family": "Source Serif Pro",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "",
+    "font-style": "",
+    "font-size": "18px",
+    "line-height": "26px",
+    "color": "#000000"
+  },
+  "heading-1": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "100",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "60px",
+    "line-height": "60px",
+    "color": "#03a9f4"
+  },
+  "heading-2": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "700",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "36px",
+    "color": "#384b5b"
+  },
+  "heading-3": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "30px",
+    "line-height": "30px",
+    "color": "#000000"
+  },
+  "heading-4": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "300",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "24px",
+    "line-height": "24px",
+    "color": "#000000"
+  },
+  "heading-5": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "20px",
+    "line-height": "20px",
+    "color": "#000000"
+  },
+  "heading-6": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "700",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "18px",
+    "line-height": "18px",
+    "color": "#000000"
+  },
+  "nav-button-typo": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "",
+    "font-style": "",
+    "font-size": "18px"
+  },
+  "nav-button-style": "circle",
+  "nav-button-style-rounded": "4",
+  "nav-button-icon-color": {
+    "color": "#ffffff",
+    "alpha": "0.75",
+    "rgba": "rgba(255,255,255,0.75)"
+  },
+  "nav-button-label-color": {
+    "color": "#ffffff",
+    "alpha": "0.75",
+    "rgba": "rgba(255,255,255,0.75)"
+  },
+  "nav-button-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "nav-button-border-color": {
+    "color": "#ffffff",
+    "alpha": "0.05",
+    "rgba": "rgba(255,255,255,0.05)"
+  },
+  "nav-button-bg": {
+    "color": "#ffffff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "nav-button-icon-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "nav-button-label-color-hover": {
+    "color": "#73efff",
+    "alpha": "1",
+    "rgba": "rgba(115,239,255,1)"
+  },
+  "nav-button-border-hover": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "nav-button-border-color-hover": {
+    "color": "#73efff",
+    "alpha": "1",
+    "rgba": "rgba(115,239,255,1)"
+  },
+  "nav-button-bg-hover": {
+    "color": "#73efff",
+    "alpha": "0.1",
+    "rgba": "rgba(115,239,255,0.1)"
+  },
+  "nav-button-icon-color-selected": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "nav-button-label-color-selected": {
+    "color": "#73efff",
+    "alpha": "1",
+    "rgba": "rgba(115,239,255,1)"
+  },
+  "nav-button-border-selected": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "nav-button-border-color-selected": {
+    "color": "#73efff",
+    "alpha": "0.5",
+    "rgba": "rgba(115,239,255,0.5)"
+  },
+  "nav-button-bg-selected": {
+    "color": "#ffffff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "icon-button-typo": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "100",
+    "font-style": "",
+    "font-size": "16px",
+    "line-height": "24px"
+  },
+  "icon-button-style": "rounded",
+  "icon-button-style-rounded": "6",
+  "icon-button-label-color": {
+    "color": "#000000",
+    "alpha": "1",
+    "rgba": "rgba(0,0,0,1)"
+  },
+  "icon-button-label-background-color": {
+    "color": "#ffffff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "icon-button-color": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "icon-button-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "icon-button-border-color": {
+    "color": "#ffffff",
+    "alpha": "0.15",
+    "rgba": "rgba(255,255,255,0.15)"
+  },
+  "icon-button-bg": {
+    "color": "#ffffff",
+    "alpha": "0.15",
+    "rgba": "rgba(255,255,255,0.15)"
+  },
+  "icon-button-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "icon-button-border-hover": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "icon-button-border-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "icon-button-bg-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "content-button-typo": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "font-size": "22px"
+  },
+  "content-button-color": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "content-button-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "content-button-border-color": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "content-button-bg": {
+    "color": "#009688",
+    "alpha": "0.1",
+    "rgba": "rgba(0,150,136,0.1)"
+  },
+  "content-button-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "content-button-border-hover": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "content-button-border-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "content-button-bg-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "input-typo": {
+    "font-family": "Source Serif Pro",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "",
+    "font-style": "",
+    "font-size": "22px"
+  },
+  "input-notification-typo": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "font-size": "16px",
+    "color": "#384b5b"
+  },
+  "input-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": "#000000"
+  },
+  "input-border-color": {
+    "color": "#03a9f4",
+    "alpha": "0.25",
+    "rgba": "rgba(3,169,244,0.25)"
+  },
+  "input-color": {
+    "color": "#384b5b",
+    "alpha": "0.75",
+    "rgba": "rgba(56,75,91,0.75)"
+  },
+  "input-background": {
+    "color": "#03a9f4",
+    "alpha": "0.03",
+    "rgba": "rgba(3,169,244,0.03)"
+  },
+  "input-placeholder-color": {
+    "color": "#384b5b",
+    "alpha": "0.5",
+    "rgba": "rgba(56,75,91,0.5)"
+  },
+  "input-shadow-size": "0",
+  "input-shadow-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "input-hover-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "input-hover-border-color": {
+    "color": "#009688",
+    "alpha": "0.75",
+    "rgba": "rgba(0,150,136,0.75)"
+  },
+  "input-hover-color": {
+    "color": "#384b5b",
+    "alpha": "0.75",
+    "rgba": "rgba(56,75,91,0.75)"
+  },
+  "input-hover-background-color": {
+    "color": "#ffffff",
+    "alpha": "0.15",
+    "rgba": "rgba(255,255,255,0.15)"
+  },
+  "input-hover-placeholder-color": {
+    "color": "#384b5b",
+    "alpha": "0.75",
+    "rgba": "rgba(56,75,91,0.75)"
+  },
+  "input-hover-shadow-size": "6",
+  "input-hover-shadow-color": {
+    "color": "#000000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "input-active-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "input-active-border-color": {
+    "color": "#673ab7",
+    "alpha": "0.75",
+    "rgba": "rgba(103,58,183,0.75)"
+  },
+  "input-active-color": {
+    "color": "#000000",
+    "alpha": "1",
+    "rgba": "rgba(0,0,0,1)"
+  },
+  "input-active-background-color": {
+    "color": "#ffffff",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "input-active-placeholder-color": {
+    "color": "#673ab7",
+    "alpha": "0.25",
+    "rgba": "rgba(103,58,183,0.25)"
+  },
+  "input-active-shadow-size": "8",
+  "input-active-shadow-color": {
+    "color": "#673ab7",
+    "alpha": "0.15",
+    "rgba": "rgba(103,58,183,0.15)"
+  },
+  "enable-blocks-visual-settings": "1",
+  "titles-title-color": {
+    "color": "#03a9f4",
+    "alpha": "1",
+    "rgba": "rgba(3,169,244,1)"
+  },
+  "titles-subtitle-color": {
+    "color": "#384b5b",
+    "alpha": "1",
+    "rgba": "rgba(56,75,91,1)"
+  },
+  "titles-divider-color": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "dividers-color": {
+    "color": "#384b5b",
+    "alpha": "0.75",
+    "rgba": "rgba(56,75,91,0.75)"
+  },
+  "contact-info-color": {
+    "color": "#384b5b",
+    "alpha": "0.75",
+    "rgba": "rgba(56,75,91,0.75)"
+  },
+  "contact-info-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "countdown-numbers": {
+    "font-family": "Source Serif Pro",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "700",
+    "font-style": ""
+  },
+  "countdown-numbers-color": {
+    "color": "#03a9f4",
+    "alpha": "1",
+    "rgba": "rgba(3,169,244,1)"
+  },
+  "countdown-numbers-bg": {
+    "color": "#03a9f4",
+    "alpha": "0.05",
+    "rgba": "rgba(3,169,244,0.05)"
+  },
+  "countdown-numbers-border": {
+    "border-top": "4px",
+    "border-right": "4px",
+    "border-bottom": "4px",
+    "border-left": "4px",
+    "border-style": "dashed",
+    "border-color": ""
+  },
+  "countdown-numbers-border-color": {
+    "color": "#03a9f4",
+    "alpha": "0.15",
+    "rgba": "rgba(3,169,244,0.15)"
+  },
+  "countdown-typo-labels": {
+    "font-family": "Roboto Slab",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "700",
+    "font-style": ""
+  },
+  "countdown-labels-color": {
+    "color": "#384b5b",
+    "alpha": "0.5",
+    "rgba": "rgba(56,75,91,0.5)"
+  },
+  "progress-bar-color": {
+    "color": "#673ab7",
+    "alpha": "0.75",
+    "rgba": "rgba(103,58,183,0.75)"
+  },
+  "progress-bar-border": {
+    "border-top": "4px",
+    "border-right": "4px",
+    "border-bottom": "4px",
+    "border-left": "4px",
+    "border-style": "double",
+    "border-color": ""
+  },
+  "progress-bar-border-color": {
+    "color": "#384b5b",
+    "alpha": "0.25",
+    "rgba": "rgba(56,75,91,0.25)"
+  },
+  "counter-features-counter-color": {
+    "color": "#673ab7",
+    "alpha": "0.75",
+    "rgba": "rgba(103,58,183,0.75)"
+  },
+  "counter-features-counter-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "counter-features-icon-color": {
+    "color": "#03a9f4",
+    "alpha": "0.5",
+    "rgba": "rgba(3,169,244,0.5)"
+  },
+  "counter-features-icon-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "counter-features-border-color": {
+    "color": "#03a9f4",
+    "alpha": "0.25",
+    "rgba": "rgba(3,169,244,0.25)"
+  },
+  "counter-features-border-color-hover": {
+    "color": "#673ab7",
+    "alpha": "0.5",
+    "rgba": "rgba(103,58,183,0.5)"
+  },
+  "counter-features-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "counter-features-background-color-hover": {
+    "color": "#673ab7",
+    "alpha": "1",
+    "rgba": "rgba(103,58,183,1)"
+  },
+  "icon-features-icon-color": {
+    "color": "#03a9f4",
+    "alpha": "0.5",
+    "rgba": "rgba(3,169,244,0.5)"
+  },
+  "icon-features-icon-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "icon-features-border-color": {
+    "color": "#03a9f4",
+    "alpha": "0.25",
+    "rgba": "rgba(3,169,244,0.25)"
+  },
+  "icon-features-border-color-hover": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "icon-features-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "icon-features-background-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "icon-list-icon-color": {
+    "color": "#673ab7",
+    "alpha": "0.75",
+    "rgba": "rgba(103,58,183,0.75)"
+  },
+  "icon-list-icon-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "icon-list-border-color": {
+    "color": "#ffffff",
+    "alpha": "0.3",
+    "rgba": "rgba(255,255,255,0.3)"
+  },
+  "icon-list-border-color-hover": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "icon-list-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "icon-list-background-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "map-border-color": {
+    "color": "#384b5b",
+    "alpha": "0.3",
+    "rgba": "rgba(56,75,91,0.3)"
+  },
+  "map-border-color-hover": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "map-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "map-background-color-hover": {
+    "color": "#009688",
+    "alpha": "0.15",
+    "rgba": "rgba(0,150,136,0.15)"
+  },
+  "gallery-thumb-border-size": "2",
+  "gallery-thumb-background-color": {
+    "color": "#384b5b",
+    "alpha": "0.1",
+    "rgba": "rgba(56,75,91,0.1)"
+  },
+  "gallery-thumb-background-color-hover": {
+    "color": "#009688",
+    "alpha": "0.1",
+    "rgba": "rgba(0,150,136,0.1)"
+  },
+  "gallery-thumb-border-color": {
+    "color": "#384b5b",
+    "alpha": "0.25",
+    "rgba": "rgba(56,75,91,0.25)"
+  },
+  "gallery-thumb-border-color-hover": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "progress-bars-value-color": {
+    "color": "#000000",
+    "alpha": "1",
+    "rgba": "rgba(0,0,0,1)"
+  },
+  "progress-bars-color": {
+    "color": "#009688",
+    "alpha": "0.75",
+    "rgba": "rgba(0,150,136,0.75)"
+  },
+  "progress-bars-background-color": {
+    "color": "#009688",
+    "alpha": "0.06",
+    "rgba": "rgba(0,150,136,0.06)"
+  },
+  "progress-bars-border-color": {
+    "color": "#009688",
+    "alpha": "0.1",
+    "rgba": "rgba(0,150,136,0.1)"
+  },
+  "shop-brand-color": {
+    "color": "#384b5b",
+    "alpha": "0.75",
+    "rgba": "rgba(56,75,91,0.75)"
+  },
+  "shop-bg-color": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "slider-nav-color": {
+    "color": "#03a9f4",
+    "alpha": "0.25",
+    "rgba": "rgba(3,169,244,0.25)"
+  },
+  "slider-nav-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "slider-nav-color-active": {
+    "color": "#03a9f4",
+    "alpha": "0.75",
+    "rgba": "rgba(3,169,244,0.75)"
+  },
+  "slider-nav-arrow-color": {
+    "color": "#03a9f4",
+    "alpha": "0.5",
+    "rgba": "rgba(3,169,244,0.5)"
+  },
+  "slider-nav-arrow-color-hover": {
+    "color": "#009688",
+    "alpha": "1",
+    "rgba": "rgba(0,150,136,1)"
+  },
+  "team-thumb-border-color": {
+    "color": "#000000",
+    "alpha": "0.25",
+    "rgba": "rgba(0,0,0,0.25)"
+  },
+  "team-thumb-border-color-hover": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "team-thumb-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "team-thumb-background-color-hover": {
+    "color": "#03a9f4",
+    "alpha": "0.15",
+    "rgba": "rgba(3,169,244,0.15)"
+  },
+  "testimonials-icon-color": {
+    "color": "#384b5b",
+    "alpha": "0.3",
+    "rgba": "rgba(56,75,91,0.3)"
+  },
+  "testimonials-icon-color-hover": {
+    "color": "#4caf50",
+    "alpha": "1",
+    "rgba": "rgba(76,175,80,1)"
+  },
+  "testimonials-divider-color": {
+    "color": "#384b5b",
+    "alpha": "0.15",
+    "rgba": "rgba(56,75,91,0.15)"
+  },
+  "testimonials-divider-color-hover": {
+    "color": "#673ab7",
+    "alpha": "0.75",
+    "rgba": "rgba(103,58,183,0.75)"
+  },
+  "testimonials-avatar-border-color": {
+    "color": "#384b5b",
+    "alpha": "0.25",
+    "rgba": "rgba(56,75,91,0.25)"
+  },
+  "testimonials-avatar-border-color-hover": {
+    "color": "#009688",
+    "alpha": "0.75",
+    "rgba": "rgba(0,150,136,0.75)"
+  },
+  "testimonials-avatar-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "testimonials-avatar-background-color-hover": {
+    "color": "#03a9f4",
+    "alpha": "0.15",
+    "rgba": "rgba(3,169,244,0.15)"
+  },
+  "video-border-color": {
+    "color": "#384b5b",
+    "alpha": "0.3",
+    "rgba": "rgba(56,75,91,0.3)"
+  },
+  "video-border-color-hover": {
+    "color": "#009688",
+    "alpha": "0.5",
+    "rgba": "rgba(0,150,136,0.5)"
+  },
+  "video-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "video-background-color-hover": {
+    "color": "#009688",
+    "alpha": "0.15",
+    "rgba": "rgba(0,150,136,0.15)"
+  },
+  "load-other-assets": "0",
+  "strip-theme-assets": "1",
+  "whitelist-ips": "",
+  "purchase-key": "",
+  "redux-backup": 1
+}

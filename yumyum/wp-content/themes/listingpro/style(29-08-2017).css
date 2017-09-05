@@ -1,0 +1,280 @@
+/*
+        Theme Name: Listingpro Child
+		Text Domain: listingpro child
+        Theme URI: https://themeforest.net/item/listingpro-multipurpose-directory-theme/19386460
+        Description: ListingPro Child is a complete solution for any type of directory/Listing theme.
+        Author: Green Developer
+        Author URI: https://themeforest.net/user/cridiostudio
+		Version: 1.0.1
+		License: GNU General Public License version 3.0
+		License URI: http://www.gnu.org/licenses/gpl-3.0.html
+        Tags:one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-image-header, featured-images, post-formats, sticky-post, theme-options, translation-ready
+*/
+
+
+/* .left-menu ul {
+    padding: 0 0 0 27px;
+} */
+/* .left-menu > li > a {
+    padding: 15px 0 0 36px;
+} */
+
+element {
+}
+/*.author-page .account-settings {
+    padding: 4px 13px;
+}*/ /*f*/
+
+.menu-item i._before, .rtl .menu-item i._after {
+    margin:0 20px 0 0;
+    font-size: 25px;
+}
+/* .menu-item i._before, .rtl .menu-item i._after:hover{
+color:#ff5e3a;
+} */
+.menu-item i._mi:hover{
+	color:#ff5e3a;    
+}
+.left-menu {
+    padding: 8px 0;
+}
+.left-menu li a {
+    line-height: 24px;
+    font-weight: 700;
+    font-family: arial;
+    font-size: 14px;
+    transition: all .3s ease;
+}
+
+/* .left-menu li a {
+    line-height: 24px;
+    font-weight: bold;
+} */
+
+.left-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0 ;
+}
+
+.left-menu li {
+	position: relative;
+}
+
+.left-menu li a {
+	background-color: transparent;
+	line-height: 24px;
+	text-decoration: none;
+}
+
+.left-menu > li {
+	margin-right: 20px;
+}
+
+.left-menu > li > a {
+	padding: 28px 0 0 25px;
+}
+
+.left-menu ul ul {
+	border: 0;
+	/*float: left;
+	left: -999em;*/ /*f*/
+	position: absolute;
+	/*top: 3.4em;*/ /*f*/
+	z-index: 99999;
+}
+
+.left-menu > li > ul {
+	border-radius: 0 0 .25rem .25rem;
+	border-top: 0;
+}
+
+.left-menu ul ul {
+	border-radius: 0 .25rem .25rem .25rem;
+}
+
+.left-menu ul ul ul {
+	/*left: -999em;*/ /*f*/
+	top: 0;
+}
+
+.left-menu ul ul a {
+	padding: 5px 10px;
+	/*width: 200px;*/ /*f*/
+}
+
+.left-menu ul li:hover > ul,
+.left-menu ul li.focus > ul {
+	left: auto;
+} 
+
+/*.left-menu ul ul li:hover > ul,
+.left-menu ul ul li.focus > ul {
+	left: 99%;
+} */ /*f*/
+.left-menu .dropdown-menu > .active > a:hover, 
+.left-menu .dropdown-menu > .active > a:focus {
+	color: #242424;
+	background-color: #ea005d;
+}
+ul {
+    list-style: none;
+    margin-top: 20px;
+} 
+
+li {
+	position: relative;
+}
+li > a {
+	padding: 28px 0 0 25px;
+	color:white;
+}
+  
+  
+/********f 23-8-2017 ********/
+.your-profile-menu {
+    padding: 0;
+}
+#cssmenu > ul#menu-submenu > li.open > a{
+	box-shadow: none;
+}
+.more-dropdown ul{
+	margin-top: 0;
+}
+#menu-your-account {
+    padding: 0;
+    margin: 0;
+}
+.more-dropdown a i{
+	color: #9a9fbf;
+}
+.account-settings svg {
+    fill: #9a9fbf;
+	margin-right: 17px;
+}
+.logo img {
+    width: 45px;
+}
+/********f 25-8-2017 ********/
+/*#buddypress #header-cover-image {
+    padding-top: 35%;
+}
+#buddypress #item-header-cover-image #item-header-avatar {
+   margin-top: 0;
+   float: none;
+}*/
+
+#buddypress div#item-header #item-header-cover-image #item-header-content {
+    float: none;
+    margin-left: 0;
+    margin-top: 0;
+	text-align: center;
+}
+#buddypress #item-header-cover-image #item-header-avatar {
+    float: none;
+}
+#buddypress #header-cover-image {
+    height: 350px;
+}
+.profile-section {
+    padding: 38px 0 !important;
+}
+#buddypress #item-header-cover-image {
+    top: 260px;
+}
+.top-header-author .author-thumb {
+    border: 6px solid #fff !important;
+}
+#buddypress #item-header-cover-image #item-header-avatar img.avatar {
+	border:none; 
+	width: 100%;
+    height: 100%;
+    margin: 0;
+}
+#buddypress #item-header .ui-block {
+    min-height: 510px;
+}
+.top-header-author {
+    position: relative;
+    left: 0;
+    transform: inherit;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    margin-top: -10px !important;
+}
+.remove_margin{
+	margin:0 !important;	
+}
+#buddypress div.item-list-tabs ul li a {
+    color: forestgreen;
+}
+.chng {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.66);
+    border: 1px solid #666;
+	display: none;
+}
+.change_cover{
+	position: relative;
+	border-radius: 2px;
+    padding: 5px 15px;
+    margin: 10px;
+	font-size: 14px;
+}
+.change_profile i {
+    display: block;
+    margin: 0 auto;
+}
+.change_profile{
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	text-align: center;
+}
+.header_cover_img:hover .change_cover{
+	display: inline-block;
+}
+.change_profile_img:hover .change_profile{
+	display: block;
+}
+/*custom animation*/
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.fadeIn {
+  animation-name: fadeIn;
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+}
+/*end custom animation*/
+
+.search-bar .form-group.with-button input {
+    background-color: #fafafa;
+    border-radius: inherit;
+	max-width: 233px;
+	min-width: 233px;
+}

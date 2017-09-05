@@ -1,0 +1,143 @@
+/*
+        Theme Name: Listingpro Child
+		Text Domain: listingpro child
+        Theme URI: https://themeforest.net/item/listingpro-multipurpose-directory-theme/19386460
+        Description: ListingPro Child is a complete solution for any type of directory/Listing theme.
+        Author: Green Developer
+        Author URI: https://themeforest.net/user/cridiostudio
+		Version: 1.0.1
+		License: GNU General Public License version 3.0
+		License URI: http://www.gnu.org/licenses/gpl-3.0.html
+        Tags:one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-image-header, featured-images, post-formats, sticky-post, theme-options, translation-ready
+*/
+
+
+/* .left-menu ul {
+    padding: 0 0 0 27px;
+} */
+/* .left-menu > li > a {
+    padding: 15px 0 0 36px;
+} */
+
+element {
+}
+.author-page .account-settings {
+    padding: 4px 13px;
+ 
+}
+
+.menu-item i._before, .rtl .menu-item i._after {
+    margin:0 22px 0 0;
+    font-size: 28px;
+}
+/* .menu-item i._before, .rtl .menu-item i._after:hover{
+color:#ff5e3a;
+} */
+.menu-item i._mi:hover{
+	color:#ff5e3a;    
+}
+.left-menu {
+    padding: 8px 0;
+}
+.left-menu li a {
+    line-height: 24px;
+    font-weight: 700;
+    font-family: arial;
+    font-size: 14px;
+    transition: all .3s ease;
+}
+
+/* .left-menu li a {
+    line-height: 24px;
+    font-weight: bold;
+} */
+
+.left-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0 ;
+}
+
+.left-menu li {
+	position: relative;
+}
+
+.left-menu li a {
+	background-color: transparent;
+	line-height: 24px;
+	text-decoration: none;
+}
+
+.left-menu > li {
+	margin-right: 20px;
+}
+
+.left-menu > li > a {
+	padding: 28px 0 0 25px;
+}
+
+.left-menu ul ul {
+	border: 0;
+	float: left;
+	left: -999em;
+	position: absolute;
+	top: 3.4em;
+	z-index: 99999;
+}
+
+.left-menu > li > ul {
+	border-radius: 0 0 .25rem .25rem;
+	border-top: 0;
+}
+
+.left-menu ul ul {
+	border-radius: 0 .25rem .25rem .25rem;
+}
+
+.left-menu ul ul ul {
+	left: -999em;
+	top: 0;
+}
+
+.left-menu ul ul a {
+	padding: 5px 10px;
+	width: 200px;
+}
+
+/* .left-menu ul li:hover > ul,
+.left-menu ul li.focus > ul {
+	left: auto;
+}  */
+
+.left-menu ul ul li:hover > ul,
+.left-menu ul ul li.focus > ul {
+	left: 99%;
+} 
+.left-menu .dropdown-menu > .active > a:hover, 
+.left-menu .dropdown-menu > .active > a:focus {
+	color: #242424;
+	background-color: #ea005d;
+}
+ul {
+    list-style: none;
+    margin-top: 20px;
+} 
+
+li {
+	position: relative;
+}
+li > a {
+	padding: 28px 0 0 25px;
+	color:white;
+}
+.blog-post{
+	margin-top:40px;
+	
+}
+.side-bar{
+	margin-top:40px;
+	
+}
+.header-content-wrapper{
+	background:green;
+}

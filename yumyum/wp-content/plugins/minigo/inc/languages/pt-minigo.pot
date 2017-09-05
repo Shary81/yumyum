@@ -1,0 +1,4488 @@
+# Copyright (C) 2013 BJ Lazy Load
+# This file is distributed under the same license as the BJ Lazy Load package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MiniGO v3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bj-lazy-load\n"
+"POT-Creation-Date: 2016-10-30 22:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Premio Themes <hello@premiothemes.com>\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: premio-fields\n"
+
+#: admin/config.php:31 admin/config.php:32
+msgid "MiniGO Options"
+msgstr ""
+
+#: admin/config.php:51
+msgid "Online Documentation"
+msgstr ""
+
+#: admin/config.php:51
+msgid "Preview"
+msgstr ""
+
+#: admin/config.php:105
+msgid "Main Settings"
+msgstr ""
+
+#: admin/config.php:106
+msgid "Start setting up MiniGO here :)"
+msgstr ""
+
+#: admin/config.php:113
+msgid "Plugin Mode"
+msgstr ""
+
+#: admin/config.php:114 admin/config.php:1226
+msgid "Off"
+msgstr ""
+
+#: admin/config.php:114
+msgid "MiniGO will only be displayed in the preview mode."
+msgstr ""
+
+#: admin/config.php:115 admin/config.php:119
+msgid "Plugin On"
+msgstr ""
+
+#: admin/config.php:115
+msgid "Visitors will see MiniGO while you work on your theme."
+msgstr ""
+
+#: admin/config.php:115
+msgid "HTTP codes will be normal so search bots will index MiniGO."
+msgstr ""
+
+#: admin/config.php:116 admin/config.php:120
+msgid "Maintenance"
+msgstr ""
+
+#: admin/config.php:116
+msgid "Use whenever you're doing work on an existing website."
+msgstr ""
+
+#: admin/config.php:116
+msgid ""
+"This keeps the search engine bots from indexing MiniGO by sending a HTTP 503 "
+"header."
+msgstr ""
+
+#: admin/config.php:118
+msgid "Plugin Off"
+msgstr ""
+
+#: admin/config.php:122
+msgid "Choose the mode in which you want the plugin to operate in."
+msgstr ""
+
+#: admin/config.php:122
+msgid ""
+"Note that, when enabled, the plugin will only be visible to visitors that "
+"aren't logged in."
+msgstr ""
+
+#: admin/config.php:129
+msgid "Display MiniGO on:"
+msgstr ""
+
+#: admin/config.php:130
+msgid ""
+"You can use MiniGO to placehold the entire site, just the front page or a "
+"custom list of urls. Quite handy."
+msgstr ""
+
+#: admin/config.php:132
+msgid "Entire site"
+msgstr ""
+
+#: admin/config.php:133
+msgid "Front page"
+msgstr ""
+
+#: admin/config.php:134
+msgid "Custom URL list"
+msgstr ""
+
+#: admin/config.php:149
+msgid "Custom URL list mode"
+msgstr ""
+
+#: admin/config.php:151
+msgid "Whitelist"
+msgstr ""
+
+#: admin/config.php:151
+msgid ""
+"MiniGO will only be displayed for the <strong>Custom URLs</strong> specified "
+"in the field below."
+msgstr ""
+
+#: admin/config.php:152
+msgid "Blacklist"
+msgstr ""
+
+#: admin/config.php:152
+msgid ""
+"MiniGO will be displayed for all URLs except for the <strong>Custom URLs</"
+"strong> specified in the field below."
+msgstr ""
+
+#: admin/config.php:160
+msgid "Custom URLs"
+msgstr ""
+
+#: admin/config.php:161
+msgid "Write URLs one per line, including the http:// part of the url."
+msgstr ""
+
+#: admin/config.php:161
+msgid "You can use an asterisk * as a wildcard."
+msgstr ""
+
+#: admin/config.php:162
+msgid "For example: "
+msgstr ""
+
+#: admin/config.php:162
+msgid "only matches that exact URL while"
+msgstr ""
+
+#: admin/config.php:162
+msgid "would match any URL starting with "
+msgstr ""
+
+#: admin/config.php:163
+msgid "Also,"
+msgstr ""
+
+#: admin/config.php:163
+msgid "would match"
+msgstr ""
+
+#: admin/config.php:163
+msgid "as well as"
+msgstr ""
+
+#: admin/config.php:163
+msgid "or any other subdomain."
+msgstr ""
+
+#: admin/config.php:176
+msgid "Share MiniGO Shortcodes?"
+msgstr ""
+
+#: admin/config.php:177
+msgid ""
+"Turn on if you want to use MiniGO Shortcodes in your Theme (even if MiniGO "
+"is Off)."
+msgstr ""
+
+#: admin/config.php:187
+msgid "Skin Selection"
+msgstr ""
+
+#: admin/config.php:195
+msgid "Choose a Base (Skin)"
+msgstr ""
+
+#: admin/config.php:196
+msgid ""
+"After you load a base you can then customize it via the admin options as "
+"well as custom css."
+msgstr ""
+
+#: admin/config.php:196
+msgid ""
+"Loading a base replaces all your options including content, so, ideally, set "
+"this up to your liking before you start building your content, otherwise "
+"make sure to back it up."
+msgstr ""
+
+#: admin/config.php:198
+msgid "v3 Dark - 3D, Fully Featured"
+msgstr ""
+
+#: admin/config.php:199
+msgid "v3 White - One Page, All Features "
+msgstr ""
+
+#: admin/config.php:200
+msgid "Original Dark - Simple, Clean Base"
+msgstr ""
+
+#: admin/config.php:201
+msgid "Original Light - Simple, Clean Base"
+msgstr ""
+
+#: admin/config.php:202
+msgid "5 Minutes - Minimal, Quick Page"
+msgstr ""
+
+#: admin/config.php:203
+msgid "Studio - One Page, Left Menu"
+msgstr ""
+
+#: admin/config.php:204
+msgid "Freelancer - One Page, Right Menu"
+msgstr ""
+
+#: admin/config.php:205
+msgid "Startup - 3D, Split Bottom Menu"
+msgstr ""
+
+#: admin/config.php:206
+msgid "Product - One Page, Top Menu"
+msgstr ""
+
+#: admin/config.php:207
+msgid "Landing - One Page, No Menu"
+msgstr ""
+
+#: admin/config.php:208
+msgid "App - 3D, Bottom Menu"
+msgstr ""
+
+#: admin/config.php:209
+msgid "Cafe - One Page, Left Menu"
+msgstr ""
+
+#: admin/config.php:210
+msgid "Maintenance - 3D, Corner Menu"
+msgstr ""
+
+#: admin/config.php:211
+msgid "Automotive - 3D, Split Menu"
+msgstr ""
+
+#: admin/config.php:212
+msgid "Resume - One Page, Corner Menu"
+msgstr ""
+
+#: admin/config.php:213
+msgid "Domain Sale - 3D, Left Menu"
+msgstr ""
+
+#: admin/config.php:223
+msgid "Site Options"
+msgstr ""
+
+#: admin/config.php:232
+msgid "Site Title"
+msgstr ""
+
+#: admin/config.php:233
+msgid "Used as the window/tab title."
+msgstr ""
+
+#: admin/config.php:241 admin/config.php:332
+msgid "Logo"
+msgstr ""
+
+#: admin/config.php:242 admin/config.php:333
+msgid ""
+"Use the <em>Logo Width</em> and <em>Logo Height</em> settings below if you "
+"want to force a certain size. For example, set it to half the actual logo "
+"size to make it look sharper on Retina displays."
+msgstr ""
+
+#: admin/config.php:243 admin/config.php:334 admin/config.php:4048
+#: admin/config.php:4100 admin/config.php:4179 admin/config.php:4340
+#: admin/config.php:4448 admin/config.php:4567 admin/config.php:4671
+#: admin/config.php:4957 admin/config.php:5195 admin/config.php:5353
+#: admin/config.php:5442 admin/config.php:5650
+msgid "This can be accessed by using the "
+msgstr ""
+
+#: admin/config.php:243 admin/config.php:334 admin/config.php:4048
+#: admin/config.php:4100 admin/config.php:4179 admin/config.php:4340
+#: admin/config.php:4448 admin/config.php:4567 admin/config.php:4671
+#: admin/config.php:4957 admin/config.php:5195 admin/config.php:5353
+#: admin/config.php:5442 admin/config.php:5650
+msgid "shortcode in your pages."
+msgstr ""
+
+#: admin/config.php:249 admin/config.php:342
+msgid "Logo Width"
+msgstr ""
+
+#: admin/config.php:250 admin/config.php:343
+msgid "Maximum width in pixels."
+msgstr ""
+
+#: admin/config.php:257 admin/config.php:352
+msgid "Logo Height"
+msgstr ""
+
+#: admin/config.php:258 admin/config.php:353
+msgid "Maximum height in pixels."
+msgstr ""
+
+#: admin/config.php:267
+msgid "Favicon"
+msgstr ""
+
+#: admin/config.php:268
+msgid "Use a 16x16 .ico or .png file."
+msgstr ""
+
+#: admin/config.php:269
+msgid "This is the icon displayed in the browser title bar."
+msgstr ""
+
+#: admin/config.php:276
+msgid "SEO Options"
+msgstr ""
+
+#: admin/config.php:277
+msgid ""
+"Here you can edit your meta tags to help search engines index and list your "
+"site."
+msgstr ""
+
+#: admin/config.php:277
+msgid ""
+"Please note that once indexed, it will take a while for search engines to "
+"update your SERP snippet (text that shows up in searches) if you decide to "
+"change it after indexing."
+msgstr ""
+
+#: admin/config.php:282
+msgid "Meta Title"
+msgstr ""
+
+#: admin/config.php:283
+msgid "This typically shows up as the title for your search engine listing."
+msgstr ""
+
+#: admin/config.php:283
+msgid ""
+"Ideally try to keep it under 50 characters, after 70 google truncates it."
+msgstr ""
+
+#: admin/config.php:288
+msgid "Meta Description"
+msgstr ""
+
+#: admin/config.php:289
+msgid ""
+"This typically shows up as the short description for your search engine "
+"listing."
+msgstr ""
+
+#: admin/config.php:289
+msgid ""
+"Ideally up to 200 characters, some text might be truncated by google at "
+"150-160 chars so best keep it short."
+msgstr ""
+
+#: admin/config.php:294
+msgid "Google Analytics tracking code"
+msgstr ""
+
+#: admin/config.php:295
+msgid "Copy your Tracking ID (UA-XXXXXXXX-X)"
+msgstr ""
+
+#: admin/config.php:304
+msgid "Loader"
+msgstr ""
+
+#: admin/config.php:311
+msgid "Display Logo on loading screen"
+msgstr ""
+
+#: admin/config.php:312
+msgid "Shows your logo while loading."
+msgstr ""
+
+#: admin/config.php:318
+msgid "Logo to Show"
+msgstr ""
+
+#: admin/config.php:319
+msgid ""
+"If you want to display a different logo on the loading screen select one "
+"here, otherwise leave default."
+msgstr ""
+
+#: admin/config.php:363
+msgid "Animated Page Intro?"
+msgstr ""
+
+#: admin/config.php:364
+msgid ""
+"Use a fancy animation after loading is done to display the content. Disable "
+"for no animation."
+msgstr ""
+
+#: admin/config.php:382
+msgid "Loading Animation Color"
+msgstr ""
+
+#: admin/config.php:383
+msgid "Pick a color to use for the Loading Animation."
+msgstr ""
+
+#: admin/config.php:393
+msgid "Loader Background Color"
+msgstr ""
+
+#: admin/config.php:394
+msgid "Background color of the loader screen, solid color is recommended."
+msgstr ""
+
+#: admin/config.php:403
+msgid "Loader Background Gradient?"
+msgstr ""
+
+#: admin/config.php:404
+msgid "Loader Background Color gets replaced with this gradient."
+msgstr ""
+
+#: admin/config.php:420
+msgid "Gradient Loader Angle"
+msgstr ""
+
+#: admin/config.php:421
+msgid ""
+"If you want more control over the direction of the gradient, you can define "
+"an angle."
+msgstr ""
+
+#: admin/config.php:434
+msgid "Navigation"
+msgstr ""
+
+#: admin/config.php:449
+msgid "Use Hash Urls"
+msgstr ""
+
+#: admin/config.php:450
+msgid ""
+"Choose whether or not you want to use hash urls: yourwebsite.com/#services"
+msgstr ""
+
+#: admin/config.php:455
+msgid "Navigation Type"
+msgstr ""
+
+#: admin/config.php:456
+msgid ""
+"One Page Navigation stacks sections below each others and scrolls to each "
+"one, where as 3D Navigation keeps them separated on the sides and animates "
+"them into view when selected."
+msgstr ""
+
+#: admin/config.php:474
+msgid "Navigation Position"
+msgstr ""
+
+#: admin/config.php:475
+msgid "Choose where you would like to display the navigation, vertically."
+msgstr ""
+
+#: admin/config.php:477 admin/config.php:680
+msgid "Top"
+msgstr ""
+
+#: admin/config.php:478
+msgid "Middle"
+msgstr ""
+
+#: admin/config.php:479
+msgid "Bottom"
+msgstr ""
+
+#: admin/config.php:486
+msgid "Navigation Alignment"
+msgstr ""
+
+#: admin/config.php:487
+msgid "Choose where you would like to display the navigation, horizontally."
+msgstr ""
+
+#: admin/config.php:490
+msgid "Left"
+msgstr ""
+
+#: admin/config.php:491
+msgid "Center"
+msgstr ""
+
+#: admin/config.php:492
+msgid "Right"
+msgstr ""
+
+#: admin/config.php:499
+msgid "Navigation Orientation"
+msgstr ""
+
+#: admin/config.php:500
+msgid ""
+"Choose the orientation of the navigation, horizontal for in-line, vertical "
+"for a stack."
+msgstr ""
+
+#: admin/config.php:502
+msgid "Vertical"
+msgstr ""
+
+#: admin/config.php:503
+msgid "Horizontal"
+msgstr ""
+
+#: admin/config.php:517
+msgid "Navigation Style"
+msgstr ""
+
+#: admin/config.php:518
+msgid "Changes the style of the Navigation."
+msgstr ""
+
+#: admin/config.php:520 admin/config.php:567 admin/config.php:587
+msgid "Default"
+msgstr ""
+
+#: admin/config.php:521 admin/config.php:568 admin/config.php:588
+msgid "Huge"
+msgstr ""
+
+#: admin/config.php:522 admin/config.php:569 admin/config.php:589
+msgid "Large"
+msgstr ""
+
+#: admin/config.php:523 admin/config.php:570 admin/config.php:590
+msgid "Medium"
+msgstr ""
+
+#: admin/config.php:524 admin/config.php:571 admin/config.php:591
+msgid "Small"
+msgstr ""
+
+#: admin/config.php:525 admin/config.php:572 admin/config.php:592
+#: premio-fields/field-counter-features/field-icon-features.php:127
+#: premio-fields/field-icon-features/field-icon-features.php:127
+msgid "Text"
+msgstr ""
+
+#: admin/config.php:526 admin/config.php:573 admin/config.php:593
+msgid "Tablet"
+msgstr ""
+
+#: admin/config.php:527 admin/config.php:574 admin/config.php:594
+msgid "Mobile"
+msgstr ""
+
+#: admin/config.php:528 admin/config.php:575 admin/config.php:595
+msgid "Expanding"
+msgstr ""
+
+#: admin/config.php:529 admin/config.php:576 admin/config.php:596
+msgid "Hide"
+msgstr ""
+
+#: admin/config.php:537
+msgid "Navigation Labels"
+msgstr ""
+
+#: admin/config.php:538
+msgid "Choose how to display the navigation labels."
+msgstr ""
+
+#: admin/config.php:540
+msgid "Always Show"
+msgstr ""
+
+#: admin/config.php:541
+msgid "Show on Hover"
+msgstr ""
+
+#: admin/config.php:542
+msgid "Never Show"
+msgstr ""
+
+#: admin/config.php:549
+msgid "Adaptive Navigation Style?"
+msgstr ""
+
+#: admin/config.php:550
+msgid ""
+"Experimental, adapts the style of the navigation to the users viewport for "
+"the best fit."
+msgstr ""
+
+#: admin/config.php:550
+msgid " Most obvious when you have many pages and big buttons."
+msgstr ""
+
+#: admin/config.php:556
+msgid "Responsive Navigation?"
+msgstr ""
+
+#: admin/config.php:557
+msgid "Turn responsive behavior on or off for mobile devices."
+msgstr ""
+
+#: admin/config.php:557
+msgid ""
+"It's recommended you keep this option turned on unless you're doing special "
+"customizations requiring it off."
+msgstr ""
+
+#: admin/config.php:563
+msgid "Navigation Style - Tablet"
+msgstr ""
+
+#: admin/config.php:564
+msgid "Changes the style of the Navigation on Tablet Devices."
+msgstr ""
+
+#: admin/config.php:583
+msgid "Navigation Style - Mobile"
+msgstr ""
+
+#: admin/config.php:584
+msgid "Changes the style of the Navigation on Mobile Devices."
+msgstr ""
+
+#: admin/config.php:612
+msgid "Navigation Background Color"
+msgstr ""
+
+#: admin/config.php:613
+msgid "Show a background behind the navigation (optional)."
+msgstr ""
+
+#: admin/config.php:613 admin/config.php:624 admin/config.php:863
+#: admin/config.php:876
+msgid "Select a color and opacity to apply, set opacity to 0 for none."
+msgstr ""
+
+#: admin/config.php:623
+msgid "Navigation Background Color - Mobile"
+msgstr ""
+
+#: admin/config.php:624
+msgid "In mobile view, show a background behind the navigation (recommended)."
+msgstr ""
+
+#: admin/config.php:641
+msgid "Close Button Label"
+msgstr ""
+
+#: admin/config.php:643
+msgid ""
+"The label of the button that appears when navigating away front the front "
+"page - 3D Nav Only."
+msgstr ""
+
+#: admin/config.php:649
+msgid "Close Button Icon"
+msgstr ""
+
+#: admin/config.php:650
+msgid ""
+"The icon of the button that appears when navigating away front the front "
+"page - 3D Nav Only."
+msgstr ""
+
+#: admin/config.php:661
+msgid "To Top Position"
+msgstr ""
+
+#: admin/config.php:662
+msgid "Reposition the To Top Button, One Page Nav Only."
+msgstr ""
+
+#: admin/config.php:665
+msgid "Don't show"
+msgstr ""
+
+#: admin/config.php:666
+msgid "Top Left"
+msgstr ""
+
+#: admin/config.php:667
+msgid "Top Right"
+msgstr ""
+
+#: admin/config.php:668
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/config.php:669
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/config.php:676
+msgid "To Top Label"
+msgstr ""
+
+#: admin/config.php:677
+msgid "Text that appears on hovering the Go to Top Button - One Page Nav Only."
+msgstr ""
+
+#: admin/config.php:685
+msgid "To Top Button Icon"
+msgstr ""
+
+#: admin/config.php:686
+msgid "The icon of the button that top - One Page Nav Only."
+msgstr ""
+
+#: admin/config.php:698
+msgid ""
+"The button that opens the menu if the Expanding navigation style is used."
+msgstr ""
+
+#: admin/config.php:704
+msgid "Menu Button Label"
+msgstr ""
+
+#: admin/config.php:705 admin/config.php:724
+msgid "The label of the menu button"
+msgstr ""
+
+#: admin/config.php:712
+msgid "Menu Button Icon"
+msgstr ""
+
+#: admin/config.php:713 admin/config.php:732
+msgid "The icon of the menu button."
+msgstr ""
+
+#: admin/config.php:723
+msgid "Menu Close Button Label"
+msgstr ""
+
+#: admin/config.php:731
+msgid "Menu Close Button Icon"
+msgstr ""
+
+#: admin/config.php:746
+msgid "Footer Navigation"
+msgstr ""
+
+#: admin/config.php:747
+msgid ""
+"Serves as a footer or sidebar, shows the icon links that you can set up in "
+"the shortcodes area."
+msgstr ""
+
+#: admin/config.php:756
+msgid "Show Footer?"
+msgstr ""
+
+#: admin/config.php:757
+msgid "Display the Icon Menu as a footer?."
+msgstr ""
+
+#: admin/config.php:771
+msgid "Footer Visibility"
+msgstr ""
+
+#: admin/config.php:772
+msgid "Controls on which devices the footer is displayed."
+msgstr ""
+
+#: admin/config.php:794
+msgid "Footer Sizing"
+msgstr ""
+
+#: admin/config.php:795
+msgid "Controls the size of the footer links and labels."
+msgstr ""
+
+#: admin/config.php:815
+msgid "Footer Vertical Position"
+msgstr ""
+
+#: admin/config.php:816
+msgid ""
+"You can position the footer bar at the top, middle or bottom of the screen."
+msgstr ""
+
+#: admin/config.php:828
+msgid "Footer Horizontal Align"
+msgstr ""
+
+#: admin/config.php:829
+msgid ""
+"You can align the footer bar to the left, center or right of the screen."
+msgstr ""
+
+#: admin/config.php:841
+msgid "Footer Orientation"
+msgstr ""
+
+#: admin/config.php:842
+msgid ""
+"Choose the orientation of the footer, horizontal for in-line, vertical for a "
+"stack."
+msgstr ""
+
+#: admin/config.php:862
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/config.php:863
+msgid "Show a background behind the footer (optional)."
+msgstr ""
+
+#: admin/config.php:875
+msgid "Footer Background Color - Mobile"
+msgstr ""
+
+#: admin/config.php:876
+msgid "In mobile view, show a background behind the footer (recommended)."
+msgstr ""
+
+#: admin/config.php:909
+msgid "Background"
+msgstr ""
+
+#: admin/config.php:917
+#: premio-fields/field-progress-bars/field-progress-bars.php:148
+msgid "Background Color"
+msgstr ""
+
+#: admin/config.php:918
+msgid "The main background color."
+msgstr ""
+
+#: admin/config.php:926
+msgid "Background Type"
+msgstr ""
+
+#: admin/config.php:927
+msgid ""
+"Choose whether you want a solid background, a slideshow or a video as "
+"background."
+msgstr ""
+
+#: admin/config.php:927
+msgid "There are 3 types of slideshow transition effects."
+msgstr ""
+
+#: admin/config.php:927
+msgid ""
+"The Video type uses your own video files, while YouTube allows you to use "
+"any YouTube video or playlist."
+msgstr ""
+
+#: admin/config.php:928
+msgid "Important notice : "
+msgstr ""
+
+#: admin/config.php:928
+msgid ""
+"Videos don't auto-play on iOS devices (iPhone, iPad, iPod). Apple disabled "
+"this on purpose. Also, videos will not be loaded on slow network connections "
+"on touch devices."
+msgstr ""
+
+#: admin/config.php:930
+msgid "Solid Color"
+msgstr ""
+
+#: admin/config.php:931
+msgid "Slideshow - Ken Burns"
+msgstr ""
+
+#: admin/config.php:932
+msgid "Slideshow - Fade"
+msgstr ""
+
+#: admin/config.php:933
+msgid "Slideshow - Continuous Fade"
+msgstr ""
+
+#: admin/config.php:934
+msgid "Video"
+msgstr ""
+
+#: admin/config.php:935
+msgid "YouTube"
+msgstr ""
+
+#: admin/config.php:936
+msgid "Vimeo"
+msgstr ""
+
+#: admin/config.php:945
+msgid "Time between slides"
+msgstr ""
+
+#: admin/config.php:946
+msgid "Number of seconds each slide is visible for."
+msgstr ""
+
+#: admin/config.php:955
+msgid "Ken Burns - Minimum Scale"
+msgstr ""
+
+#: admin/config.php:956
+msgid ""
+"Minimum scale of the image. The value will be randomized for every slide "
+"within the min/max limits."
+msgstr ""
+
+#: admin/config.php:957
+msgid "Use a minimum of 1.0"
+msgstr ""
+
+#: admin/config.php:966
+msgid "Ken Burns - Maximum Scale"
+msgstr ""
+
+#: admin/config.php:967
+msgid ""
+"Maximum scale of the image. This value will be randomized for every slide "
+"within the min/max limits."
+msgstr ""
+
+#: admin/config.php:968
+msgid "This needs to be higher than Minimum Scale."
+msgstr ""
+
+#: admin/config.php:977
+msgid "Ken Burns - Minimum Movement"
+msgstr ""
+
+#: admin/config.php:978
+msgid ""
+"Minimum movement of the image, in percentages. The actual value will be "
+"randomized for every slide, all within the min/max limits. Note that this is "
+"also limited by the scale because the image needs to stay within the "
+"viewport bounds."
+msgstr ""
+
+#: admin/config.php:979
+msgid "Use a minimum of 0"
+msgstr ""
+
+#: admin/config.php:988
+msgid "Ken Burns - Maximum Movement"
+msgstr ""
+
+#: admin/config.php:989
+msgid ""
+"Maximum movement of the image, in percentages. The actual value will be "
+"randomized for every slide, all within the min/max limits. Note that this is "
+"also limited by the scale because the image needs to stay within the "
+"viewport bounds."
+msgstr ""
+
+#: admin/config.php:990
+msgid "This needs to be higher than Minimum Movement."
+msgstr ""
+
+#: admin/config.php:999
+msgid "Slideshow Images"
+msgstr ""
+
+#: admin/config.php:1000
+msgid "Select the images you want in the slideshow."
+msgstr ""
+
+#: admin/config.php:1009
+msgid "Video Fallback Image"
+msgstr ""
+
+#: admin/config.php:1010
+msgid ""
+"Fallback image for browsers that can't play video (such as mobile devices)."
+msgstr ""
+
+#: admin/config.php:1018
+msgid "Video Volume"
+msgstr ""
+
+#: admin/config.php:1019
+msgid "Sets the audio volume of the video. Value range 0 to 100."
+msgstr ""
+
+#: admin/config.php:1019
+msgid "Note that the volume setting doesn't work on Phones and Tablets."
+msgstr ""
+
+#: admin/config.php:1033
+msgid "Video File - MP4"
+msgstr ""
+
+#: admin/config.php:1034
+msgid ""
+"H.264 (mp4) video format file. This one is required because we use it to "
+"fall back to Flash playback when HTML5 video support is missing. For "
+"example, Firefox only supports this format natively on Windows so on other "
+"systems it will fallback to Flash playback which is a bit slower."
+msgstr ""
+
+#: admin/config.php:1044
+msgid "Video File - WebM"
+msgstr ""
+
+#: admin/config.php:1045
+msgid ""
+"Optional WebM format. WebM files are generally smaller and faster than H.264 "
+"and are played by Chrome, Firefox, Opera and Android browsers (which also "
+"support H.264)."
+msgstr ""
+
+#: admin/config.php:1055
+msgid "Video File - OGG"
+msgstr ""
+
+#: admin/config.php:1056
+msgid ""
+"Optional OGG format. OGG Video is optional but useful because it’s played "
+"natively by Firefox on OSX and Linux."
+msgstr ""
+
+#: admin/config.php:1064
+msgid "YouTube URL"
+msgstr ""
+
+#: admin/config.php:1065
+msgid "The URL of the Youtube Video or Playlist."
+msgstr ""
+
+#: admin/config.php:1074
+msgid "YouTube Video - Start at"
+msgstr ""
+
+#: admin/config.php:1075
+msgid ""
+"If you dont’t want the video to start from the very beginning, enter the "
+"time offset in seconds."
+msgstr ""
+
+#: admin/config.php:1084
+msgid "YouTube Video - End at"
+msgstr ""
+
+#: admin/config.php:1085
+msgid ""
+"If you dont’t want the video to end at the very end, enter the time offset "
+"<strong>FROM THE BEGINNING</strong> of the video, in seconds. Otherwise "
+"leave it at 0."
+msgstr ""
+
+#: admin/config.php:1094
+msgid "Vimeo URL ID"
+msgstr ""
+
+#: admin/config.php:1095
+msgid "Enter the ID of your vimeo URL"
+msgstr ""
+
+#: admin/config.php:1104
+msgid "Loop Video?"
+msgstr ""
+
+#: admin/config.php:1105
+msgid "Replays the video after it finishes."
+msgstr ""
+
+#: admin/config.php:1112
+msgid "Enable Gradient Background"
+msgstr ""
+
+#: admin/config.php:1113
+msgid ""
+"Show a gradient layer on top of the background. You can pick the colors, "
+"orientation and opacity."
+msgstr ""
+
+#: admin/config.php:1119
+msgid "Gradient Background"
+msgstr ""
+
+#: admin/config.php:1121
+msgid ""
+"You can remove background gradient by hitting the <strong>clear</strong> "
+"button"
+msgstr ""
+
+#: admin/config.php:1130
+msgid "Gradient Background Opacity"
+msgstr ""
+
+#: admin/config.php:1139
+msgid "Gradient Background Angle"
+msgstr ""
+
+#: admin/config.php:1140
+msgid ""
+"If you want more control ver the direction of the gradient, you can define "
+"an angle."
+msgstr ""
+
+#: admin/config.php:1151
+msgid ""
+"Show a fancy Javascript animation on top of the background. You can pick "
+"from 30 animations and choose opacity."
+msgstr ""
+
+#: admin/config.php:1152
+msgid "Enable JS Animation"
+msgstr ""
+
+#: admin/config.php:1173
+msgid "JS Animations"
+msgstr ""
+
+#: admin/config.php:1175
+msgid "Select a JS animation to display."
+msgstr ""
+
+#: admin/config.php:1177
+msgid "Animated Color"
+msgstr ""
+
+#: admin/config.php:1178
+msgid "Animated Gradients"
+msgstr ""
+
+#: admin/config.php:1179
+msgid "Bezier Art"
+msgstr ""
+
+#: admin/config.php:1180
+msgid "Bezier Links"
+msgstr ""
+
+#: admin/config.php:1181
+msgid "Color Buzz"
+msgstr ""
+
+#: admin/config.php:1182
+msgid "Color Smoke"
+msgstr ""
+
+#: admin/config.php:1183
+msgid "Confetti"
+msgstr ""
+
+#: admin/config.php:1184
+msgid "Constellation"
+msgstr ""
+
+#: admin/config.php:1185
+msgid "Film Grain"
+msgstr ""
+
+#: admin/config.php:1186
+msgid "Fireworks"
+msgstr ""
+
+#: admin/config.php:1187
+msgid "Floating Particles"
+msgstr ""
+
+#: admin/config.php:1188
+msgid "FSS"
+msgstr ""
+
+#: admin/config.php:1189
+msgid "Glitter Confetti"
+msgstr ""
+
+#: admin/config.php:1190
+msgid "Hearts"
+msgstr ""
+
+#: admin/config.php:1191
+msgid "Molten Metal"
+msgstr ""
+
+#: admin/config.php:1192
+msgid "Mouse Gradient"
+msgstr ""
+
+#: admin/config.php:1193
+msgid "Nodes Connection"
+msgstr ""
+
+#: admin/config.php:1194
+msgid "Particles Explode"
+msgstr ""
+
+#: admin/config.php:1195
+msgid "Particles"
+msgstr ""
+
+#: admin/config.php:1196
+msgid "Quick Rain"
+msgstr ""
+
+#: admin/config.php:1197
+msgid "Radial Gradients"
+msgstr ""
+
+#: admin/config.php:1198
+msgid "Rain Drops"
+msgstr ""
+
+#: admin/config.php:1199
+msgid "Rainbow Grid"
+msgstr ""
+
+#: admin/config.php:1200
+msgid "Rainbow Squares"
+msgstr ""
+
+#: admin/config.php:1201
+msgid "Shooting Stars"
+msgstr ""
+
+#: admin/config.php:1202
+msgid "Snake Bugs"
+msgstr ""
+
+#: admin/config.php:1203
+msgid "Snow Flakes"
+msgstr ""
+
+#: admin/config.php:1204
+msgid "Star Field"
+msgstr ""
+
+#: admin/config.php:1205
+msgid "Water Pipe"
+msgstr ""
+
+#: admin/config.php:1206
+msgid "XMas"
+msgstr ""
+
+#: admin/config.php:1213
+msgid "JS Animation Opacity"
+msgstr ""
+
+#: admin/config.php:1214
+msgid ""
+"Sets the opacity of the animation. 0 is completely transparent, 1.0 is fully "
+"opaque."
+msgstr ""
+
+#: admin/config.php:1223
+msgid "Pattern Overlay"
+msgstr ""
+
+#: admin/config.php:1224
+msgid ""
+"You can use a pattern image as overlay over the background slideshow/video. "
+"Choose a preset or select Custom to upload your own."
+msgstr ""
+
+#: admin/config.php:1227
+msgid "Preset"
+msgstr ""
+
+#: admin/config.php:1228
+msgid "Custom"
+msgstr ""
+
+#: admin/config.php:1237
+msgid "Pattern Preset"
+msgstr ""
+
+#: admin/config.php:1238
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/config.php:1248
+msgid "Custom Pattern"
+msgstr ""
+
+#: admin/config.php:1249
+msgid "Upload your pattern using the WordPress uploader"
+msgstr ""
+
+#: admin/config.php:1256
+msgid "Pattern Opacity"
+msgstr ""
+
+#: admin/config.php:1257
+msgid ""
+"Sets the opacity of the pattern overlay. 0 is completely transparent, 1.0 is "
+"fully opaque."
+msgstr ""
+
+#: admin/config.php:1270
+msgid "Contact Settings"
+msgstr ""
+
+#: admin/config.php:1279
+msgid "Global Form Settings"
+msgstr ""
+
+#: admin/config.php:1280
+msgid "These settings apply to both the subscription and contact forms."
+msgstr ""
+
+#: admin/config.php:1285
+msgid "Required Field Validation Message"
+msgstr ""
+
+#: admin/config.php:1286
+msgid "The message displayed when a required form field is left blank."
+msgstr ""
+
+#: admin/config.php:1292
+msgid "Email Field Validation Message"
+msgstr ""
+
+#: admin/config.php:1293
+msgid ""
+"The message displayed when an incorrect e-mail address is entered in any of "
+"the e-mail form fields."
+msgstr ""
+
+#: admin/config.php:1303
+msgid "Contact Form"
+msgstr ""
+
+#: admin/config.php:1304
+msgid ""
+"Settings for the Contact Form. It can be displayed anywhere by using the"
+msgstr ""
+
+#: admin/config.php:1304 admin/config.php:1375
+msgid "shortcode."
+msgstr ""
+
+#: admin/config.php:1312
+msgid "Target E-mail Address"
+msgstr ""
+
+#: admin/config.php:1313
+msgid ""
+"This is the email address where you’ll receive the contact form messages."
+msgstr ""
+
+#: admin/config.php:1320
+msgid "FROM E-mail Address"
+msgstr ""
+
+#: admin/config.php:1321
+msgid "This is the email address from which the messages are sent from."
+msgstr ""
+
+#: admin/config.php:1322
+msgid ""
+"By default, the Contact form FROM email is the same as the Target E-mail "
+"Address. However, some hosting providers won't allow email being sent from "
+"an address that isn't configured on the host's Mail service. If you are not "
+"getting emails from the form try setting this to an address that is properly "
+"configured on your host."
+msgstr ""
+
+#: admin/config.php:1328
+msgid "E-mail Subject Prefix"
+msgstr ""
+
+#: admin/config.php:1329
+msgid "Prefix for the email subject. Useful for filtering mail."
+msgstr ""
+
+#: admin/config.php:1336
+msgid "Name Field Label"
+msgstr ""
+
+#: admin/config.php:1343 admin/config.php:1391
+msgid "Email Field Label"
+msgstr ""
+
+#: admin/config.php:1350
+msgid "Message Field Label"
+msgstr ""
+
+#: admin/config.php:1357 admin/config.php:1398
+msgid "Button Label"
+msgstr ""
+
+#: admin/config.php:1364 admin/config.php:1405
+msgid "Success Message"
+msgstr ""
+
+#: admin/config.php:1365 admin/config.php:1406
+msgid "The message displayed after the form is successfully submitted."
+msgstr ""
+
+#: admin/config.php:1374
+msgid "Subscribe Form"
+msgstr ""
+
+#: admin/config.php:1375
+msgid ""
+"Settings for the Subscribe Form (titled \"Get Notified\" by default). It can "
+"be displayed anywhere by using the"
+msgstr ""
+
+#: admin/config.php:1384 admin/config.php:2102 admin/config.php:2390
+#: admin/config.php:2529 admin/config.php:2668 admin/config.php:2809
+#: admin/config.php:2949 admin/config.php:3089 admin/config.php:3229
+#: admin/config.php:3369 admin/config.php:3509 admin/config.php:3649
+#: admin/config.php:3789 admin/config.php:3929
+msgid "Title"
+msgstr ""
+
+#: admin/config.php:1412
+msgid "Use MailChimp"
+msgstr ""
+
+#: admin/config.php:1413
+msgid ""
+"Set to Yes if you want to use MailChimp to manage subscribers. If set to No "
+"the email addresses will be added to a simple text string."
+msgstr ""
+
+#: admin/config.php:1422
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/config.php:1423
+msgid ""
+"In order to use MailChimp you’ll need an API Key. You can generate API Keys "
+"by going to"
+msgstr ""
+
+#: admin/config.php:1431
+msgid "MailChimp List ID"
+msgstr ""
+
+#: admin/config.php:1432
+msgid ""
+"Next you need to create a List in MailChimp and paste it’s ID here. The List "
+"ID can be found in the List’s Settings, on the right hand side."
+msgstr ""
+
+#: admin/config.php:1439
+msgid "Use MailChimp Double Opt-in"
+msgstr ""
+
+#: admin/config.php:1440
+msgid "If set to Yes, it enables Double Opt-in. See the"
+msgstr ""
+
+#: admin/config.php:1440
+msgid "this link"
+msgstr ""
+
+#: admin/config.php:1440
+msgid "for reference on how it works."
+msgstr ""
+
+#: admin/config.php:1449
+msgid "Send Welcome email from MailChimp"
+msgstr ""
+
+#: admin/config.php:1450
+msgid ""
+"If Double Opt-in is disabled, you can still send a Welcome message by "
+"setting the following to true."
+msgstr ""
+
+#: admin/config.php:1450
+msgid "The option is ignored if Double Opt-in is on."
+msgstr ""
+
+#: admin/config.php:1465
+msgid "Subscribers"
+msgstr ""
+
+#: admin/config.php:1465
+msgid "The list of subscribed e-mail addresses."
+msgstr ""
+
+#: admin/config.php:1471
+msgid ""
+"The e-mail addresses submited using the 'Get Notified' form are added to "
+"this field when the MailChimp mode is disabled."
+msgstr ""
+
+#: admin/config.php:1471
+msgid "You can edit or clear the contents and Save the result."
+msgstr ""
+
+#: admin/config.php:1487
+msgid "Audio"
+msgstr ""
+
+#: admin/config.php:1495
+msgid "Enable Audio Player?"
+msgstr ""
+
+#: admin/config.php:1496
+msgid "Adds an audio player to the site."
+msgstr ""
+
+#: admin/config.php:1502
+msgid "Local or URL Audio Track"
+msgstr ""
+
+#: admin/config.php:1512
+msgid "Upload Mp3 File"
+msgstr ""
+
+#: admin/config.php:1513
+msgid "Upload your track locally."
+msgstr ""
+
+#: admin/config.php:1526
+msgid "Play audio track from url"
+msgstr ""
+
+#: admin/config.php:1527
+msgid "Play Audio directly from URL."
+msgstr ""
+
+#: admin/config.php:1537
+msgid "Track Name"
+msgstr ""
+
+#: admin/config.php:1538
+msgid "Optional, shows up as tooltip for Audio Controls."
+msgstr ""
+
+#: admin/config.php:1545
+msgid "Control your speakers"
+msgstr ""
+
+#: admin/config.php:1546
+msgid "Set the volume, 0 = off, 1 = full"
+msgstr ""
+
+#: admin/config.php:1557
+msgid "Audio Controls"
+msgstr ""
+
+#: admin/config.php:1558
+msgid "Display the music on/off button?"
+msgstr ""
+
+#: admin/config.php:1558
+msgid "* The controls show up in the footer if enabled or icon menu shortcode."
+msgstr ""
+
+#: admin/config.php:1566
+msgid "Autoplay Audio Track ?"
+msgstr ""
+
+#: admin/config.php:1567
+msgid "You can start playing as soon as the site is loaded."
+msgstr ""
+
+#: admin/config.php:1574
+msgid "Loop Audio Track ?"
+msgstr ""
+
+#: admin/config.php:1575
+msgid "Once the song has finished, should it be played again?"
+msgstr ""
+
+#: admin/config.php:1585
+msgid "Custom Code"
+msgstr ""
+
+#: admin/config.php:1586
+msgid ""
+"You can add custom code to MiniGO in order to further customize and extend "
+"it."
+msgstr ""
+
+#: admin/config.php:1594
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/config.php:1595
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/config.php:1598
+msgid "Use this field to customize the layout or style of your MiniGO install."
+msgstr ""
+
+#: admin/config.php:1604
+msgid "Custom HTML"
+msgstr ""
+
+#: admin/config.php:1605
+msgid "Paste your HTML code here."
+msgstr ""
+
+#: admin/config.php:1608
+msgid "Inserts HTML before the closing"
+msgstr ""
+
+#: admin/config.php:1608
+msgid ""
+"tag. For example, it can be used to add tracking code. If you're using "
+"Google Analytics, visit the SEO tab."
+msgstr ""
+
+#: admin/config.php:1617
+msgid "Pages"
+msgstr ""
+
+#: admin/config.php:1621
+msgid ""
+"In this section you can set up page options, then select each page to enable/"
+"disable it and and edit the content."
+msgstr ""
+
+#: admin/config.php:1622
+msgid ""
+"Please use the \"Widget\" and \"Content\" dropdowns in the editor to add "
+"shortcodes to your pages."
+msgstr ""
+
+#: admin/config.php:1623
+msgid "The following shortcodes are available:"
+msgstr ""
+
+#: admin/config.php:1626
+msgid "Widget Shortcodes"
+msgstr ""
+
+#: admin/config.php:1627
+msgid "Displays the AddThis social sharing widget block."
+msgstr ""
+
+#: admin/config.php:1628
+msgid "Displays the Contact Form block."
+msgstr ""
+
+#: admin/config.php:1629
+msgid "Displays the Contact Info block."
+msgstr ""
+
+#: admin/config.php:1630 admin/config.php:1638
+msgid "Displays the Counter Features block."
+msgstr ""
+
+#: admin/config.php:1631
+msgid "Displays the Countdown block."
+msgstr ""
+
+#: admin/config.php:1632
+msgid "Displays the Icon Features block."
+msgstr ""
+
+#: admin/config.php:1633
+msgid "Displays the Icon List block."
+msgstr ""
+
+#: admin/config.php:1634
+msgid "Displays the Icon Menu block."
+msgstr ""
+
+#: admin/config.php:1635
+msgid "Displays the Google Map block."
+msgstr ""
+
+#: admin/config.php:1636
+msgid "Displays the Gallery block."
+msgstr ""
+
+#: admin/config.php:1637
+msgid "Displays the Progress Bars block."
+msgstr ""
+
+#: admin/config.php:1639
+msgid "Displays the \"Get Notified\" subscription form block."
+msgstr ""
+
+#: admin/config.php:1640
+msgid "Displays the Team Members block."
+msgstr ""
+
+#: admin/config.php:1641
+msgid "Displays the Testimonials block."
+msgstr ""
+
+#: admin/config.php:1645
+msgid "Content Shortcodes"
+msgstr ""
+
+#: admin/config.php:1646
+msgid "Displays a button with the options you pick from the pop-up."
+msgstr ""
+
+#: admin/config.php:1647
+msgid ""
+"Displays a horizontal rule divider with the options you pick from the pop-up."
+msgstr ""
+
+#: admin/config.php:1648
+msgid "Displays a responsive grid with the options you pick from the pop-up."
+msgstr ""
+
+#: admin/config.php:1649
+msgid "Displays the logo as configured in the Main Settings section."
+msgstr ""
+
+#: admin/config.php:1650
+msgid ""
+"Displays a title/subtitle block with the options you pick from the pop-up."
+msgstr ""
+
+#: admin/config.php:1660
+msgid "Page Alignment"
+msgstr ""
+
+#: admin/config.php:1661
+msgid "Alignment of pages relative to viewport."
+msgstr ""
+
+#: admin/config.php:1661
+msgid " Best used with One Page Nav Style."
+msgstr ""
+
+#: admin/config.php:1675
+msgid "Text Alignment"
+msgstr ""
+
+#: admin/config.php:1678
+msgid "Alignment of the text within the pages."
+msgstr ""
+
+#: admin/config.php:1858
+msgid "Page Background"
+msgstr ""
+
+#: admin/config.php:1859
+msgid ""
+"Choose whether or not you want your pages to have a translucent background."
+msgstr ""
+
+#: admin/config.php:1867
+msgid "Page Background - Color"
+msgstr ""
+
+#: admin/config.php:1868
+msgid "Set the color and opacity for the pages background."
+msgstr ""
+
+#: admin/config.php:1880
+msgid "Page Background - Border Radius"
+msgstr ""
+
+#: admin/config.php:1881
+msgid "Change the border radius of all pages."
+msgstr ""
+
+#: admin/config.php:1884
+msgid "Adjust the content width."
+msgstr ""
+
+#: admin/config.php:1896
+msgid "Page Background - Border"
+msgstr ""
+
+#: admin/config.php:1897
+msgid "Choose whether or not you want your pages to have a translucent border."
+msgstr ""
+
+#: admin/config.php:1905
+msgid "Page Background - Border Style"
+msgstr ""
+
+#: admin/config.php:1906
+msgid "Add a specific border size and style to pages."
+msgstr ""
+
+#: admin/config.php:1921
+msgid "Page Background - Border Color"
+msgstr ""
+
+#: admin/config.php:1922
+msgid "Add a specific border color to pages."
+msgstr ""
+
+#: admin/config.php:1935
+msgid "Custom Page Width"
+msgstr ""
+
+#: admin/config.php:1936
+msgid "Enable to control your global page width."
+msgstr ""
+
+#: admin/config.php:1943
+msgid "Pages Width"
+msgstr ""
+
+#: admin/config.php:1944
+msgid "Change the width of all pages."
+msgstr ""
+
+#: admin/config.php:1994
+msgid "Page Spacing"
+msgstr ""
+
+#: admin/config.php:1995
+msgid "Enable to control the global margins & paddings for all pages."
+msgstr ""
+
+#: admin/config.php:2002
+msgid "Margins"
+msgstr ""
+
+#: admin/config.php:2003
+msgid "Choose global page margins."
+msgstr ""
+
+#: admin/config.php:2021
+msgid "Paddings"
+msgstr ""
+
+#: admin/config.php:2022
+msgid "Choose global page paddings."
+msgstr ""
+
+#: admin/config.php:2063
+msgid "Full Height Pages?"
+msgstr ""
+
+#: admin/config.php:2064
+msgid "Makes the minimum height of the pages the same as the window."
+msgstr ""
+
+#: admin/config.php:2077
+msgid "First Page "
+msgstr ""
+
+#: admin/config.php:2078
+msgid ""
+"The content of the intro page that is always centered or the first vertical "
+"section if one page is enabled."
+msgstr ""
+
+#: admin/config.php:2086
+msgid "Show Intro Page?"
+msgstr ""
+
+#: admin/config.php:2087
+msgid "If you don't want the intro page to be displayed you can disable this."
+msgstr ""
+
+#: admin/config.php:2094
+msgid "Display Title?"
+msgstr ""
+
+#: admin/config.php:2095
+msgid ""
+"You can enter a title then choose not to display it so it's only used as a "
+"hash url if that's enabled."
+msgstr ""
+
+#: admin/config.php:2103
+msgid "Intro Page title (optional)"
+msgstr ""
+
+#: admin/config.php:2111 admin/config.php:2398 admin/config.php:2537
+#: admin/config.php:2676 admin/config.php:2817 admin/config.php:2957
+#: admin/config.php:3097 admin/config.php:3237 admin/config.php:3377
+#: admin/config.php:3517 admin/config.php:3661 admin/config.php:3797
+#: admin/config.php:3941
+msgid "Front Page Content"
+msgstr ""
+
+#: admin/config.php:2122
+msgid "Show in Navigation?"
+msgstr ""
+
+#: admin/config.php:2123
+msgid ""
+"If you want the homepage to be added into the navigation as the first button."
+msgstr ""
+
+#: admin/config.php:2178 admin/config.php:2371 admin/config.php:2510
+#: admin/config.php:2649 admin/config.php:2790 admin/config.php:2930
+#: admin/config.php:3070 admin/config.php:3210 admin/config.php:3350
+#: admin/config.php:3490 admin/config.php:3630 admin/config.php:3770
+#: admin/config.php:3910
+msgid "Link Label"
+msgstr ""
+
+#: admin/config.php:2179
+msgid "The label of the left hand side button."
+msgstr ""
+
+#: admin/config.php:2187 admin/config.php:2379 admin/config.php:2518
+#: admin/config.php:2657 admin/config.php:2798 admin/config.php:2938
+#: admin/config.php:3078 admin/config.php:3218 admin/config.php:3358
+#: admin/config.php:3498 admin/config.php:3638 admin/config.php:3778
+#: admin/config.php:3918
+#: premio-fields/field-progress-bars/field-progress-bars.php:122
+msgid "Icon"
+msgstr ""
+
+#: admin/config.php:2188
+msgid "The icon of the left hand side button."
+msgstr ""
+
+#: admin/config.php:2355
+msgid "Second Page"
+msgstr ""
+
+#: admin/config.php:2356
+msgid "Manage the content and options for the second page."
+msgstr ""
+
+#: admin/config.php:2364 admin/config.php:2503 admin/config.php:2642
+#: admin/config.php:2783 admin/config.php:2923 admin/config.php:3063
+#: admin/config.php:3203 admin/config.php:3343 admin/config.php:3483
+#: admin/config.php:3623 admin/config.php:3763 admin/config.php:3903
+msgid "Enabled?"
+msgstr ""
+
+#: admin/config.php:2365 admin/config.php:2504 admin/config.php:2643
+#: admin/config.php:2784 admin/config.php:2924 admin/config.php:3064
+#: admin/config.php:3204 admin/config.php:3344 admin/config.php:3484
+#: admin/config.php:3624 admin/config.php:3764 admin/config.php:3904
+msgid "Show this page?"
+msgstr ""
+
+#: admin/config.php:2372 admin/config.php:2511 admin/config.php:2650
+#: admin/config.php:2791 admin/config.php:2931 admin/config.php:3071
+#: admin/config.php:3211 admin/config.php:3351 admin/config.php:3491
+#: admin/config.php:3631 admin/config.php:3771 admin/config.php:3911
+msgid "The text displayed in the Menu for this page."
+msgstr ""
+
+#: admin/config.php:2380 admin/config.php:2519 admin/config.php:2658
+#: admin/config.php:2799 admin/config.php:2939 admin/config.php:3079
+#: admin/config.php:3219 admin/config.php:3359 admin/config.php:3499
+#: admin/config.php:3639 admin/config.php:3779 admin/config.php:3919
+msgid "Select an icon to show in the Menu for this page."
+msgstr ""
+
+#: admin/config.php:2494
+msgid "Third Page"
+msgstr ""
+
+#: admin/config.php:2495
+msgid "Manage the content and options for the third page."
+msgstr ""
+
+#: admin/config.php:2633
+msgid "Fourth Page"
+msgstr ""
+
+#: admin/config.php:2634
+msgid "Manage the content and options for the fourth page."
+msgstr ""
+
+#: admin/config.php:2773
+msgid "Fifth Page"
+msgstr ""
+
+#: admin/config.php:2774
+msgid "Manage the content and options for the fifth page."
+msgstr ""
+
+#: admin/config.php:2913
+msgid "Sixth Page"
+msgstr ""
+
+#: admin/config.php:2914
+msgid "Manage the content and options for the sixth page."
+msgstr ""
+
+#: admin/config.php:3054
+msgid "Seventh Page"
+msgstr ""
+
+#: admin/config.php:3055
+msgid "Manage the content and options for the seventh page."
+msgstr ""
+
+#: admin/config.php:3194
+msgid "Eighth Page"
+msgstr ""
+
+#: admin/config.php:3195
+msgid "Manage the content and options for the eighth page."
+msgstr ""
+
+#: admin/config.php:3334
+msgid "Ninth Page"
+msgstr ""
+
+#: admin/config.php:3335
+msgid "Manage the content and options for the ninth page."
+msgstr ""
+
+#: admin/config.php:3474
+msgid "Tenth Page"
+msgstr ""
+
+#: admin/config.php:3475
+msgid "Manage the content and options for the tenth page."
+msgstr ""
+
+#: admin/config.php:3614
+msgid "Eleventh Page"
+msgstr ""
+
+#: admin/config.php:3615
+msgid "Manage the content and options for the eleventh page."
+msgstr ""
+
+#: admin/config.php:3754
+msgid "Twelfth Page"
+msgstr ""
+
+#: admin/config.php:3755
+msgid "Manage the content and options for the twelfth page."
+msgstr ""
+
+#: admin/config.php:3894
+msgid "Thirteenth Page"
+msgstr ""
+
+#: admin/config.php:3895
+msgid "Manage the content and options for the thirteenth page."
+msgstr ""
+
+#: admin/config.php:4036
+msgid "Blocks"
+msgstr ""
+
+#: admin/config.php:4038
+msgid "You can set up the shortcodes used in the page content below."
+msgstr ""
+
+#: admin/config.php:4046
+msgid "AddThis Widget"
+msgstr ""
+
+#: admin/config.php:4047
+msgid "In this section you can set your AddThis widget shortcode"
+msgstr ""
+
+#: admin/config.php:4056
+msgid "Enable AddThis Widget"
+msgstr ""
+
+#: admin/config.php:4057
+msgid ""
+"If you're not using the AddThis shortcode, disable it so we don't load it's "
+"scripts."
+msgstr ""
+
+#: admin/config.php:4065
+msgid "AddThis Widget Heading"
+msgstr ""
+
+#: admin/config.php:4066 admin/config.php:5371
+msgid "This is the (optional) heading that will show on top of the widget"
+msgstr ""
+
+#: admin/config.php:4073
+msgid "AddThis Script Code"
+msgstr ""
+
+#: admin/config.php:4074
+msgid "Paste your AddThis script code here."
+msgstr ""
+
+#: admin/config.php:4078
+msgid "Inserts the AddThis script code before the end of the body tag"
+msgstr ""
+
+#: admin/config.php:4084
+msgid "AddThis Code"
+msgstr ""
+
+#: admin/config.php:4085
+msgid "Paste your AddThis code here."
+msgstr ""
+
+#: admin/config.php:4089
+msgid "Inserts the AddThis HTML code where the shortcode is used"
+msgstr ""
+
+#: admin/config.php:4098 admin/config.php:4125
+#: premio-fields/field-contact-info/field_contact_info.php:99
+msgid "Contact Info"
+msgstr ""
+
+#: admin/config.php:4099
+msgid "Set up your contact info shortcode below."
+msgstr ""
+
+#: admin/config.php:4099 admin/config.php:4448
+msgid "here"
+msgstr ""
+
+#: admin/config.php:4108
+msgid "Enable Contact Info Widget"
+msgstr ""
+
+#: admin/config.php:4109
+msgid "If you're not using the Contact Info shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:4117
+msgid "Contact Info Heading"
+msgstr ""
+
+#: admin/config.php:4118
+msgid ""
+"This (optional) heading will be displayed above the contact info. Leave "
+"blank to hide."
+msgstr ""
+
+#: admin/config.php:4126 admin/config.php:4386 admin/config.php:4613
+#: admin/config.php:4718 admin/config.php:4829 admin/config.php:5240
+#: admin/config.php:5486 admin/config.php:5684
+msgid "On the right, you can:"
+msgstr ""
+
+#: admin/config.php:4129 admin/config.php:4389 admin/config.php:4616
+#: admin/config.php:4721 admin/config.php:4832 admin/config.php:5243
+#: admin/config.php:5489 admin/config.php:5687
+msgid "Order"
+msgstr ""
+
+#: admin/config.php:4129 admin/config.php:4389 admin/config.php:4616
+#: admin/config.php:4832 admin/config.php:5243 admin/config.php:5489
+#: admin/config.php:5687
+msgid ""
+"the items by dragging the title bar to the desired position in the stack."
+msgstr ""
+
+#: admin/config.php:4132 admin/config.php:4392 admin/config.php:4619
+#: admin/config.php:4724 admin/config.php:4835 admin/config.php:5246
+#: admin/config.php:5492 admin/config.php:5690
+msgid "Edit"
+msgstr ""
+
+#: admin/config.php:4132 admin/config.php:4392 admin/config.php:4619
+#: admin/config.php:4835 admin/config.php:5246 admin/config.php:5492
+#: admin/config.php:5690
+msgid ""
+"each item by clicking on the title bar to expand it. Conversely, you can "
+"click on the title bar again to retract an expanded item."
+msgstr ""
+
+#: admin/config.php:4135 admin/config.php:4395 admin/config.php:4622
+#: admin/config.php:4727 admin/config.php:4838 admin/config.php:5249
+#: admin/config.php:5495 admin/config.php:5693
+msgid "Customize"
+msgstr ""
+
+#: admin/config.php:4135 admin/config.php:5693
+msgid ""
+"the image, name, position, testimonial, url and new window options for each "
+"item."
+msgstr ""
+
+#: admin/config.php:4138 admin/config.php:4398 admin/config.php:4625
+#: admin/config.php:4730 admin/config.php:4841 admin/config.php:5252
+#: admin/config.php:5498 admin/config.php:5696
+#: premio-fields/field-contact-info/field_contact_info.php:91
+#: premio-fields/field-counter-features/field-counter-features.php:91
+#: premio-fields/field-counter-features/field-icon-features.php:90
+#: premio-fields/field-icon-features/field-icon-features.php:90
+#: premio-fields/field-icon-list/field-icon-list.php:89
+#: premio-fields/field-icon-menu/field-icon-menu.php:101
+#: premio-fields/field-progress-bars/field-progress-bars.php:94
+#: premio-fields/field-team-profiles/field-team-profiles.php:119
+#: premio-fields/field-testimonials/field-testimonials.php:98
+msgid "Delete"
+msgstr ""
+
+#: admin/config.php:4138 admin/config.php:4398 admin/config.php:4625
+#: admin/config.php:4841 admin/config.php:5252 admin/config.php:5498
+#: admin/config.php:5696
+msgid "any item by using the \"Delete\" button on the right."
+msgstr ""
+
+#: admin/config.php:4141 admin/config.php:4401 admin/config.php:4628
+#: admin/config.php:4733 admin/config.php:4844 admin/config.php:5255
+#: admin/config.php:5501 admin/config.php:5699
+msgid "Add"
+msgstr ""
+
+#: admin/config.php:4141
+msgid ""
+"a new item using the \"Add Contact Info\" button. A new item will be added "
+"at the botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:4178
+msgid "Countdown"
+msgstr ""
+
+#: admin/config.php:4188
+msgid "Enable Countdown"
+msgstr ""
+
+#: admin/config.php:4189
+msgid "Choose whether or not you want the countdown timer to be displayed."
+msgstr ""
+
+#: admin/config.php:4195
+msgid "Countdown Heading"
+msgstr ""
+
+#: admin/config.php:4196
+msgid ""
+"This (optional) heading will be displayed above the Countdown. Leave blank "
+"to hide."
+msgstr ""
+
+#: admin/config.php:4203
+msgid "Countdown Type"
+msgstr ""
+
+#: admin/config.php:4204
+msgid "Choose between two different countdown styles."
+msgstr ""
+
+#: admin/config.php:4207
+msgid "3D Flip Style"
+msgstr ""
+
+#: admin/config.php:4208
+msgid "Pie Chart Style"
+msgstr ""
+
+#: admin/config.php:4216
+msgid "Enable Charts Settings"
+msgstr ""
+
+#: admin/config.php:4223
+msgid "Tracking Color"
+msgstr ""
+
+#: admin/config.php:4234
+msgid "Bar Background Color"
+msgstr ""
+
+#: admin/config.php:4245
+msgid "Outline Color"
+msgstr ""
+
+#: admin/config.php:4256
+msgid "Chart Line Width"
+msgstr ""
+
+#: admin/config.php:4267
+msgid "Countdown Start - Date"
+msgstr ""
+
+#: admin/config.php:4268
+msgid "Date when the countdown started. Needed for the countdown progress bar."
+msgstr ""
+
+#: admin/config.php:4275
+msgid "Countdown Start - Hour"
+msgstr ""
+
+#: admin/config.php:4276
+msgid "Time when the countdown started. 24 hour format (00 to 23)."
+msgstr ""
+
+#: admin/config.php:4286
+msgid "Countdown Start - Minutes"
+msgstr ""
+
+#: admin/config.php:4297
+msgid "Countdown End - Date"
+msgstr ""
+
+#: admin/config.php:4298
+msgid "Date that we're counting down to."
+msgstr ""
+
+#: admin/config.php:4306
+msgid "Countdown End - Hour"
+msgstr ""
+
+#: admin/config.php:4307
+msgid "Time that we're counting down to. 24 hour format (00 to 23)."
+msgstr ""
+
+#: admin/config.php:4317
+msgid "Countdown End - Minutes"
+msgstr ""
+
+#: admin/config.php:4328
+msgid "Labels"
+msgstr ""
+
+#: admin/config.php:4329
+msgid "The labels of the individual countdown items. Comma separated list."
+msgstr ""
+
+#: admin/config.php:4338 admin/config.php:7433
+msgid "Counter Features"
+msgstr ""
+
+#: admin/config.php:4339
+msgid "In this section you can set your Counter Features shortcodes"
+msgstr ""
+
+#: admin/config.php:4348
+msgid "Enable Counter Features"
+msgstr ""
+
+#: admin/config.php:4349
+msgid ""
+"If you're not using the Counter Features shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:4357
+msgid "Counter Features Heading"
+msgstr ""
+
+#: admin/config.php:4358
+msgid ""
+"This is the heading that will show as Counter Features shortcode heading"
+msgstr ""
+
+#: admin/config.php:4365 admin/config.php:4592 admin/config.php:4697
+#: admin/config.php:5219 admin/config.php:5466
+msgid "Number of columns"
+msgstr ""
+
+#: admin/config.php:4366
+msgid "Choose how many columns you want to use to display Counter Features."
+msgstr ""
+
+#: admin/config.php:4385
+msgid "Counter Features Setup"
+msgstr ""
+
+#: admin/config.php:4395 admin/config.php:4622
+msgid " the icon, title and text for each item."
+msgstr ""
+
+#: admin/config.php:4401
+msgid ""
+"a new item using the \"Add Counter Feature\" button. A new item will be "
+"added at the botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:4446
+msgid "Google Map"
+msgstr ""
+
+#: admin/config.php:4456
+msgid "Enable Google Map"
+msgstr ""
+
+#: admin/config.php:4457
+msgid ""
+"If you're not using the map shortcode, disable it so we don't load it's "
+"scripts."
+msgstr ""
+
+#: admin/config.php:4465
+msgid "Map Heading"
+msgstr ""
+
+#: admin/config.php:4466
+msgid ""
+"Optional heading to be displayed before the map. Leave empty for no heading."
+msgstr ""
+
+#: admin/config.php:4473
+msgid "Map Style"
+msgstr ""
+
+#: admin/config.php:4476
+msgid "Monochrome"
+msgstr ""
+
+#: admin/config.php:4477
+msgid "Normal"
+msgstr ""
+
+#: admin/config.php:4484
+msgid "Latitude"
+msgstr ""
+
+#: admin/config.php:4491
+msgid "Longitude"
+msgstr ""
+
+#: admin/config.php:4497
+msgid "Allow Map Dragging"
+msgstr ""
+
+#: admin/config.php:4505
+msgid "Google Map Zoom Level"
+msgstr ""
+
+#: admin/config.php:4513
+msgid "Zoom with MouseWheel"
+msgstr ""
+
+#: admin/config.php:4520
+msgid "Show Zoom Buttons"
+msgstr ""
+
+#: admin/config.php:4527
+msgid "Show Map Type Controls"
+msgstr ""
+
+#: admin/config.php:4528
+msgid "ex. Terrain, Satellite"
+msgstr ""
+
+#: admin/config.php:4535
+msgid "Show Street View Controls"
+msgstr ""
+
+#: admin/config.php:4545
+msgid "Location marker icon"
+msgstr ""
+
+#: admin/config.php:4553
+msgid "Map Height"
+msgstr ""
+
+#: admin/config.php:4554
+msgid "Map Height in pixels (optional)"
+msgstr ""
+
+#: admin/config.php:4565 admin/config.php:7551
+msgid "Icon Features"
+msgstr ""
+
+#: admin/config.php:4566
+msgid "In this section you can set your icon features shortcodes"
+msgstr ""
+
+#: admin/config.php:4575
+msgid "Enable Icon Features"
+msgstr ""
+
+#: admin/config.php:4576
+msgid "If you're not using the Icon Features shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:4584
+msgid "Icon Features Heading"
+msgstr ""
+
+#: admin/config.php:4585
+msgid "This is the heading that will show as Icon Features shortcode heading"
+msgstr ""
+
+#: admin/config.php:4593
+msgid "Choose how many columns you want to use to display icon features."
+msgstr ""
+
+#: admin/config.php:4612
+msgid "Icon Features Setup"
+msgstr ""
+
+#: admin/config.php:4628
+msgid ""
+"a new item using the \"Add Icon Feature\" button. A new item will be added "
+"at the botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:4669 admin/config.php:7645
+msgid "Icon List"
+msgstr ""
+
+#: admin/config.php:4670
+msgid "In this section you can set your icon list shortcodes"
+msgstr ""
+
+#: admin/config.php:4679
+msgid "Enable Icon List"
+msgstr ""
+
+#: admin/config.php:4680
+msgid "If you're not using the Icon List shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:4688
+msgid "Icon List Heading"
+msgstr ""
+
+#: admin/config.php:4689
+msgid "This is the heading that will show as icon list shortcode heading"
+msgstr ""
+
+#: admin/config.php:4698
+msgid "Choose how many columns you want to use to display icon list."
+msgstr ""
+
+#: admin/config.php:4717
+msgid "Icon List Setup"
+msgstr ""
+
+#: admin/config.php:4721
+msgid ""
+" the items by dragging the title bar to the desired position in the stack."
+msgstr ""
+
+#: admin/config.php:4724
+msgid ""
+" each item by clicking on the title bar to expand it. Conversely, you can "
+"click on the title bar again to retract an expanded item."
+msgstr ""
+
+#: admin/config.php:4727
+msgid " the icon and title for each item."
+msgstr ""
+
+#: admin/config.php:4730
+msgid " any item by using the \"Delete\" button on the right."
+msgstr ""
+
+#: admin/config.php:4733
+msgid ""
+" a new item using the \"Add Icon List Item\" button. A new item will be "
+"added at the botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:4810
+msgid "Icon Menu <span class=\"page-type\">[Footer]</span>"
+msgstr ""
+
+#: admin/config.php:4811
+msgid "In this section you can set your icon menu shortcodes"
+msgstr ""
+
+#: admin/config.php:4812
+msgid ""
+"Here you can edit and sort the links displayed in the footer and/or the "
+msgstr ""
+
+#: admin/config.php:4812
+msgid "shortcode you can add to your pages."
+msgstr ""
+
+#: admin/config.php:4812
+msgid ""
+"For Footer navigation options, please visit the Navigation Options under "
+"Main Settings."
+msgstr ""
+
+#: admin/config.php:4820
+msgid "Icon Menu Heading"
+msgstr ""
+
+#: admin/config.php:4821
+msgid ""
+"This is the (optional) heading that will show as icon menu shortcode heading"
+msgstr ""
+
+#: admin/config.php:4828
+msgid "Links"
+msgstr ""
+
+#: admin/config.php:4838
+msgid ""
+"the text label (can leave blank), link url and target, icon and colors for "
+"each item."
+msgstr ""
+
+#: admin/config.php:4844
+msgid ""
+"a new link using the \"Add Link\" button. A new item will be added at the "
+"botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:4847
+msgid "To save a color, press the \"Select\" button"
+msgstr ""
+
+#: admin/config.php:4956 admin/config.php:7809
+msgid "Photo Gallery"
+msgstr ""
+
+#: admin/config.php:4964
+msgid "Enable Gallery"
+msgstr ""
+
+#: admin/config.php:4965
+msgid "If you're not using the Gallery shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:4973
+msgid "Gallery"
+msgstr ""
+
+#: admin/config.php:4974
+msgid ""
+"Use the <strong>Add/Edit Gallery</strong> button in order to select and "
+"order the images you want to have in the gallery section."
+msgstr ""
+
+#: admin/config.php:4974
+msgid ""
+"If your gallery is empty, make sure you click on the \"Add to Gallery\" tab "
+"in media manager pop-up as there is nothing to edit."
+msgstr ""
+
+#: admin/config.php:4981
+msgid "Gallery Options"
+msgstr ""
+
+#: admin/config.php:4982
+msgid "In this sub-section you can control the options for the gallery."
+msgstr ""
+
+#: admin/config.php:4989
+msgid "Open Images in Lightbox"
+msgstr ""
+
+#: admin/config.php:4990
+msgid ""
+"Choose whether or not you want the images in the gallery be opened in a "
+"lightbox."
+msgstr ""
+
+#: admin/config.php:4997
+msgid "Show dots under the gallery for navigation"
+msgstr ""
+
+#: admin/config.php:4998
+msgid "Choose whether or not you want the gallery to have navigation dots."
+msgstr ""
+
+#: admin/config.php:5006 admin/config.php:5835
+msgid "Show numbers instead of dots navigation"
+msgstr ""
+
+#: admin/config.php:5007 admin/config.php:5836
+msgid "Replaces the dots with numbers."
+msgstr ""
+
+#: admin/config.php:5016
+msgid "Show left/right arrows in the gallery for navigation"
+msgstr ""
+
+#: admin/config.php:5017
+msgid "Choose whether or not you want the gallery to have navigation arrows."
+msgstr ""
+
+#: admin/config.php:5025
+msgid "Gallery items rows"
+msgstr ""
+
+#: admin/config.php:5026
+msgid "Define how many rows you want on the gallery"
+msgstr ""
+
+#: admin/config.php:5033
+msgid "Gallery items columns"
+msgstr ""
+
+#: admin/config.php:5034
+msgid "Define how many columns you want on the gallery"
+msgstr ""
+
+#: admin/config.php:5042
+msgid "Gallery number of items to scroll"
+msgstr ""
+
+#: admin/config.php:5043 admin/config.php:5872
+msgid "Define how many columns you want to scroll on sliding left/right"
+msgstr ""
+
+#: admin/config.php:5050 admin/config.php:5879
+msgid "Autoplay"
+msgstr ""
+
+#: admin/config.php:5051 admin/config.php:5880
+msgid "Enable autoplay of slides."
+msgstr ""
+
+#: admin/config.php:5058 admin/config.php:5887
+msgid "Autoplay Speed"
+msgstr ""
+
+#: admin/config.php:5059 admin/config.php:5888
+msgid "Set the time between autoplay animations (ms)"
+msgstr ""
+
+#: admin/config.php:5066
+msgid "Gallery scroll speed"
+msgstr ""
+
+#: admin/config.php:5067 admin/config.php:5896
+msgid "Define how fast you want to scroll on sliding left/right"
+msgstr ""
+
+#: admin/config.php:5075 admin/config.php:5904
+msgid "Inifinite Slide"
+msgstr ""
+
+#: admin/config.php:5076 admin/config.php:5905
+msgid ""
+"if set to true the carousel will always be slid to first slide if no slide "
+"left."
+msgstr ""
+
+#: admin/config.php:5084
+msgid "Gallery Centermode"
+msgstr ""
+
+#: admin/config.php:5085 admin/config.php:5914
+msgid "if set to true the carousel show the active slide in the middle."
+msgstr ""
+
+#: admin/config.php:5096
+msgid "Gallery Breakpoint 1"
+msgstr ""
+
+#: admin/config.php:5101 admin/config.php:5133 admin/config.php:5165
+#: admin/config.php:5929 admin/config.php:5961 admin/config.php:5993
+msgid "Minimum width"
+msgstr ""
+
+#: admin/config.php:5102 admin/config.php:5134 admin/config.php:5166
+#: admin/config.php:5930 admin/config.php:5962 admin/config.php:5994
+msgid "Minimum width to apply this media break point"
+msgstr ""
+
+#: admin/config.php:5109 admin/config.php:5141 admin/config.php:5149
+#: admin/config.php:5173 admin/config.php:5181 admin/config.php:5937
+#: admin/config.php:5969 admin/config.php:5977 admin/config.php:6001
+#: admin/config.php:6009
+msgid "Slides to Show"
+msgstr ""
+
+#: admin/config.php:5110 admin/config.php:5142 admin/config.php:5174
+#: admin/config.php:5938 admin/config.php:5970 admin/config.php:6002
+msgid "Number of slides to show"
+msgstr ""
+
+#: admin/config.php:5117 admin/config.php:5945
+msgid "Slides to Slide"
+msgstr ""
+
+#: admin/config.php:5118 admin/config.php:5150 admin/config.php:5182
+#: admin/config.php:5946 admin/config.php:5978 admin/config.php:6010
+msgid "Number of slides to scroll"
+msgstr ""
+
+#: admin/config.php:5126
+msgid "Gallery Breakpoint 2"
+msgstr ""
+
+#: admin/config.php:5158
+msgid "Gallery Breakpoint 3"
+msgstr ""
+
+#: admin/config.php:5193 admin/config.php:7888
+msgid "Progress Bars"
+msgstr ""
+
+#: admin/config.php:5194
+msgid "In this section you can set up your progress bars shortcodes"
+msgstr ""
+
+#: admin/config.php:5202
+msgid "Enable Progress Bars"
+msgstr ""
+
+#: admin/config.php:5203
+msgid "If you're not using the Progress Bars shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:5211
+msgid "Progress Bars Heading"
+msgstr ""
+
+#: admin/config.php:5212
+msgid "This is the heading that will show as the shortcode heading"
+msgstr ""
+
+#: admin/config.php:5220
+msgid "Choose how many columns you want to use."
+msgstr ""
+
+#: admin/config.php:5239
+msgid "Progress Bars Setup"
+msgstr ""
+
+#: admin/config.php:5249
+msgid ""
+" the title, progress amount, bar color, border color and background color "
+"for each item."
+msgstr ""
+
+#: admin/config.php:5255
+msgid ""
+"a new item using the \"Add Progress Bar\" button. A new item will be added "
+"at the botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:5351
+msgid "Shop Widget"
+msgstr ""
+
+#: admin/config.php:5352
+msgid "In this section you can set your [minigo-shop] widget shortcode."
+msgstr ""
+
+#: admin/config.php:5352
+msgid ""
+"It's important to note that you need to install the Ecwid plugin and set up "
+"a shop in order for it to work."
+msgstr ""
+
+#: admin/config.php:5361
+msgid "Enable Shop Widget"
+msgstr ""
+
+#: admin/config.php:5362
+msgid "If you're not using the Shop shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:5370
+msgid "Shop Widget Heading"
+msgstr ""
+
+#: admin/config.php:5378
+msgid "Show Content Before Shop?"
+msgstr ""
+
+#: admin/config.php:5379
+msgid ""
+"If you need to, you can display an editable content block before the Shop "
+"block."
+msgstr ""
+
+#: admin/config.php:5389
+msgid "Content Before the Shop"
+msgstr ""
+
+#: admin/config.php:5390 admin/config.php:5423
+msgid "Optional content area, displays after the shop."
+msgstr ""
+
+#: admin/config.php:5401
+msgid "Shop Code"
+msgstr ""
+
+#: admin/config.php:5402
+msgid "Paste your Shop code here."
+msgstr ""
+
+#: admin/config.php:5406
+msgid "Inserts the Shop HTML code where the shortcode is used"
+msgstr ""
+
+#: admin/config.php:5412
+msgid "Show Content After Shop?"
+msgstr ""
+
+#: admin/config.php:5413
+msgid ""
+"If you need to, you can display an editable content block after the Shop "
+"block."
+msgstr ""
+
+#: admin/config.php:5422
+msgid "Content After the Shop Adrea"
+msgstr ""
+
+#: admin/config.php:5440
+msgid "Team Members"
+msgstr ""
+
+#: admin/config.php:5441
+msgid "In this section you can set your Teams shortcodes"
+msgstr ""
+
+#: admin/config.php:5449
+msgid "Enable Team"
+msgstr ""
+
+#: admin/config.php:5450
+msgid "If you're not using the Team shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:5458
+msgid "Team Heading"
+msgstr ""
+
+#: admin/config.php:5459
+msgid "This is the heading that will show as teams shortcode heading"
+msgstr ""
+
+#: admin/config.php:5467
+msgid "Choose how many columns you want to use to display team members."
+msgstr ""
+
+#: admin/config.php:5485
+msgid "Team Profiles"
+msgstr ""
+
+#: admin/config.php:5495
+msgid ""
+"the image, first and last names, job title and social links for each member."
+msgstr ""
+
+#: admin/config.php:5501
+msgid ""
+"a new item using the \"Add Team Member\" button. A new item will be added at "
+"the botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:5649
+msgid "Testimonials Options"
+msgstr ""
+
+#: admin/config.php:5658
+msgid "Enable Testimonials"
+msgstr ""
+
+#: admin/config.php:5659
+msgid "If you're not using the Testimonials shortcode, disable it to be lean."
+msgstr ""
+
+#: admin/config.php:5675
+msgid "Testimonials Heading"
+msgstr ""
+
+#: admin/config.php:5676
+msgid "This is the heading that will show as testimonials shortcode heading"
+msgstr ""
+
+#: admin/config.php:5683 admin/config.php:8158
+msgid "Testimonials"
+msgstr ""
+
+#: admin/config.php:5699
+msgid ""
+"a new item using the \"Add Testimonial\" button. A new item will be added at "
+"the botom of the stack, ready to be edited."
+msgstr ""
+
+#: admin/config.php:5817
+msgid "Show testimonial images"
+msgstr ""
+
+#: admin/config.php:5818
+msgid "If you don't want to display testimonial images set this to No."
+msgstr ""
+
+#: admin/config.php:5826
+msgid "Show dots under the testimonial slider for navigation"
+msgstr ""
+
+#: admin/config.php:5827
+msgid ""
+"Choose whether or not you want the testimonial slider to have navigation "
+"dots."
+msgstr ""
+
+#: admin/config.php:5845
+msgid "Show left/right arrows in the testimonial slider for navigation"
+msgstr ""
+
+#: admin/config.php:5846
+msgid ""
+"Choose whether or not you want the testimonial slider to have navigation "
+"arrows."
+msgstr ""
+
+#: admin/config.php:5854
+msgid "Testimonial slider items rows"
+msgstr ""
+
+#: admin/config.php:5855
+msgid "Define how many rows you want on the testimonial slider"
+msgstr ""
+
+#: admin/config.php:5862
+msgid "Testimonial slider columns"
+msgstr ""
+
+#: admin/config.php:5863
+msgid "Define how many columns you want on the testimonial slider"
+msgstr ""
+
+#: admin/config.php:5871
+msgid "Testimonial slider number of items to scroll"
+msgstr ""
+
+#: admin/config.php:5895
+msgid "Testimonials scroll speed"
+msgstr ""
+
+#: admin/config.php:5913
+msgid "Testimonials Centermode"
+msgstr ""
+
+#: admin/config.php:5922
+msgid "Testimonials Breakpoint 1"
+msgstr ""
+
+#: admin/config.php:5954
+msgid "Testimonials Breakpoint 2"
+msgstr ""
+
+#: admin/config.php:5986
+msgid "Testimonials Breakpoint 3"
+msgstr ""
+
+#: admin/config.php:6020
+msgid "General Styling"
+msgstr ""
+
+#: admin/config.php:6021
+msgid "In this section you can fine-tune the appearance of your MiniGO."
+msgstr ""
+
+#: admin/config.php:6028
+msgid "Enable General Visual Settings"
+msgstr ""
+
+#: admin/config.php:6029
+msgid ""
+"Enable general visual settings in order to access the styling options and "
+"overwride the defaults."
+msgstr ""
+
+#: admin/config.php:6038
+msgid "Typography Styling"
+msgstr ""
+
+#: admin/config.php:6039
+msgid ""
+"In this sub-section you can control the font properties for headings and "
+"paragraph text."
+msgstr ""
+
+#: admin/config.php:6048
+msgid "Base Typography"
+msgstr ""
+
+#: admin/config.php:6049
+msgid "All other styles build on top of this."
+msgstr ""
+
+#: admin/config.php:6070
+msgid "Base Body Font Color"
+msgstr ""
+
+#: admin/config.php:6080
+msgid "Text Link Color"
+msgstr ""
+
+#: admin/config.php:6090
+msgid "Text Link Hover Color"
+msgstr ""
+
+#: admin/config.php:6101
+msgid "Text Link Underline Color."
+msgstr ""
+
+#: admin/config.php:6102
+msgid "You can select opacity 0 to hide underline."
+msgstr ""
+
+#: admin/config.php:6112
+msgid "Text Link Underline Hover Color"
+msgstr ""
+
+#: admin/config.php:6122
+msgid "Paragraphs"
+msgstr ""
+
+#: admin/config.php:6123
+msgid "This will only affect the paragraphs <p>"
+msgstr ""
+
+#: admin/config.php:6142
+msgid "Headings H1"
+msgstr ""
+
+#: admin/config.php:6163
+msgid "Headings H2"
+msgstr ""
+
+#: admin/config.php:6182
+msgid "Headings H3"
+msgstr ""
+
+#: admin/config.php:6200
+msgid "Headings H4"
+msgstr ""
+
+#: admin/config.php:6218
+msgid "Headings H5"
+msgstr ""
+
+#: admin/config.php:6236
+msgid "Headings H6"
+msgstr ""
+
+#: admin/config.php:6258
+msgid "Nav Buttons"
+msgstr ""
+
+#: admin/config.php:6269
+msgid "Navigation Button Styling"
+msgstr ""
+
+#: admin/config.php:6270
+msgid ""
+"In this sub-section you can control the main navigation buttons styling."
+msgstr ""
+
+#: admin/config.php:6274
+msgid "Navigation Buttons Typography"
+msgstr ""
+
+#: admin/config.php:6294
+msgid "Navigation Buttons Style"
+msgstr ""
+
+#: admin/config.php:6295
+msgid "Changes the style of the Navigation Buttons."
+msgstr ""
+
+#: admin/config.php:6308 admin/config.php:6561
+msgid "Rounded Corners Size"
+msgstr ""
+
+#: admin/config.php:6309 admin/config.php:6562
+msgid "Size in pixels."
+msgstr ""
+
+#: admin/config.php:6320
+msgid "Button Icon Color"
+msgstr ""
+
+#: admin/config.php:6321
+msgid "Affects icon color within buttons."
+msgstr ""
+
+#: admin/config.php:6331
+msgid "Button Label Color"
+msgstr ""
+
+#: admin/config.php:6332 admin/config.php:6739
+msgid "Affects text color within buttons."
+msgstr ""
+
+#: admin/config.php:6342 admin/config.php:6608 admin/config.php:6749
+msgid "Button Border Settings"
+msgstr ""
+
+#: admin/config.php:6343 admin/config.php:6609 admin/config.php:6750
+msgid ""
+"Control <strong>width</strong> and <strong>style</strong> of the button "
+"border."
+msgstr ""
+
+#: admin/config.php:6354 admin/config.php:6620 admin/config.php:6761
+msgid "Button Border Color"
+msgstr ""
+
+#: admin/config.php:6364 admin/config.php:6630 admin/config.php:6771
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/config.php:6377
+msgid "Navigation Button Hover Styling"
+msgstr ""
+
+#: admin/config.php:6379
+msgid ""
+"In this sub-section you can control hover properties for the navigation "
+"buttons."
+msgstr ""
+
+#: admin/config.php:6384
+msgid "Button Icon Color Hover"
+msgstr ""
+
+#: admin/config.php:6385
+msgid "Color of button icons when hovering."
+msgstr ""
+
+#: admin/config.php:6395
+msgid "Button Text Color Hover"
+msgstr ""
+
+#: admin/config.php:6396
+msgid "Color of button text when hovering."
+msgstr ""
+
+#: admin/config.php:6406 admin/config.php:6661 admin/config.php:6801
+msgid "Button Border Hover"
+msgstr ""
+
+#: admin/config.php:6418 admin/config.php:6673 admin/config.php:6812
+msgid "Button Border Color Hover"
+msgstr ""
+
+#: admin/config.php:6428 admin/config.php:6683 admin/config.php:6822
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: admin/config.php:6442
+msgid "Navigation Button Selected Styling"
+msgstr ""
+
+#: admin/config.php:6443
+msgid ""
+"In this sub-section you can control selected properties for the navigation "
+"buttons (:focus)."
+msgstr ""
+
+#: admin/config.php:6448
+msgid "Button Icon Color Selected"
+msgstr ""
+
+#: admin/config.php:6449
+msgid "Color of button icons when selected."
+msgstr ""
+
+#: admin/config.php:6459
+msgid "Button Text Color Selected"
+msgstr ""
+
+#: admin/config.php:6460
+msgid "Color of button text when selected."
+msgstr ""
+
+#: admin/config.php:6470
+msgid "Button Border Selected"
+msgstr ""
+
+#: admin/config.php:6482
+msgid "Button Border Color Selected"
+msgstr ""
+
+#: admin/config.php:6492
+msgid "Button Background Color Selected"
+msgstr ""
+
+#: admin/config.php:6507
+msgid "Icon Buttons"
+msgstr ""
+
+#: admin/config.php:6520
+msgid "Icon Menu Button Styling"
+msgstr ""
+
+#: admin/config.php:6521
+msgid ""
+"In this sub-section you can control the icon menu (social) buttons styling."
+msgstr ""
+
+#: admin/config.php:6525
+msgid "Social Button Label Typography"
+msgstr ""
+
+#: admin/config.php:6526
+msgid "Choose the Font for Social Labels"
+msgstr ""
+
+#: admin/config.php:6547
+msgid "Icon Menu Buttons Style"
+msgstr ""
+
+#: admin/config.php:6548
+msgid "Changes the style of the Icon Menu Buttons."
+msgstr ""
+
+#: admin/config.php:6573
+msgid "Icon Menu Button Label Color"
+msgstr ""
+
+#: admin/config.php:6574
+msgid ""
+"Changes the color of the text that appears on hovering the icon menu links."
+msgstr ""
+
+#: admin/config.php:6584
+msgid "Label Background Color"
+msgstr ""
+
+#: admin/config.php:6585
+msgid "Pick a color for the label background, keep alpha 0 for none."
+msgstr ""
+
+#: admin/config.php:6597 admin/config.php:6738
+msgid "Button Color"
+msgstr ""
+
+#: admin/config.php:6598
+msgid "Affects icons and text color within buttons."
+msgstr ""
+
+#: admin/config.php:6644
+msgid "Icon Menu Button Hover Styling"
+msgstr ""
+
+#: admin/config.php:6645
+msgid ""
+"In this sub-section you can control hover properties for the icon menu "
+"buttons."
+msgstr ""
+
+#: admin/config.php:6650 admin/config.php:6790
+msgid "Button Color Hover"
+msgstr ""
+
+#: admin/config.php:6651 admin/config.php:6791
+msgid "Color of button items when hovering."
+msgstr ""
+
+#: admin/config.php:6699
+msgid "Content Buttons"
+msgstr ""
+
+#: admin/config.php:6710
+msgid "Content Button Styling"
+msgstr ""
+
+#: admin/config.php:6711
+msgid ""
+"In this sub-section you can control your base Content Button properties."
+msgstr ""
+
+#: admin/config.php:6715
+msgid "Content Button Typography"
+msgstr ""
+
+#: admin/config.php:6716
+msgid "Choose the Font for Main Buttons"
+msgstr ""
+
+#: admin/config.php:6784
+msgid "Content Buttons Hover Styling"
+msgstr ""
+
+#: admin/config.php:6785
+msgid ""
+"In this sub-section you can control hover properties for the content buttons."
+msgstr ""
+
+#: admin/config.php:6838
+msgid "Forms Styling"
+msgstr ""
+
+#: admin/config.php:6839
+msgid "In this sub-section you can control form properties."
+msgstr ""
+
+#: admin/config.php:6848
+msgid "Typography Settings"
+msgstr ""
+
+#: admin/config.php:6849
+msgid "Choose the Forms font"
+msgstr ""
+
+#: admin/config.php:6868
+msgid "Notification Typography Settings"
+msgstr ""
+
+#: admin/config.php:6869
+msgid "This applies to all the form notifications such as validation errors"
+msgstr ""
+
+#: admin/config.php:6889
+msgid "Forms Border Style"
+msgstr ""
+
+#: admin/config.php:6900
+msgid "Forms Border Color"
+msgstr ""
+
+#: admin/config.php:6910
+msgid "Forms Color"
+msgstr ""
+
+#: admin/config.php:6920
+msgid "Input Background Color"
+msgstr ""
+
+#: admin/config.php:6930
+msgid "Forms Placeholder Text Color"
+msgstr ""
+
+#: admin/config.php:6940
+msgid "Forms Box Shadow Size"
+msgstr ""
+
+#: admin/config.php:6941 admin/config.php:7021 admin/config.php:7102
+msgid "Value in pixels, set to 0 for none."
+msgstr ""
+
+#: admin/config.php:6949
+msgid "Forms Box Shadow Color"
+msgstr ""
+
+#: admin/config.php:6961
+msgid "Forms Hover Styling"
+msgstr ""
+
+#: admin/config.php:6962
+msgid "In this sub-section you can control hover properties for forms."
+msgstr ""
+
+#: admin/config.php:6969
+msgid "Forms Hover Border"
+msgstr ""
+
+#: admin/config.php:6979
+msgid "Forms Hover Border Color"
+msgstr ""
+
+#: admin/config.php:6990
+msgid "Forms Hover Color"
+msgstr ""
+
+#: admin/config.php:7000
+msgid "Forms Hover Background Color"
+msgstr ""
+
+#: admin/config.php:7010
+msgid "Forms Hover Placeholder Text Color"
+msgstr ""
+
+#: admin/config.php:7020
+msgid "Forms Hover Box Shadow Size"
+msgstr ""
+
+#: admin/config.php:7029
+msgid "Forms Hover Box Shadow Color"
+msgstr ""
+
+#: admin/config.php:7042
+msgid "Forms Active Styling"
+msgstr ""
+
+#: admin/config.php:7043
+msgid "In this sub-section you can control active properties for forms."
+msgstr ""
+
+#: admin/config.php:7050
+msgid "Forms Active Border"
+msgstr ""
+
+#: admin/config.php:7061
+msgid "Forms Active Border Color"
+msgstr ""
+
+#: admin/config.php:7071
+msgid "Forms Active Color"
+msgstr ""
+
+#: admin/config.php:7081
+msgid "Forms Active Background Color"
+msgstr ""
+
+#: admin/config.php:7091
+msgid "Forms Active Placeholder Text Color"
+msgstr ""
+
+#: admin/config.php:7101
+msgid "Forms Active Box Shadow Size"
+msgstr ""
+
+#: admin/config.php:7110
+msgid "Forms Active Box Shadow Color"
+msgstr ""
+
+#: admin/config.php:7148
+msgid "Block Styling"
+msgstr ""
+
+#: admin/config.php:7149
+msgid "In this section you can fine-tune the appearance of your MiniGO blocks."
+msgstr ""
+
+#: admin/config.php:7156
+msgid "Enable Block Visual Settings"
+msgstr ""
+
+#: admin/config.php:7157
+msgid ""
+"Enable block visual settings in order to access the styling options and "
+"overwride the defaults."
+msgstr ""
+
+#: admin/config.php:7167
+msgid "Content Blocks"
+msgstr ""
+
+#: admin/config.php:7168
+msgid "In this sub-section you can set styles for your content shortcodes:"
+msgstr ""
+
+#: admin/config.php:7179
+msgid "Titles Shortcode Styling"
+msgstr ""
+
+#: admin/config.php:7185
+msgid "Titles - Title Color"
+msgstr ""
+
+#: admin/config.php:7186
+msgid "Set the color and opacity for the title."
+msgstr ""
+
+#: admin/config.php:7197
+msgid "Titles - Subtitle Color"
+msgstr ""
+
+#: admin/config.php:7198
+msgid "Set the color and opacity for the subtitle."
+msgstr ""
+
+#: admin/config.php:7209
+msgid "Titles - Divider Color"
+msgstr ""
+
+#: admin/config.php:7210
+msgid "Set the color and opacity for the titles divider."
+msgstr ""
+
+#: admin/config.php:7225
+msgid "Divider Shortcode Styling"
+msgstr ""
+
+#: admin/config.php:7231
+msgid "Divider - Color"
+msgstr ""
+
+#: admin/config.php:7232
+msgid ""
+"Set the color and opacity for the dividers. If you select a certain opacity "
+"when inserting shortcode, it will be applied over this setting."
+msgstr ""
+
+#: admin/config.php:7247
+msgid "Contact Info Shortcode Styling"
+msgstr ""
+
+#: admin/config.php:7253
+msgid "Icon - Color"
+msgstr ""
+
+#: admin/config.php:7254
+msgid "Set the color and opacity for the contact info icons."
+msgstr ""
+
+#: admin/config.php:7265
+msgid "Icon - Color - Hover"
+msgstr ""
+
+#: admin/config.php:7266
+msgid "Set the color and opacity for the contact info icons when hovering."
+msgstr ""
+
+#: admin/config.php:7282
+msgid "Countdown Styling"
+msgstr ""
+
+#: admin/config.php:7283
+msgid "The settings below control the Counter Style."
+msgstr ""
+
+#: admin/config.php:7291
+msgid "Countdown Numbers"
+msgstr ""
+
+#: admin/config.php:7292
+msgid "Set the countdown numbers typography."
+msgstr ""
+
+#: admin/config.php:7313
+msgid "Countdown Numbers Color"
+msgstr ""
+
+#: admin/config.php:7314
+msgid "Set the countdown numbers color."
+msgstr ""
+
+#: admin/config.php:7324
+msgid "Number Backgrounds"
+msgstr ""
+
+#: admin/config.php:7325
+msgid "Set the countdown numbers background. Can be set to transparent."
+msgstr ""
+
+#: admin/config.php:7336 admin/config.php:7408
+msgid "Border Style"
+msgstr ""
+
+#: admin/config.php:7347
+#: premio-fields/field-progress-bars/field-progress-bars.php:143
+msgid "Border Color"
+msgstr ""
+
+#: admin/config.php:7357
+msgid "Countdown Labels"
+msgstr ""
+
+#: admin/config.php:7358
+msgid "This will affect the countdown labels"
+msgstr ""
+
+#: admin/config.php:7378
+msgid "Countdown Labels Color"
+msgstr ""
+
+#: admin/config.php:7391
+msgid "Progress Bar Styling"
+msgstr ""
+
+#: admin/config.php:7392
+msgid "Set up the countdown progress bar if you chose to use it."
+msgstr ""
+
+#: admin/config.php:7397
+msgid "Progress Bar Color"
+msgstr ""
+
+#: admin/config.php:7419
+msgid "Progress Bar Border Color"
+msgstr ""
+
+#: admin/config.php:7434
+msgid ""
+"In this sub-section you can set styles for your Counter Features shortcode:"
+msgstr ""
+
+#: admin/config.php:7445
+msgid "Counter Features Styling"
+msgstr ""
+
+#: admin/config.php:7451
+msgid "Counter Features - Counter Color"
+msgstr ""
+
+#: admin/config.php:7452
+msgid "Set the color and opacity of the counter numbers."
+msgstr ""
+
+#: admin/config.php:7463
+msgid "Counter Features - Counter Color Hover"
+msgstr ""
+
+#: admin/config.php:7464
+msgid "Set the color and opacity of the counter numbers when hovering."
+msgstr ""
+
+#: admin/config.php:7475
+msgid "Counter Features - Icon Color"
+msgstr ""
+
+#: admin/config.php:7476 admin/config.php:7570 admin/config.php:7664
+msgid "Set the color and opacity icon."
+msgstr ""
+
+#: admin/config.php:7487
+msgid "Counter Features - Icon Color Hover"
+msgstr ""
+
+#: admin/config.php:7488 admin/config.php:7582 admin/config.php:7676
+msgid "Set the color and opacity for icon hover state."
+msgstr ""
+
+#: admin/config.php:7499
+msgid "Counter Features - Icon Border Color"
+msgstr ""
+
+#: admin/config.php:7500 admin/config.php:7594 admin/config.php:7688
+msgid "Set the color and opacity for icon border."
+msgstr ""
+
+#: admin/config.php:7511
+msgid "Counter Features - Icon Border Color Hover"
+msgstr ""
+
+#: admin/config.php:7512 admin/config.php:7606 admin/config.php:7700
+msgid "Set the color and opacity for icon border hover state."
+msgstr ""
+
+#: admin/config.php:7523
+msgid "Counter Features - Icon BG Color"
+msgstr ""
+
+#: admin/config.php:7524 admin/config.php:7618
+msgid "Set the color and opacity for icon Background."
+msgstr ""
+
+#: admin/config.php:7535
+msgid "Counter Features - Icon BG Color Hover"
+msgstr ""
+
+#: admin/config.php:7536 admin/config.php:7630
+msgid "Set the color and opacity for icon Background hover state."
+msgstr ""
+
+#: admin/config.php:7552
+msgid ""
+"In this sub-section you can set styles for your Icon Features shortcode:"
+msgstr ""
+
+#: admin/config.php:7563
+msgid "Icon Features Styling"
+msgstr ""
+
+#: admin/config.php:7569
+msgid "Icon Features - Icon Color"
+msgstr ""
+
+#: admin/config.php:7581
+msgid "Icon Features - Icon Color Hover"
+msgstr ""
+
+#: admin/config.php:7593
+msgid "Icon Features - Icon Border Color"
+msgstr ""
+
+#: admin/config.php:7605
+msgid "Icon Features - Icon Border Color Hover"
+msgstr ""
+
+#: admin/config.php:7617
+msgid "Icon Features - Icon BG Color"
+msgstr ""
+
+#: admin/config.php:7629
+msgid "Icon Features - Icon BG Color Hover"
+msgstr ""
+
+#: admin/config.php:7646
+msgid "In this sub-section you can set styles for your Icon List shortcode:"
+msgstr ""
+
+#: admin/config.php:7657
+msgid "Icon List Styling"
+msgstr ""
+
+#: admin/config.php:7663
+msgid "Icon List - Icon Color"
+msgstr ""
+
+#: admin/config.php:7675
+msgid "Icon List - Icon Color Hover"
+msgstr ""
+
+#: admin/config.php:7687
+msgid "Icon List - Icon Border Color"
+msgstr ""
+
+#: admin/config.php:7699
+msgid "Icon List - Icon Border Color Hover"
+msgstr ""
+
+#: admin/config.php:7711
+msgid "Icon List - Icon BG Color"
+msgstr ""
+
+#: admin/config.php:7712
+msgid "Set the color and opacity for icon background."
+msgstr ""
+
+#: admin/config.php:7723
+msgid "Icon List - Icon BG Color Hover"
+msgstr ""
+
+#: admin/config.php:7724
+msgid "Set the color and opacity for icon background hover state."
+msgstr ""
+
+#: admin/config.php:7739
+msgid "Map"
+msgstr ""
+
+#: admin/config.php:7740
+msgid "In this sub-section you can set styles for your Map shortcode:"
+msgstr ""
+
+#: admin/config.php:7751
+msgid "Map Styling"
+msgstr ""
+
+#: admin/config.php:7757
+msgid "Map - Border Color"
+msgstr ""
+
+#: admin/config.php:7758
+msgid "Set the color and opacity for map border."
+msgstr ""
+
+#: admin/config.php:7769
+msgid "Map - Border Color Hover"
+msgstr ""
+
+#: admin/config.php:7770
+msgid "Set the color and opacity for map border hover state."
+msgstr ""
+
+#: admin/config.php:7781
+msgid "Map - BG Color"
+msgstr ""
+
+#: admin/config.php:7782
+msgid "Set the color and opacity for map background."
+msgstr ""
+
+#: admin/config.php:7793
+msgid "Map - BG Color Hover"
+msgstr ""
+
+#: admin/config.php:7794
+msgid "Set the color and opacity for map background hover state."
+msgstr ""
+
+#: admin/config.php:7810
+msgid ""
+"In this sub-section you can set styles for your photo gallery shortcode:"
+msgstr ""
+
+#: admin/config.php:7821
+msgid "Photo Gallery Styling"
+msgstr ""
+
+#: admin/config.php:7827
+msgid "Thumbnail - Border Size"
+msgstr ""
+
+#: admin/config.php:7828
+msgid "Value in pixels."
+msgstr ""
+
+#: admin/config.php:7836
+msgid "Thumbnail - Background Color"
+msgstr ""
+
+#: admin/config.php:7837 admin/config.php:8131
+msgid "Set the color and opacity for thumbnail background."
+msgstr ""
+
+#: admin/config.php:7848
+msgid "Thumbnail - Hover Background Color"
+msgstr ""
+
+#: admin/config.php:7849
+msgid "Set the color and opacity for thumbnail background on hover."
+msgstr ""
+
+#: admin/config.php:7860
+msgid "Thumbnail - Border Color"
+msgstr ""
+
+#: admin/config.php:7861 admin/config.php:8107
+msgid "Set the color and opacity for thumbnail border."
+msgstr ""
+
+#: admin/config.php:7872
+msgid "Thumbnail - Border Color Hover"
+msgstr ""
+
+#: admin/config.php:7873 admin/config.php:8119
+msgid "Set the color and opacity for thumbnail border hover state."
+msgstr ""
+
+#: admin/config.php:7889
+msgid ""
+"In this sub-section you can set styles for your progress bars shortcode:"
+msgstr ""
+
+#: admin/config.php:7900
+msgid "Progress Bars Styling"
+msgstr ""
+
+#: admin/config.php:7906
+msgid "Progress Bars - Value Color"
+msgstr ""
+
+#: admin/config.php:7907
+msgid "Set the color and opacity for the value."
+msgstr ""
+
+#: admin/config.php:7918
+msgid "Progress Bars - Bar Color"
+msgstr ""
+
+#: admin/config.php:7919
+msgid "Set the color and opacity for progress bars."
+msgstr ""
+
+#: admin/config.php:7930
+msgid "Progress Bars - Bar Background Color"
+msgstr ""
+
+#: admin/config.php:7931
+msgid "Set the color and opacity for for progress bars background."
+msgstr ""
+
+#: admin/config.php:7942
+msgid "Progress Bars - Bar Border Color"
+msgstr ""
+
+#: admin/config.php:7943
+msgid "Set the color and opacity for for progress bars border."
+msgstr ""
+
+#: admin/config.php:7958
+msgid "Shop"
+msgstr ""
+
+#: admin/config.php:7959
+msgid "In this sub-section you can set styles for your Shop shortcode:"
+msgstr ""
+
+#: admin/config.php:7959
+msgid "Note: More specific options will be added in an update."
+msgstr ""
+
+#: admin/config.php:7970
+msgid "Shop General Styling"
+msgstr ""
+
+#: admin/config.php:7976
+msgid "Shop - Brand Color"
+msgstr ""
+
+#: admin/config.php:7977
+msgid "Set the main color"
+msgstr ""
+
+#: admin/config.php:7988
+msgid "Shop - Background Color"
+msgstr ""
+
+#: admin/config.php:7989
+msgid "Set the color and opacity for Shop border hover state."
+msgstr ""
+
+#: admin/config.php:8004
+msgid "Slider Blocks"
+msgstr ""
+
+#: admin/config.php:8005
+msgid "In this sub-section you can set styles for your slider shortcodes:"
+msgstr ""
+
+#: admin/config.php:8016
+msgid "Slider Styling"
+msgstr ""
+
+#: admin/config.php:8017
+msgid ""
+"Set styles for the slider used for the photo gallery and testimonials "
+"shortcodes."
+msgstr ""
+
+#: admin/config.php:8023
+msgid "Navigation - Dots Color"
+msgstr ""
+
+#: admin/config.php:8024
+msgid "Set the color and opacity for the gallery navigation dots."
+msgstr ""
+
+#: admin/config.php:8035
+msgid "Navigation - Dots Hover Color"
+msgstr ""
+
+#: admin/config.php:8036
+msgid "Set the color and opacity for dots hover state."
+msgstr ""
+
+#: admin/config.php:8047
+msgid "Navigation - Dots Active Color"
+msgstr ""
+
+#: admin/config.php:8048
+msgid "Set the color and opacity for dots active state."
+msgstr ""
+
+#: admin/config.php:8059
+msgid "Navigation - Arrows Color"
+msgstr ""
+
+#: admin/config.php:8060
+msgid "Set the color and opacity for the gallery navigation arrows."
+msgstr ""
+
+#: admin/config.php:8071
+msgid "Navigation - Arrows Hover Color"
+msgstr ""
+
+#: admin/config.php:8072
+msgid "Set the color and opacity for arrows hover state."
+msgstr ""
+
+#: admin/config.php:8088
+msgid "Team"
+msgstr ""
+
+#: admin/config.php:8089
+msgid "In this sub-section you can set styles for your team shortcode:"
+msgstr ""
+
+#: admin/config.php:8100
+msgid "Team Members Styling"
+msgstr ""
+
+#: admin/config.php:8106
+msgid "Avatar - Border Color"
+msgstr ""
+
+#: admin/config.php:8118
+msgid "Avatar - Border Color Hover"
+msgstr ""
+
+#: admin/config.php:8130
+msgid "Avatar - BG Color"
+msgstr ""
+
+#: admin/config.php:8142
+msgid "Avatar - BG Color Hover"
+msgstr ""
+
+#: admin/config.php:8143
+msgid "Set the color and opacity for thumbnail background hover state."
+msgstr ""
+
+#: admin/config.php:8159
+msgid "In this sub-section you can set styles for your Testimonials shortcode:"
+msgstr ""
+
+#: admin/config.php:8170
+msgid "Testimonials Styling"
+msgstr ""
+
+#: admin/config.php:8176
+msgid "Testimonials - Icon Color"
+msgstr ""
+
+#: admin/config.php:8177
+msgid "Set the color and opacity for testimonial icon."
+msgstr ""
+
+#: admin/config.php:8188
+msgid "Testimonials - Icon Color Hover"
+msgstr ""
+
+#: admin/config.php:8189
+msgid "Set the color and opacity for testimonial icon hover state."
+msgstr ""
+
+#: admin/config.php:8200
+msgid "Testimonials - Divider Color"
+msgstr ""
+
+#: admin/config.php:8201
+msgid "Set the color and opacity for testimonial divider."
+msgstr ""
+
+#: admin/config.php:8212
+msgid "Testimonials - Divider Color Hover"
+msgstr ""
+
+#: admin/config.php:8213
+msgid "Set the color and opacity for testimonial divider hover state."
+msgstr ""
+
+#: admin/config.php:8224
+msgid "Testimonials - Avatar Border Color"
+msgstr ""
+
+#: admin/config.php:8225
+msgid "Set the color and opacity for testimonial avatar border."
+msgstr ""
+
+#: admin/config.php:8236
+msgid "Testimonials - Avatar Border Color Hover"
+msgstr ""
+
+#: admin/config.php:8237
+msgid "Set the color and opacity for testimonial avatar border hover state."
+msgstr ""
+
+#: admin/config.php:8248
+msgid "Testimonials - Avatar BG Color"
+msgstr ""
+
+#: admin/config.php:8249
+msgid "Set the color and opacity for testimonial avatar background."
+msgstr ""
+
+#: admin/config.php:8260
+msgid "Testimonials - Avatar BG Color Hover"
+msgstr ""
+
+#: admin/config.php:8261
+msgid ""
+"Set the color and opacity for testimonial avatar background hover state."
+msgstr ""
+
+#: admin/config.php:8275
+msgid "Advanced"
+msgstr ""
+
+#: admin/config.php:8282
+msgid "Load Styles and Scripts from other Plugins"
+msgstr ""
+
+#: admin/config.php:8283
+msgid ""
+"Choose whether or not to load CSS and Javascript files enqueued by the "
+"active theme and other active plugins."
+msgstr ""
+
+#: admin/config.php:8283
+msgid ""
+"This will allow you to use any shortcodes that other plugins provide but "
+"<strong>may break MiniGO."
+msgstr ""
+
+#: admin/config.php:8290
+msgid "Attempt to remove Theme Styles and Scripts"
+msgstr ""
+
+#: admin/config.php:8291
+msgid ""
+"If enabled, the plugin will attempt to remove any styling and scripts loaded "
+"by the active theme."
+msgstr ""
+
+#: admin/config.php:8291
+msgid "Set this to On to keep your theme from breaking MiniGO."
+msgstr ""
+
+#: admin/config.php:8291
+msgid ""
+"There's no way to ensure that the cleanup was successful so the theme's "
+"styles may still be able to break MiniGO's layout."
+msgstr ""
+
+#: admin/config.php:8297
+msgid "Whitelist IPs"
+msgstr ""
+
+#: admin/config.php:8298
+msgid ""
+"A list of client IPs that will view your theme regardless if MiniGO is "
+"disabled or not and the visitor using the IP is logged in or not."
+msgstr ""
+
+#: admin/config.php:8299
+msgid "One IP per line."
+msgstr ""
+
+#: admin/config.php:8308
+msgid "Updates"
+msgstr ""
+
+#: admin/config.php:8309
+msgid ""
+"Stay up to date with automatic updates for your plugin! Just enter your "
+"purchase key below and you're set."
+msgstr ""
+
+#: admin/config.php:8316
+msgid "Purchase Key"
+msgstr ""
+
+#: admin/config.php:8317
+msgid "Don't know where to find it?"
+msgstr ""
+
+#: admin/config.php:8317
+msgid "Follow our "
+msgstr ""
+
+#: admin/config.php:8317
+msgid "quick tutorial"
+msgstr ""
+
+#: admin/config.php:8328
+msgid "Import/Export"
+msgstr ""
+
+#: admin/config.php:8329
+msgid ""
+"You can import and export all MiniGO Settings in JSON format which is quite "
+"handy if you want to back up your site, clone or migrate it."
+msgstr ""
+
+#: premio-fields/field-contact-info/field_contact_info.php:102
+#: premio-fields/field-testimonials/field-testimonials.php:146
+msgid "Link (optional)"
+msgstr ""
+
+#: premio-fields/field-contact-info/field_contact_info.php:107
+#: premio-fields/field-counter-features/field-counter-features.php:101
+#: premio-fields/field-counter-features/field-icon-features.php:100
+#: premio-fields/field-icon-features/field-icon-features.php:100
+#: premio-fields/field-icon-list/field-icon-list.php:99
+#: premio-fields/field-icon-menu/field-icon-menu.php:123
+#: premio-fields/field-progress-bars/field-progress-bars.php:114
+#: premio-fields/field-testimonials/field-testimonials.php:154
+msgid "Select an Icon"
+msgstr ""
+
+#: premio-fields/field-contact-info/field_contact_info.php:149
+msgid "New Contact Info"
+msgstr ""
+
+#: premio-fields/field-contact-info/field_contact_info.php:152
+#: premio-fields/field-counter-features/field-counter-features.php:156
+#: premio-fields/field-counter-features/field-icon-features.php:152
+#: premio-fields/field-icon-features/field-icon-features.php:152
+#: premio-fields/field-icon-list/field-icon-list.php:148
+#: premio-fields/field-icon-menu/field-icon-menu.php:190
+#: premio-fields/field-progress-bars/field-progress-bars.php:178
+#: premio-fields/field-team-profiles/field-team-profiles.php:223
+#: premio-fields/field-testimonials/field-testimonials.php:203
+msgid "Delete All"
+msgstr ""
+
+#: premio-fields/field-counter-features/field-counter-features.php:125
+msgid "Enter Title"
+msgstr ""
+
+#: premio-fields/field-counter-features/field-counter-features.php:128
+msgid "Enter Counter Value"
+msgstr ""
+
+#: premio-fields/field-counter-features/field-counter-features.php:131
+msgid "Enter (optional) Text"
+msgstr ""
+
+#: premio-fields/field-counter-features/field-counter-features.php:153
+msgid "New Counter Feature"
+msgstr ""
+
+#: premio-fields/field-counter-features/field-icon-features.php:124
+#: premio-fields/field-icon-features/field-icon-features.php:124
+#: premio-fields/field-icon-list/field-icon-list.php:123
+#: premio-fields/field-icon-menu/field-icon-menu.php:110
+#: premio-fields/field-progress-bars/field-progress-bars.php:102
+msgid "Label"
+msgstr ""
+
+#: premio-fields/field-counter-features/field-icon-features.php:149
+#: premio-fields/field-icon-features/field-icon-features.php:149
+msgid "New Icon Feature"
+msgstr ""
+
+#: premio-fields/field-icon-list/field-icon-list.php:145
+msgid "New Icon List Item"
+msgstr ""
+
+#: premio-fields/field-icon-menu/field-icon-menu.php:114
+msgid "Link"
+msgstr ""
+
+#: premio-fields/field-icon-menu/field-icon-menu.php:165
+#: premio-fields/field-progress-bars/field-progress-bars.php:153
+msgid ""
+"<strong>Important!</strong> If you add new field, please <strong>Save "
+"Changes</strong> first and then insert your <strong>colors</strong>."
+msgstr ""
+
+#: premio-fields/field-icon-menu/field-icon-menu.php:187
+msgid "New Icon Menu Link"
+msgstr ""
+
+#: premio-fields/field-progress-bars/field-progress-bars.php:102
+msgid "Title:"
+msgstr ""
+
+#: premio-fields/field-progress-bars/field-progress-bars.php:106
+msgid "Value"
+msgstr ""
+
+#: premio-fields/field-progress-bars/field-progress-bars.php:106
+msgid "Amount ex. 5 or 24%"
+msgstr ""
+
+#: premio-fields/field-progress-bars/field-progress-bars.php:109
+msgid "Progress (%)"
+msgstr ""
+
+#: premio-fields/field-progress-bars/field-progress-bars.php:109
+msgid "Progress bar percentage, ex. 75"
+msgstr ""
+
+#: premio-fields/field-progress-bars/field-progress-bars.php:138
+msgid "Bar Color"
+msgstr ""
+
+#: premio-fields/field-progress-bars/field-progress-bars.php:175
+msgid "New Progress Bar"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:141
+#: premio-fields/field-testimonials/field-testimonials.php:119
+msgid "Upload"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:148
+#: premio-fields/field-testimonials/field-testimonials.php:126
+msgid "Remove"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:161
+msgid "First Name"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:164
+msgid "Last Name"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:167
+msgid "Job Title"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:174
+msgid ""
+"<strong>Link Tip:</strong>  If you want an icon link to show up, fill in the "
+"url field, otherwise leave it blank."
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:180
+msgid "Website url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:181
+msgid "Email url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:182
+msgid "Phone url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:183
+msgid "Facebook url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:184
+msgid "Twitter url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:185
+msgid "Linkedin url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:186
+msgid "Pintrest url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:187
+msgid "Google Plus url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:188
+msgid "Youtube url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:189
+msgid "Instagram url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:190
+msgid "Flickr url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:191
+msgid "Skype url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:192
+msgid "WhatsApp url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:193
+msgid "SnapChat url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:194
+msgid "Vine url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:195
+msgid "Wordpress url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:196
+msgid "Tumblr url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:197
+msgid "Slack url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:198
+msgid "Git url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:199
+msgid "Behance url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:200
+msgid "Dribbble url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:201
+msgid "Deviantart url"
+msgstr ""
+
+#: premio-fields/field-team-profiles/field-team-profiles.php:220
+msgid "New Team Member"
+msgstr ""
+
+#: premio-fields/field-testimonials/field-testimonials.php:140
+msgid "Name"
+msgstr ""
+
+#: premio-fields/field-testimonials/field-testimonials.php:143
+msgid "Position"
+msgstr ""
+
+#: premio-fields/field-testimonials/field-testimonials.php:149
+msgid "Open in new Window/Tab"
+msgstr ""
+
+#: premio-fields/field-testimonials/field-testimonials.php:178
+msgid "Testimonial Text"
+msgstr ""
+
+#: premio-fields/field-testimonials/field-testimonials.php:200
+msgid "New Testimonial"
+msgstr ""
+
+#: premio-fields/premio-verify/premio-verify.php:67
+msgid "Greetings"
+msgstr ""
+
+#: premio-fields/premio-verify/premio-verify.php:67
+msgid ", thank you for purchasing"
+msgstr ""

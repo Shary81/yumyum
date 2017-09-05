@@ -1,0 +1,557 @@
+/*
+        Theme Name: Listingpro
+		Text Domain: listingpro
+        Theme URI: https://themeforest.net/item/listingpro-multipurpose-directory-theme/19386460
+        Description: ListingPro is a complete solution for any type of directory/Listing theme.
+        Author: Team of CridioStudio
+        Author URI: https://themeforest.net/user/cridiostudio
+		Version: 1.0.1
+		License: GNU General Public License version 3.0
+		License URI: http://www.gnu.org/licenses/gpl-3.0.html
+        Tags:one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-image-header, featured-images, post-formats, sticky-post, theme-options, translation-ready
+*/
+/* Theme Styling Start */
+
+/* ------------ BASE ------------- */
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+        white-space: nowrap;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+/* WP Default Gallery */
+
+.gallery {
+    display: block;
+    clear: both;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.gallery .gallery-row {
+    display:block;
+    clear: both;
+    overflow: hidden;
+    margin: 0;
+}
+.gallery .gallery-item {
+    overflow: hidden;
+    float: left;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    border: 1px solid #efefef;
+    margin: 0 10px 10px 0;
+}
+.gallery .gallery-item img, .gallery .gallery-item img.thumbnail {
+    max-width: 90%;
+    height: auto;
+    margin: 5% auto;
+}
+.gallery-caption {
+    margin: 0 0 8px;
+    font-style: italic;
+    font-family: arial;
+}
+
+/* Table */
+table{
+    width:100%;
+    border-spacing:0;
+    border-collapse:collapse;
+    background-color:transparent;
+}
+table th,table td{
+    padding:8px;
+    border-top:1px solid #f0f0f0;
+    vertical-align:top;
+    text-align:left;
+    line-height:20px;
+}
+table th{
+    font-weight:bold;
+}
+table thead th{
+    vertical-align:bottom;
+}
+table caption + thead tr:first-child th,table caption + thead tr:first-child td,table colgroup + thead tr:first-child th,table colgroup + thead tr:first-child td,table thead:first-child tr:first-child th,table thead:first-child tr:first-child td{border-top:0;}
+table tbody + tbody{
+    border-top:2px solid #dddddd;
+}
+.sticky{
+	
+}
+.bypostauthor{
+	
+}
+/* Widgets Style */
+aside > ul{
+    padding: 10px 0px;
+}
+aside h2.widget-title{
+	font-size: 22px;
+    margin: 0 0 20px;
+	}
+ #sidebar li a{
+	 padding-right:20px;
+	 }
+/*aside > ul li a{
+    color: #888888;*/
+/*font-weight: bold;*/
+aside > ul li a:hover{
+    color: #55a8e2;
+}
+.widget_archive select, .widget_categories select, .widget_text select{
+	width:100%;
+	height:30px;
+	
+}
+.widget img {
+	max-width:100%
+}
+#sidebar aside.widget,#footer aside.widget{
+    margin-bottom: 30px;
+}
+#sidebar aside.widget ul li {
+    margin-right: 15px;
+    padding: 14px 0 14px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+
+#sidebar aside.widget ul li:first-child{
+    padding-top: 4px;
+}
+#sidebar aside.widget ul li:last-child{
+    padding-bottom: 4px;
+    border-bottom: 0;
+}
+#sidebar aside.widget [class^="icon-"] a,#sidebar aside.widget [class*=" icon-"] a{
+    padding-left: 10px;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#sidebar form#searchform{
+    position: relative;
+}
+#sidebar form#searchform .icon-search{
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    color: #D6D6D6;
+    font-size: 18px;
+}
+#sidebar form#searchform input{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 8px 8px 8px 40px;
+    height: 40px;
+    width: 100%;    
+    margin: 0 !important;
+    border: 2px solid #e1e1e1;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    color: #888;
+}
+h3.widget-title{
+    margin-bottom: 13px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h3.widget-title span {
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+
+
+/* Recent Posts Widget */
+#sidebar aside ul{
+	list-style:none;
+}
+.imo-recent-posts-widget ul{
+    margin: 0;
+    list-style: none;
+}
+.imo-recent-posts-widget ul li{
+    display: inline-block;    
+    padding: 10px 0;
+    width: 100%;    
+}
+#sidebar aside.widget .imo-recent-posts-widget ul li{
+    padding: 12px 0 0;
+    border-bottom: 0;
+}
+#sidebar aside.widget .imo-recent-posts-widget ul li:first-child{
+    padding-top: 4px;
+}
+#sidebar .widget .imo-recent-posts-widget ul li:before{
+    display: none;
+}
+#sidebar .imo-recent-posts-widget h4{
+    font-weight: normal;
+}
+.imo-recent-posts-widget ul li:first-child{
+    padding-top: 0;
+}
+.imo-recent-posts-widget h4{
+    margin-bottom: 4px;
+    font-size: 13px;
+    line-height: 20px;
+}
+.imo-recent-posts-widget .meta{
+    color: #aaa;
+    text-transform: capitalize;
+    font-size: 13px;
+    line-height: 20px;
+}
+.imo-recent-posts-widget .recent-thumb img{
+    -webkit-box-shadow: inset 0 1px rgba(255,255,255,.2);
+    -moz-box-shadow: inset 0 1px rgba(255,255,255,.2);
+    box-shadow: inset 0 1px rgba(255,255,255,.2);
+}
+.imo-recent-posts-widget .recent-thumb {
+    float: left;
+    margin: 4px 22px 4px 0;    
+}
+
+/* Tag Widget */
+
+.widget_tag_cloud h2{
+	margin-bottom:20px !important
+	}
+.tagcloud a{
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    padding: 6px 15px;
+    text-transform: capitalize;
+    font-size: 14px !important;
+    line-height: 20px;
+	border:1px solid #e1e1e1;
+}
+.tagcloud a:hover,#footer .tagcloud a:hover{
+    border:1px solid #55a8e2;
+    color: #55a8e2 !important;
+}
+/* Removing Child Pages from Widgets */
+.widget_pages ul.children,
+.widget_nav_menu ul.sub-menu{
+    display: none;
+}
+/*==========Custom style f 8-8-2017============*/
+/*header*/
+.header-filter .lp-search-icon {
+    top: 0px;
+	background-position: center center !important;
+}
+.exp {
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    top: 15px;
+}
+.lp-menu-bar{
+    padding: 10px 0px 0 0;
+}
+.control-block .lp-joinus-icon > div {
+    display: inline-block;
+    margin: 0px 10px 0 0;
+}
+.show-calendar{
+	top: 0 !important;
+}
+/*end header*/
+.mm-page {
+    top: 70px;
+}
+/*login form*/
+.registration-login-form .nav-tabs > li > a:after, .news-feed-form .nav-tabs > li > a:after {
+    content: none;
+}
+.registration-login-form .nav-tabs > li {
+	float: none;
+}
+p.status {
+    margin-left: 0px;
+}
+/*end login form*/
+
+/*side menus*/
+.your-profile-menu {
+    padding: 0;
+}
+#cssmenu > ul#menu-submenu > li.open > a{
+	box-shadow: none;
+}
+.more-dropdown ul{
+	margin-top: 0;
+}
+#menu-your-account {
+    padding: 0;
+    margin: 0;
+}
+.more-dropdown a i{
+	color: #9a9fbf;
+}
+.account-settings svg {
+    fill: #9a9fbf;
+	margin-right: 17px;
+}
+/*end side menu*/
+
+/*buddypress changes*/
+#buddypress div#item-header #item-header-cover-image #item-header-content {
+    float: none;
+    margin-left: 0;
+    margin-top: 0;
+	text-align: center;
+}
+#buddypress #item-header-cover-image #item-header-avatar {
+    float: none;
+}
+#buddypress #header-cover-image {
+    height: 350px;
+}
+#buddypress .profile-section {
+    padding: 38px 0 !important;
+}
+#buddypress #item-header-cover-image {
+    top: 260px;
+}
+#buddypress .top-header-author .author-thumb {
+    border: 6px solid #fff !important;
+}
+#buddypress #item-header-cover-image #item-header-avatar img.avatar {
+	border:none; 
+	width: 100%;
+    height: 100%;
+    margin: 0;
+}
+#buddypress #item-header .ui-block {
+    min-height: 510px;
+}
+#buddypress .top-header-author {
+    position: relative;
+    left: 0;
+    transform: inherit;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    margin-top: -10px !important;
+}
+.remove_margin{
+	margin:0 !important;	
+}
+#buddypress div.item-list-tabs ul li a {
+    color: forestgreen;
+}
+.chng {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.66);
+    border: 1px solid #666;
+	display: none;
+}
+.change_cover{
+	position: relative;
+	border-radius: 2px;
+    padding: 5px 15px;
+    margin: 10px;
+	font-size: 14px;
+}
+.change_profile i {
+    display: block;
+    margin: 0 auto;
+}
+.change_profile{
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	text-align: center;
+}
+.header_cover_img:hover .change_cover{
+	display: inline-block;
+}
+.change_profile_img:hover .change_profile{
+	display: block;
+}
+/*custom animation*/
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.fadeIn {
+  animation-name: fadeIn;
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+}
+/*end custom animation*/
+
+.search-bar .form-group.with-button input {
+    background-color: #fafafa;
+    border-radius: inherit;
+	max-width: 233px;
+	min-width: 233px;
+}
+/*end buddypress changes*/
+/*f 30-8-2017*/
+/*div#more_filters > div {
+    display: block;
+}
+div#more_filters {
+    width: 100%;
+}*/
+.more-filter .form-group {
+    display: inline-block !important;
+}
+.currency-signs > ul > li > a {
+    padding: 5px 0px;
+}
+.col-md-1, .col-md-2, .col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{
+	flex: inherit !important;
+	float: left;
+}
+.hide {
+  display: none !important;
+}
+.chosen-date{
+	background-color: transparent;
+    border: 0px solid #fff;
+    border-radius: 0 5px 5px 0;
+    padding-left: 65px;
+    padding-top: 1px;
+}
+.chosen-date input {
+    border: none;
+    padding: 12px 0px;
+}

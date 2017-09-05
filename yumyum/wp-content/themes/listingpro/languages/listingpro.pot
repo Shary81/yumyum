@@ -1,0 +1,4243 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: listingpro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-27 20:50+0500\n"
+"POT-Revision-Date: Tue Mar 08 2016 16:05:54 GMT+0500 (Pakistan Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: cland <cland@gmail.com>\n"
+"Language-Team: Cridio <sam@gmail.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/bootstrap-rating.js:1 assets/js/jquery-ui.js:2
+msgid "<span></span>"
+msgstr ""
+
+#: assets/js/bootstrap-rating.js:1
+msgid "<div class=\"rating-symbol\"></div>"
+msgstr ""
+
+#: assets/js/bootstrap-rating.js:1
+msgid "<div class=\"rating-symbol-background "
+msgstr ""
+
+#: assets/js/bootstrap-rating.js:1
+msgid "<div class=\"rating-symbol-foreground\"></div>"
+msgstr ""
+
+#: assets/js/bootstrap-rating.js:1
+msgid "input.rating"
+msgstr ""
+
+#: assets/js/build.min.js:1
+msgid "<iframe frameborder='0' width='0' height='0'/>"
+msgstr ""
+
+#: assets/js/build.min.js:3
+msgid "<script>"
+msgstr ""
+
+#: assets/js/build.min.js:3 assets/js/jquery-ui.js:2 assets/js/jquery-ui.js:3
+#: assets/js/jquery-ui.js:5 assets/js/jquery-ui.js:6 assets/js/jquery-ui.js:8
+msgid "<div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:1
+msgid "img[usemap='#"
+msgstr ""
+
+#: assets/js/jquery-ui.js:1
+msgid "<div id='"
+msgstr ""
+
+#: assets/js/jquery-ui.js:1 assets/js/jquery-ui.js:8
+msgid "<a>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:1
+msgid ""
+"<div style='display:block;position:absolute;width:50px;height:50px;overflow:"
+"hidden;'><div style='height:100px;width:auto;'></div></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:1 assets/js/jquery-ui.js:2 assets/js/jquery-ui.js:3
+#: assets/js/jquery-ui.js:4 assets/js/jquery-ui.js:6
+#: assets/lib/chosen/chosen.jquery.js:1
+msgid "body"
+msgstr ""
+
+#: assets/js/jquery-ui.js:1 assets/js/jquery-ui.js:2 assets/js/jquery-ui.js:5
+#: assets/js/jquery-ui.js:6
+msgid "<span>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2 assets/js/jquery-ui.js:6
+msgid "<ul>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2 assets/js/jquery-ui.js:6
+msgid "<li>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2
+msgid "[name='"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2
+msgid "<div class='"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2
+msgid "<span class='"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2
+msgid "<img/>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2 assets/js/jquery-ui.js:5
+msgid "<button type='button'></button>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2
+msgid "<input type='text' id='"
+msgstr ""
+
+#: assets/js/jquery-ui.js:2
+msgid "td."
+msgstr ""
+
+#: assets/js/jquery-ui.js:3 assets/lib/jquerym.menu/js/jquery.mmenu.min.all.js:133
+msgid "input"
+msgstr ""
+
+#: assets/js/jquery-ui.js:3 assets/js/jquery-ui.js:8
+msgid "a"
+msgstr ""
+
+#: assets/js/jquery-ui.js:3 assets/js/jquery-ui.js:8
+msgid "#"
+msgstr ""
+
+#: assets/js/jquery-ui.js:4
+msgid ":data(ui-draggable)"
+msgstr ""
+
+#: assets/js/jquery-ui.js:4
+msgid "<div class='ui-wrapper' style='overflow: hidden;'></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:4
+msgid ".ui-resizable-handle"
+msgstr ""
+
+#: assets/js/jquery-ui.js:4
+msgid "<div class='ui-resizable-handle "
+msgstr ""
+
+#: assets/js/jquery-ui.js:4
+msgid ".ui-resizable-"
+msgstr ""
+
+#: assets/js/jquery-ui.js:4
+msgid "<div style='overflow:hidden;'></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:5
+msgid "<button></button>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:5
+msgid "<p>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:5 assets/js/jquery-ui.js:6
+msgid "<div></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:6
+msgid "<div class='ui-effects-transfer'></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:6
+msgid "<div class='ui-progressbar-value ui-widget-header ui-corner-left'></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:6
+msgid "<div class='ui-progressbar-overlay'></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:6
+msgid "<div class='ui-selectable-helper'></div>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:6
+msgid ".ui-unselecting"
+msgstr ""
+
+#: assets/js/jquery-ui.js:6
+msgid ".ui-selecting"
+msgstr ""
+
+#: assets/js/jquery-ui.js:6 assets/lib/chosen/chosen.jquery.js:1
+msgid "label[for='"
+msgstr ""
+
+#: assets/js/jquery-ui.js:7
+msgid "<style>*{ cursor: "
+msgstr ""
+
+#: assets/js/jquery-ui.js:7
+msgid "<"
+msgstr ""
+
+#: assets/js/jquery-ui.js:7
+msgid "<tr>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:7
+msgid "<td>&#160;</td>"
+msgstr ""
+
+#: assets/js/jquery-ui.js:7
+msgid "parent"
+msgstr ""
+
+#: assets/js/mapbox.js:8
+msgid "MultiLineString"
+msgstr ""
+
+#: assets/js/mapbox.js:8
+msgid "MultiPolygon"
+msgstr ""
+
+#: assets/js/mapbox.js:8
+msgid "MultiPoint"
+msgstr ""
+
+#: assets/js/mapbox.js:9
+msgid "top"
+msgstr ""
+
+#: assets/js/mapbox.js:9
+msgid "bottom"
+msgstr ""
+
+#: assets/lib/chosen/chosen.jquery.js:1
+msgid "<div />"
+msgstr ""
+
+#: assets/lib/chosen/chosen.jquery.js:1
+msgid "<li />"
+msgstr ""
+
+#: assets/lib/chosen/chosen.jquery.js:1
+msgid "<a />"
+msgstr ""
+
+#: assets/lib/chosen/chosen.jquery.js:1
+msgid "<div/>"
+msgstr ""
+
+#: assets/lib/chosen/chosen.jquery.js:1
+msgid "<li class=\"no-results\">"
+msgstr ""
+
+#: assets/lib/jquerym.menu/js/jquery.mmenu.min.all.js:41
+msgid "em"
+msgstr ""
+
+#: assets/lib/jquerym.menu/js/jquery.mmenu.min.all.js:41
+msgid "<em class=\""
+msgstr ""
+
+#: assets/lib/jquerym.menu/js/jquery.mmenu.min.all.js:133
+msgid "input."
+msgstr ""
+
+#: assets/lib/jquerym.menu/js/jquery.mmenu.min.all.js:133
+msgid "<label for=\""
+msgstr ""
+
+#: 404.php:15
+msgid "4"
+msgstr ""
+
+#: 404.php:16
+msgid "Ooops"
+msgstr ""
+
+#: 404.php:16
+msgid "Ghost HERE"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"The page you are looking for might have been removed or had its same changed or "
+"its temporarily unavailable"
+msgstr ""
+
+#: comments.php:23 comments.php:77
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:32
+msgid "1 Review"
+msgstr ""
+
+#: comments.php:32 include/reviews/all-reviews.php:73
+#: include/widgets/widget_most_viewed.php:106 templates/preview.php:71
+msgid "Reviews"
+msgstr ""
+
+#: comments.php:32 comments.php:86
+#, php-format
+msgid " %2$s"
+msgid_plural "%1$s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52 include/reviews/reviews-form.php:10
+msgid "Rate us and Write a Review"
+msgstr ""
+
+#: comments.php:54 comments.php:101
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:86
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:86
+msgid "Comments"
+msgstr ""
+
+#: comments.php:99
+msgid "Leave a Comment"
+msgstr ""
+
+#: functions.php:46
+msgid "Homepage Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "Inner Pages Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:511
+msgid "Type and hit enter"
+msgstr ""
+
+#: functions.php:762
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:764
+msgid "Load More "
+msgstr ""
+
+#: functions.php:826 functions.php:879
+msgid "Inexpensive"
+msgstr ""
+
+#: functions.php:830 functions.php:883
+msgid "Moderate"
+msgstr ""
+
+#: functions.php:834 functions.php:887
+msgid "Pricey"
+msgstr ""
+
+#: functions.php:838 functions.php:891
+msgid "Ultra High End"
+msgstr ""
+
+#: functions.php:913
+msgid "Price Range"
+msgstr ""
+
+#: functions.php:1148
+msgid "Share"
+msgstr ""
+
+#: functions.php:1207
+msgid "0 View"
+msgstr ""
+
+#: functions.php:1209
+msgid " Views"
+msgstr ""
+
+#: functions.php:1491
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:1492
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:1550
+msgid "Be the first one to rate!"
+msgstr ""
+
+#: functions.php:1553
+msgid "0 Review"
+msgstr ""
+
+#: include/all-extra-fields.php:14
+msgid "Additional Details"
+msgstr ""
+
+#: include/all-extra-fields.php:35
+msgid "Show all"
+msgstr ""
+
+#: include/favorite-function.php:103 include/favorite-function.php:130
+#: template-dashboard.php:458
+msgid "Saved"
+msgstr ""
+
+#: include/favorite-function.php:105 include/favorite-function.php:132
+msgid "Save"
+msgstr ""
+
+#: include/home_map.php:49
+msgid "https://placeholdit.imgix.net/~text?txtsize=33&txt=ListingPro&w=372&h=284"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:65
+#: include/invoices/invoice-functions.php:158
+#: include/invoices/invoice-functions.php:331
+msgid "Receipt"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:73
+#: include/invoices/invoice-functions.php:166
+#: include/invoices/invoice-functions.php:339
+msgid "Billed to :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:81
+#: include/invoices/invoice-functions.php:174
+#: include/invoices/invoice-functions.php:347
+msgid "Invoice :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:83
+#: include/invoices/invoice-functions.php:176
+#: include/invoices/invoice-functions.php:349
+msgid "Process With: Direct / Wire method"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:89
+#: include/invoices/invoice-functions.php:182
+#: include/invoices/invoice-functions.php:355
+msgid "Description"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:92
+#: include/invoices/invoice-functions.php:185
+#: include/invoices/invoice-functions.php:358 templates/dashboard/ads-invoices.php:59
+#: templates/dashboard/list-invoices.php:26
+msgid "Plan"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:95
+#: include/invoices/invoice-functions.php:188
+#: include/invoices/invoice-functions.php:361 templates/dashboard/ads-invoices.php:60
+#: templates/dashboard/list-invoices.php:27
+msgid "Price"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:118
+#: include/invoices/invoice-functions.php:211
+#: include/invoices/invoice-functions.php:384
+msgid "Subtotal :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:122
+#: include/invoices/invoice-functions.php:215
+#: include/invoices/invoice-functions.php:388
+msgid "Total :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:126
+#: include/invoices/invoice-functions.php:219
+#: include/invoices/invoice-functions.php:392
+msgid "Amount Paid :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:130
+#: include/invoices/invoice-functions.php:223
+#: include/invoices/invoice-functions.php:396
+msgid "Balance due :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:140
+#: include/invoices/invoice-functions.php:233
+#: include/invoices/invoice-functions.php:406
+msgid "&copy; 2017 Listingpro all rights reserved"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:143
+#: include/invoices/invoice-functions.php:236
+#: include/invoices/invoice-functions.php:409
+msgid "Terms of Service"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:144
+#: include/invoices/invoice-functions.php:237
+#: include/invoices/invoice-functions.php:410
+msgid "Cancellation Policy"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:145
+#: include/invoices/invoice-functions.php:238
+#: include/invoices/invoice-functions.php:411
+msgid "Privacy Policy"
+msgstr ""
+
+#: include/invoices/invoice-modal.php:71
+msgid " INVOICE "
+msgstr ""
+
+#: include/invoices/invoice-modal.php:72
+msgid "DATE"
+msgstr ""
+
+#: include/invoices/invoice-modal.php:83
+msgid "Company:"
+msgstr ""
+
+#: include/invoices/invoice-modal.php:95
+msgid "Plan Type"
+msgstr ""
+
+#: include/invoices/invoice-modal.php:99
+msgid "Plan Name"
+msgstr ""
+
+#: include/invoices/invoice-modal.php:104
+msgid "Payment Total"
+msgstr ""
+
+#: include/invoices/invoice-modal.php:105
+msgid "Total Price:"
+msgstr ""
+
+#: include/invoices/invoice-modal.php:110
+msgid "Additional Information:"
+msgstr ""
+
+#: include/list-confirmation.php:115 templates/blog-comments.php:43
+#: templates/dashboard/listing.php:148
+msgid "Edit"
+msgstr ""
+
+#: include/list-confirmation.php:225
+msgid "Pay & Publish"
+msgstr ""
+
+#: include/list-confirmation.php:271
+msgid "Pay"
+msgstr ""
+
+#: include/list-confirmation.php:285
+msgid "Publish"
+msgstr ""
+
+#: include/login-register.php:27
+msgid "Please wait..."
+msgstr ""
+
+#: include/login-register.php:62
+msgid "Wrong username or password."
+msgstr ""
+
+#: include/login-register.php:64
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: include/login-register.php:131
+msgid "Go to your inbox or spam/junk and get your password"
+msgstr ""
+
+#: include/login-register.php:134
+msgid " This Email already exists"
+msgstr ""
+
+#: include/login-register.php:137
+msgid " This Username already exists"
+msgstr ""
+
+#: include/login-register.php:140
+msgid " Email field is empty"
+msgstr ""
+
+#: include/login-register.php:143
+msgid " Please provide correct email."
+msgstr ""
+
+#: include/login-register.php:146
+msgid " Username field is empty."
+msgstr ""
+
+#: include/options-config.php:68 include/options-config.php:69
+msgid "Theme Options"
+msgstr ""
+
+#: include/options-config.php:169
+msgid "General Settings"
+msgstr ""
+
+#: include/options-config.php:177
+msgid "Enable/Disable Resurva Bookings"
+msgstr ""
+
+#: include/options-config.php:178 include/options-config.php:185
+#: include/options-config.php:192
+msgid "Bookings enable/disable on frontend user dashboard."
+msgstr ""
+
+#: include/options-config.php:184
+msgid "Enable/Disable Timekit Bookings"
+msgstr ""
+
+#: include/options-config.php:191
+msgid "Enable/Disable Menu"
+msgstr ""
+
+#: include/options-config.php:198
+msgid "URL Rewrite"
+msgstr ""
+
+#: include/options-config.php:200
+msgid ""
+"Please update permalinks ( under Settings menu ) after any change you made in "
+"following slugs ( to avoice 404 page ) "
+msgstr ""
+
+#: include/options-config.php:205
+msgid "Rewrite listing slug"
+msgstr ""
+
+#: include/options-config.php:206
+msgid "Default is \"listing\""
+msgstr ""
+
+#: include/options-config.php:212
+msgid "Rewrite listing category slug"
+msgstr ""
+
+#: include/options-config.php:213
+msgid "Default is \"listing-category\""
+msgstr ""
+
+#: include/options-config.php:219
+msgid "Rewrite location slug"
+msgstr ""
+
+#: include/options-config.php:220
+msgid "Default is \"location\""
+msgstr ""
+
+#: include/options-config.php:226
+msgid "Rewrite features slug"
+msgstr ""
+
+#: include/options-config.php:227
+msgid "Default is \"features\""
+msgstr ""
+
+#: include/options-config.php:233
+msgid "Primary Theme Color"
+msgstr ""
+
+#: include/options-config.php:234
+msgid "(default: #41a6df)."
+msgstr ""
+
+#: include/options-config.php:241
+msgid "Secondary Theme Color"
+msgstr ""
+
+#: include/options-config.php:242 include/options-config.php:489
+msgid "(default: #363F48)."
+msgstr ""
+
+#: include/options-config.php:249
+msgid "Custom CSS"
+msgstr ""
+
+#: include/options-config.php:250
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: include/options-config.php:259
+msgid "Custom JS"
+msgstr ""
+
+#: include/options-config.php:260
+msgid "Paste your JS code here."
+msgstr ""
+
+#: include/options-config.php:271
+msgid "Typography"
+msgstr ""
+
+#: include/options-config.php:279
+msgid "Body Font"
+msgstr ""
+
+#: include/options-config.php:280
+msgid "Specify the body font properties."
+msgstr ""
+
+#: include/options-config.php:296
+msgid "Navigation Style and Anchor"
+msgstr ""
+
+#: include/options-config.php:304 include/options-config.php:322
+#: include/options-config.php:341 include/options-config.php:360
+#: include/options-config.php:379 include/options-config.php:398
+#: include/options-config.php:417 include/options-config.php:436
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: include/options-config.php:316
+msgid "Heading h1 Style"
+msgstr ""
+
+#: include/options-config.php:335
+msgid "Heading h2 Style"
+msgstr ""
+
+#: include/options-config.php:354
+msgid "Heading h3 Style"
+msgstr ""
+
+#: include/options-config.php:373
+msgid "Heading h4 Style"
+msgstr ""
+
+#: include/options-config.php:392
+msgid "Heading h5 Style"
+msgstr ""
+
+#: include/options-config.php:411
+msgid "Heading h6 Style"
+msgstr ""
+
+#: include/options-config.php:430
+msgid "Paragraph and small elements"
+msgstr ""
+
+#: include/options-config.php:450
+msgid "Header"
+msgstr ""
+
+#: include/options-config.php:458
+msgid "Header layout"
+msgstr ""
+
+#: include/options-config.php:480
+msgid "Enable/Disable Top bar"
+msgstr ""
+
+#: include/options-config.php:488
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: include/options-config.php:498
+msgid "Header Background Color"
+msgstr ""
+
+#: include/options-config.php:499
+msgid "(default: #42a7df)."
+msgstr ""
+
+#: include/options-config.php:506
+msgid "Header fullwidth or in container"
+msgstr ""
+
+#: include/options-config.php:513
+msgid "Header Search On/Off"
+msgstr ""
+
+#: include/options-config.php:522
+msgid "Home Page Logo "
+msgstr ""
+
+#: include/options-config.php:525 include/options-config.php:536
+msgid "Upload your logo here"
+msgstr ""
+
+#: include/options-config.php:533
+msgid "Logo for inner pages"
+msgstr ""
+
+#: include/options-config.php:544
+msgid "Your Favicon "
+msgstr ""
+
+#: include/options-config.php:547
+msgid "Upload your Favicon here"
+msgstr ""
+
+#: include/options-config.php:555
+msgid "Page header background image"
+msgstr ""
+
+#: include/options-config.php:558
+msgid "Upload your Image here"
+msgstr ""
+
+#: include/options-config.php:568
+msgid "Banner Settings"
+msgstr ""
+
+#: include/options-config.php:576
+msgid "Select Top Header Style"
+msgstr ""
+
+#: include/options-config.php:590
+msgid "Home Banner Image"
+msgstr ""
+
+#: include/options-config.php:592
+msgid "Upload image for homepage banner"
+msgstr ""
+
+#: include/options-config.php:601
+msgid "Courtesy Listing On/Off"
+msgstr ""
+
+#: include/options-config.php:602
+msgid "Is this banner courtesy with any listing"
+msgstr ""
+
+#: include/options-config.php:617
+msgid "Select listing"
+msgstr ""
+
+#: include/options-config.php:626
+msgid "Select listing categories"
+msgstr ""
+
+#: include/options-config.php:627
+msgid "These categories will be appeared on the homepage Banner"
+msgstr ""
+
+#: include/options-config.php:633
+msgid "Select Search View"
+msgstr ""
+
+#: include/options-config.php:650
+msgid "Select Search Alignment"
+msgstr ""
+
+#: include/options-config.php:667 include/options-config.php:761
+msgid "Select Search Mode"
+msgstr ""
+
+#: include/options-config.php:683
+msgid "Categories Text"
+msgstr ""
+
+#: include/options-config.php:694
+msgid "Map Height"
+msgstr ""
+
+#: include/options-config.php:705
+msgid "Banner Search Placeholder"
+msgstr ""
+
+#: include/options-config.php:712
+msgid "Location Default Text"
+msgstr ""
+
+#: include/options-config.php:719
+msgid "Search Top Title"
+msgstr ""
+
+#: include/options-config.php:729
+msgid "Search Main Title"
+msgstr ""
+
+#: include/options-config.php:739
+msgid "Search Main Text"
+msgstr ""
+
+#: include/options-config.php:753
+msgid "Map Settings"
+msgstr ""
+
+#: include/options-config.php:773
+msgid "Mapbox Token (Optional)"
+msgstr ""
+
+#: include/options-config.php:774
+msgid "Put here MapBox token, If you leave it empty then Google map will work"
+msgstr ""
+
+#: include/options-config.php:783
+msgid "Mapbox Map style"
+msgstr ""
+
+#: include/options-config.php:784
+msgid "Select any style"
+msgstr ""
+
+#: include/options-config.php:828
+msgid "Google Map API"
+msgstr ""
+
+#: include/options-config.php:829
+msgid ""
+"Please set your own google map API key for your site( default key is for only demo)"
+msgstr ""
+
+#: include/options-config.php:849
+msgid "Listing General Setting"
+msgstr ""
+
+#: include/options-config.php:857
+msgid "Contact Support URL"
+msgstr ""
+
+#: include/options-config.php:858
+msgid "Enter contact support url here for user dashboard."
+msgstr ""
+
+#: include/options-config.php:866
+msgid "Listing View"
+msgstr ""
+
+#: include/options-config.php:875 include/options-config.php:906
+msgid "Listing page layout"
+msgstr ""
+
+#: include/options-config.php:897
+msgid "Ad Image"
+msgstr ""
+
+#: include/options-config.php:900
+msgid "Put ad here"
+msgstr ""
+
+#: include/options-config.php:924
+msgid "Listing Submit & Edit Settings"
+msgstr ""
+
+#: include/options-config.php:933
+msgid "First section Image ON/OFF"
+msgstr ""
+
+#: include/options-config.php:941 include/options-config.php:943
+msgid "Upload Image for Submit Listing"
+msgstr ""
+
+#: include/options-config.php:950
+msgid "Second section Image ON/OFF"
+msgstr ""
+
+#: include/options-config.php:958 include/options-config.php:960
+msgid "Upload Image for second section"
+msgstr ""
+
+#: include/options-config.php:967
+msgid "Third section Image ON/OFF"
+msgstr ""
+
+#: include/options-config.php:975 include/options-config.php:977
+msgid "Upload Image for third section"
+msgstr ""
+
+#: include/options-config.php:984
+msgid "Fourth section Image ON/OFF"
+msgstr ""
+
+#: include/options-config.php:992 include/options-config.php:994
+msgid "Upload Image for Fourth section"
+msgstr ""
+
+#: include/options-config.php:1001
+msgid "Quick Tips ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1008
+msgid "Quick Tip Title"
+msgstr ""
+
+#: include/options-config.php:1017
+msgid "Quick Text"
+msgstr ""
+
+#: include/options-config.php:1025
+msgid "Add Title Text"
+msgstr ""
+
+#: include/options-config.php:1033
+msgid "Add City Text"
+msgstr ""
+
+#: include/options-config.php:1041
+msgid "Add Google Address Text"
+msgstr ""
+
+#: include/options-config.php:1049
+msgid "Phone ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1056
+msgid "Add Phone Text"
+msgstr ""
+
+#: include/options-config.php:1065
+msgid "Website URL ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1072
+msgid "Add Website Text"
+msgstr ""
+
+#: include/options-config.php:1081
+msgid "Hours ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1088
+msgid "Add Operational Hours Text"
+msgstr ""
+
+#: include/options-config.php:1097
+msgid "Add Category Text"
+msgstr ""
+
+#: include/options-config.php:1105
+msgid "Features area ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1112
+msgid "Add Features area Text"
+msgstr ""
+
+#: include/options-config.php:1116
+msgid "Select your listing features"
+msgstr ""
+
+#: include/options-config.php:1121
+msgid "Price Range ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1128
+msgid "Add Price Range Text"
+msgstr ""
+
+#: include/options-config.php:1137
+msgid "Price From ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1144
+msgid "Add Price From Text"
+msgstr ""
+
+#: include/options-config.php:1153
+msgid "Price To ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1160
+msgid "Add Price To Text"
+msgstr ""
+
+#: include/options-config.php:1169
+msgid "Add Description Text"
+msgstr ""
+
+#: include/options-config.php:1177
+msgid "FAQ ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1184
+msgid "Add FAQ Title"
+msgstr ""
+
+#: include/options-config.php:1193
+msgid "Add FAQ Tabs Text"
+msgstr ""
+
+#: include/options-config.php:1202
+msgid "Twitter URL ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1209
+msgid "Facebook URL ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1216
+msgid "LinkedIn ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1223
+msgid "Google Plus ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1230
+msgid "Youtube ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1237
+msgid "Instagram ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1244
+msgid "Tags field ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1251
+msgid "Add Tags Text"
+msgstr ""
+
+#: include/options-config.php:1260
+msgid "Business video ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1267
+msgid "Add Business video Text"
+msgstr ""
+
+#: include/options-config.php:1276
+msgid "Image Uploading ON/OFF"
+msgstr ""
+
+#: include/options-config.php:1283
+msgid "Add Email Text"
+msgstr ""
+
+#: include/options-config.php:1286
+msgid "Enter email to signup & recieve notification upon listing approval"
+msgstr ""
+
+#: include/options-config.php:1291
+msgid "Add Submit Listing Button Text"
+msgstr ""
+
+#: include/options-config.php:1299
+msgid "Add Edit Listing Button Text"
+msgstr ""
+
+#: include/options-config.php:1314
+msgid "Payment Settings"
+msgstr ""
+
+#: include/options-config.php:1322
+msgid "Submited Listings Should be Approved by Admin ?"
+msgstr ""
+
+#: include/options-config.php:1326 include/options-config.php:1339
+#: templates/dashboard/expired.php:135 templates/dashboard/listing.php:163
+#: templates/dashboard/pending.php:158
+msgid "Yes"
+msgstr ""
+
+#: include/options-config.php:1327 include/options-config.php:1338
+#: templates/dashboard/expired.php:133 templates/dashboard/listing.php:161
+#: templates/dashboard/pending.php:156
+msgid "No"
+msgstr ""
+
+#: include/options-config.php:1334
+msgid "Enable Paid Submission"
+msgstr ""
+
+#: include/options-config.php:1348
+msgid "Number of Expire Days"
+msgstr ""
+
+#: include/options-config.php:1357
+msgid "Currency For Paid Submission"
+msgstr ""
+
+#: include/options-config.php:1400
+msgid "Paypal And Checkout Api"
+msgstr ""
+
+#: include/options-config.php:1401 include/options-config.php:1414
+msgid "Sandbox = test API. LIVE = real payments API"
+msgstr ""
+
+#: include/options-config.php:1402
+msgid "Update PayPal Checkout settings according to API type selection"
+msgstr ""
+
+#: include/options-config.php:1413
+msgid "Stripe And Checkout Api"
+msgstr ""
+
+#: include/options-config.php:1415
+msgid "Update Stripe Checkout settings according to API type selection"
+msgstr ""
+
+#: include/options-config.php:1426
+msgid "Terms & Conditions"
+msgstr ""
+
+#: include/options-config.php:1427
+msgid "Select terms & conditions page"
+msgstr ""
+
+#: include/options-config.php:1435
+msgid "Checkout Page"
+msgstr ""
+
+#: include/options-config.php:1436
+msgid "Select checkout page"
+msgstr ""
+
+#: include/options-config.php:1452
+msgid "Failed Payment page - after failed payment"
+msgstr ""
+
+#: include/options-config.php:1453 include/options-config.php:1463
+#: include/options-config.php:2308 include/options-config.php:2316
+#: include/options-config.php:2325 include/options-config.php:2334
+msgid "This must be an URL."
+msgstr ""
+
+#: include/options-config.php:1462
+msgid "Thank you page - after successful payment"
+msgstr ""
+
+#: include/options-config.php:1473
+msgid "Paypal Settings"
+msgstr ""
+
+#: include/options-config.php:1481
+msgid "Enable Paypal"
+msgstr ""
+
+#: include/options-config.php:1486 include/options-config.php:1542
+#: include/options-config.php:1581
+msgid "Enabled"
+msgstr ""
+
+#: include/options-config.php:1487 include/options-config.php:1543
+#: include/options-config.php:1582
+msgid "Disabled"
+msgstr ""
+
+#: include/options-config.php:1494
+msgid "Paypal API Username"
+msgstr ""
+
+#: include/options-config.php:1503
+msgid "Paypal API Password"
+msgstr ""
+
+#: include/options-config.php:1512
+msgid "Paypal API Signature"
+msgstr ""
+
+#: include/options-config.php:1521
+msgid "Paypal Receiving Email"
+msgstr ""
+
+#: include/options-config.php:1529
+msgid "Stripe Settings"
+msgstr ""
+
+#: include/options-config.php:1537
+msgid "Enable Stripe"
+msgstr ""
+
+#: include/options-config.php:1550
+msgid "Secret Key"
+msgstr ""
+
+#: include/options-config.php:1559
+msgid "Publishable Key"
+msgstr ""
+
+#: include/options-config.php:1568
+msgid "Direct Payment / Wire Payment"
+msgstr ""
+
+#: include/options-config.php:1576
+msgid "Enable Wire Transfer"
+msgstr ""
+
+#: include/options-config.php:1588
+msgid "Wire instructions for direct payment"
+msgstr ""
+
+#: include/options-config.php:1606 include/options-config.php:1615
+msgid "Thank You Page"
+msgstr ""
+
+#: include/options-config.php:1616
+msgid "Select thank you page"
+msgstr ""
+
+#: include/options-config.php:1629
+msgid "Email Management"
+msgstr ""
+
+#: include/options-config.php:1631
+msgid ""
+"Global variables: %website_url as website url,%website_name as website name, "
+"%user_email as user_email, %username as username"
+msgstr ""
+
+#: include/options-config.php:1641
+msgid "<span class=\"font24\">General Email Settings</span>"
+msgstr ""
+
+#: include/options-config.php:1642
+msgid "Set email address and email sender name here"
+msgstr ""
+
+#: include/options-config.php:1648
+msgid "Email Address"
+msgstr ""
+
+#: include/options-config.php:1649
+msgid "Email address for general email sending"
+msgstr ""
+
+#: include/options-config.php:1656
+msgid "Email From"
+msgstr ""
+
+#: include/options-config.php:1657
+msgid "Email sender name for general email sending"
+msgstr ""
+
+#: include/options-config.php:1667
+msgid "<span class=\"font24\">New Registered User</span>"
+msgstr ""
+
+#: include/options-config.php:1668
+#, php-format
+msgid ""
+"%user_login_register as username, %user_pass_register as user password, "
+"%user_email_register as new user email"
+msgstr ""
+
+#: include/options-config.php:1674
+msgid "Subject for New User Notification"
+msgstr ""
+
+#: include/options-config.php:1675
+msgid "Email subject for new user notification"
+msgstr ""
+
+#: include/options-config.php:1677
+msgid "Your username and password on %website_url"
+msgstr ""
+
+#: include/options-config.php:1682
+msgid "Content for New User Notification"
+msgstr ""
+
+#: include/options-config.php:1683
+msgid "Email content for new user notification"
+msgstr ""
+
+#: include/options-config.php:1685
+msgid ""
+"Hi there,\n"
+"\t\t\t\t\t\t\t\t\tWelcome to %website_url! You can login now using the below "
+"credentials:\n"
+"\t\t\t\t\t\t\t\t\tUsername:%user_login_register\n"
+"\t\t\t\t\t\t\t\t\tPassword: %user_pass_register\n"
+"\t\t\t\t\t\t\t\t\tIf you have any problems, please contact us.\n"
+"\t\t\t\t\t\t\t\t\tThank you!"
+msgstr ""
+
+#: include/options-config.php:1701
+msgid "Subject for New User Admin Notification"
+msgstr ""
+
+#: include/options-config.php:1702
+msgid "Email subject for new user admin notification"
+msgstr ""
+
+#: include/options-config.php:1704
+msgid "New User Registration"
+msgstr ""
+
+#: include/options-config.php:1709
+msgid "Content for New User Admin Notification"
+msgstr ""
+
+#: include/options-config.php:1710
+msgid "Email content for new user admin notification"
+msgstr ""
+
+#: include/options-config.php:1712
+msgid ""
+"New user registration on %website_url.\n"
+"\t\t\t\t\t\t\t\t\tUsername: %user_login_register,\n"
+"\t\t\t\t\t\t\t\t\tE-mail: %user_email_register"
+msgstr ""
+
+#: include/options-config.php:1727
+msgid "<span class=\"font24\">Submit Listing</span>"
+msgstr ""
+
+#: include/options-config.php:1728
+msgid "New listing submit mail"
+msgstr ""
+
+#: include/options-config.php:1735 include/options-config.php:1823
+#: include/options-config.php:2014 include/options-config.php:2063
+msgid "Subject"
+msgstr ""
+
+#: include/options-config.php:1736 include/options-config.php:1773
+msgid "Email subject"
+msgstr ""
+
+#: include/options-config.php:1738
+msgid "Your listing has been submitted"
+msgstr ""
+
+#: include/options-config.php:1743 include/options-config.php:1831
+#: include/setup/envato_setup.php:247
+msgid "Content"
+msgstr ""
+
+#: include/options-config.php:1744 include/options-config.php:1781
+#: include/options-config.php:1874 include/options-config.php:2072
+msgid "Email content"
+msgstr ""
+
+#: include/options-config.php:1746 include/options-config.php:1783
+msgid ""
+"<div style=\"width: 100%; background: #f0f1f3; padding: 50px 0px;\">\n"
+"<a style=\"width: 45%; margin: 0 auto; text-align: center; display: block; padding-"
+"bottom: 25px; padding-left: 30px; padding-right: 30px;\"><img src=\"images/logo.png"
+"\" /></a>\n"
+"<div style=\"width: 45%; background: #fff; padding: 50px 30px; margin: 0 auto;\">\n"
+"<p style=\"margin: 0px;\">New  Listing has been submitted on <a href=\"%website_url"
+"\" >%website_name</a> </p>\n"
+"\n"
+"<h2 style=\"color: #2a6ad4; margin: 0px; font-size: 20px;\">%listing_title</h2>\n"
+"<div style=\"padding: 30px 0px 15px 0px;\">\n"
+"<h3 style=\"margin: 0px 0px 5px; font-size: 16px;\">Details are Following:</h3>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Listing Name:</strong>%listing_title</p>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Listing URL:</strong>%listing_url</p>\n"
+"</div>\n"
+"<div style=\"padding: 15px 0px 30px 0px;\">\n"
+"<h3 style=\"margin: 0px 0px 5px; font-size: 16px;\">Other Details:</h3>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Full Adress:</strong>45 B Road NY. USA</p>\n"
+"</div>\n"
+"</div>\n"
+"</div>"
+msgstr ""
+
+#: include/options-config.php:1772 include/options-config.php:1864
+msgid "Subject(for admin)"
+msgstr ""
+
+#: include/options-config.php:1775
+msgid "New listing has been submitted"
+msgstr ""
+
+#: include/options-config.php:1780 include/options-config.php:1873
+msgid "Content(for admin)"
+msgstr ""
+
+#: include/options-config.php:1815
+msgid "<span class=\"font24\">Purchase Activated</span>"
+msgstr ""
+
+#: include/options-config.php:1816
+msgid "Package / Pay per listing has been purchased"
+msgstr ""
+
+#: include/options-config.php:1824 include/options-config.php:1865
+msgid "Email subject for purchase activated"
+msgstr ""
+
+#: include/options-config.php:1826
+msgid "Your purchase has  activated"
+msgstr ""
+
+#: include/options-config.php:1832
+msgid "Email content for Purchase Activated"
+msgstr ""
+
+#: include/options-config.php:1834 include/options-config.php:1876
+msgid ""
+"<div style=\"width: 100%; background: #f0f1f3; padding: 50px 0px;\"><a style="
+"\"width: 45%; margin: 0 auto; text-align: center; display: block; padding-bottom: "
+"25px; padding-left: 30px; padding-right: 30px;\"><img src=\"images/logo.png\" /></"
+"a>\n"
+"<div style=\"width: 45%; background: #fff; padding: 50px 30px; margin: 0 auto;\">\n"
+"<p style=\"margin: 0px;\">Your purchase has been successful on  <a href="
+"\"%website_url\">%website_name</a></p>\n"
+"\n"
+"<div style=\"padding: 30px 0px 15px 0px;\">\n"
+"<h3 style=\"margin: 0px 0px 5px; font-size: 16px;\">Details are Following:</h3>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Plan Name:</strong>%plan_title</p>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Plan Price:</strong>%plan_price</p>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Listing Submitted:</strong>%listing_title</p>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Listing URL:</strong>%listing_url</p>\n"
+"\n"
+"</div>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Payment Method:</strong>%payment_method</p>\n"
+"\n"
+"<div style=\"padding: 15px 0px 30px 0px;\">\n"
+"<h3 style=\"margin: 0px 0px 5px; font-size: 16px;\">Other Details:</h3>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Full Adress:</strong>45 B Road NY. USA</p>\n"
+"\n"
+"</div>\n"
+"</div>\n"
+"</div>"
+msgstr ""
+
+#: include/options-config.php:1867
+msgid "A purchased has been made"
+msgstr ""
+
+#: include/options-config.php:1910
+msgid "<span class=\"font24\">Approved Listing</span>"
+msgstr ""
+
+#: include/options-config.php:1911 include/options-config.php:1960
+msgid "You can use %listing_title as listing title, %listing_url as listing link"
+msgstr ""
+
+#: include/options-config.php:1918
+msgid "Subject for Approved Listing"
+msgstr ""
+
+#: include/options-config.php:1919
+msgid "Email subject for approved listing"
+msgstr ""
+
+#: include/options-config.php:1921
+msgid "Your listing approved"
+msgstr ""
+
+#: include/options-config.php:1926
+msgid "Content for Listing Approved"
+msgstr ""
+
+#: include/options-config.php:1927
+msgid "Email content for listing approved"
+msgstr ""
+
+#: include/options-config.php:1929 include/options-config.php:1978
+#: include/options-config.php:2025 include/options-config.php:2074
+#: include/options-config.php:2112
+msgid ""
+"<div style=\"width: 100%; background: #f0f1f3; padding: 50px 0px;\">\n"
+"<a style=\"width: 45%; margin: 0 auto; text-align: center; display: block; padding-"
+"bottom: 25px; padding-left: 30px; padding-right: 30px;\"><img src=\"images/logo.png"
+"\" /></a>\n"
+"<div style=\"width: 45%; background: #fff; padding: 50px 30px; margin: 0 auto;\">\n"
+"<p style=\"margin: 0px;\">New  Listing has been submitted on <a href=\"%website_url"
+"\" >%website_name</a> </p>\n"
+"\n"
+"<h2 style=\"color: #2a6ad4; margin: 0px; font-size: 20px;\">%listing_title</h2>\n"
+"<div style=\"padding: 30px 0px 15px 0px;\">\n"
+"<h3 style=\"margin: 0px 0px 5px; font-size: 16px;\">Details are Following:</h3>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Listing Name:</strong>%listing_title</p>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Listing URL:</strong>%listing_url</p>\n"
+"</div>\n"
+"<div style=\"padding: 15px 0px 30px 0px;\">\n"
+"<h3 style=\"margin: 0px 0px 5px; font-size: 16px;\">Order  Details:</h3>\n"
+"<p style=\"margin: 0px; font-size: 14px;\"><strong style=\"padding-right: 10px;"
+"\">Full Adress:</strong>P-11, Paradise Floor, Sadiq Trade Center</p>\n"
+"</div>\n"
+"</div>\n"
+"</div>"
+msgstr ""
+
+#: include/options-config.php:1959
+msgid "<span class=\"font24\">Expired Listing</span>"
+msgstr ""
+
+#: include/options-config.php:1967
+msgid "Subject for Expired Listing"
+msgstr ""
+
+#: include/options-config.php:1968
+msgid "Email subject for expired listing"
+msgstr ""
+
+#: include/options-config.php:1970
+msgid "Your listing expired"
+msgstr ""
+
+#: include/options-config.php:1975
+msgid "Content for Listing Expired"
+msgstr ""
+
+#: include/options-config.php:1976
+msgid "Email content for listing expired"
+msgstr ""
+
+#: include/options-config.php:2007
+msgid "<span class=\"font24\">Expired Ad Campagin</span>"
+msgstr ""
+
+#: include/options-config.php:2015
+msgid "Email subject for expired ads campaign"
+msgstr ""
+
+#: include/options-config.php:2017
+msgid "Your ad campaign has expired"
+msgstr ""
+
+#: include/options-config.php:2022
+msgid "Content for ads campaigns Expired"
+msgstr ""
+
+#: include/options-config.php:2023
+msgid "Email content for ads campaigns expired"
+msgstr ""
+
+#: include/options-config.php:2056
+msgid "Wire Invoice"
+msgstr ""
+
+#: include/options-config.php:2057
+msgid "you can use %invoice_no as invoice number, %listing_title as listing title"
+msgstr ""
+
+#: include/options-config.php:2064
+msgid "Email subject wire inovice"
+msgstr ""
+
+#: include/options-config.php:2066 include/options-config.php:2104
+msgid "Your new listing on %website_url"
+msgstr ""
+
+#: include/options-config.php:2071
+msgid "Content for wire invoice"
+msgstr ""
+
+#: include/options-config.php:2101
+msgid "Subject(admin)"
+msgstr ""
+
+#: include/options-config.php:2102
+msgid "Email subject(admin)"
+msgstr ""
+
+#: include/options-config.php:2109
+msgid "Content for wire(admin)"
+msgstr ""
+
+#: include/options-config.php:2110
+msgid "Email content(admin)"
+msgstr ""
+
+#: include/options-config.php:2148
+msgid "Invoice Options"
+msgstr ""
+
+#: include/options-config.php:2158
+msgid "Company Logo"
+msgstr ""
+
+#: include/options-config.php:2161
+msgid "Upload company logo for invoices."
+msgstr ""
+
+#: include/options-config.php:2166
+msgid "Company Name"
+msgstr ""
+
+#: include/options-config.php:2168
+msgid "Enter company full name"
+msgstr ""
+
+#: include/options-config.php:2173
+msgid "Company Address"
+msgstr ""
+
+#: include/options-config.php:2175
+msgid "Enter company full address"
+msgstr ""
+
+#: include/options-config.php:2180
+msgid "Company Phone"
+msgstr ""
+
+#: include/options-config.php:2187
+msgid "Additional Info"
+msgstr ""
+
+#: include/options-config.php:2194
+msgid "Thank You text"
+msgstr ""
+
+#: include/options-config.php:2204
+msgid "Ads Options"
+msgstr ""
+
+#: include/options-config.php:2213
+msgid "Ads Title"
+msgstr ""
+
+#: include/options-config.php:2221
+msgid "Ads Text"
+msgstr ""
+
+#: include/options-config.php:2229
+msgid "Promotion page image"
+msgstr ""
+
+#: include/options-config.php:2232
+msgid "Upload your image here"
+msgstr ""
+
+#: include/options-config.php:2239
+msgid "Random ads"
+msgstr ""
+
+#: include/options-config.php:2242
+msgid "Put ads plan price here ( do not include any currency sign )."
+msgstr ""
+
+#: include/options-config.php:2248
+msgid "Detail page ads"
+msgstr ""
+
+#: include/options-config.php:2251 include/options-config.php:2260
+msgid "Put ads plan price here ( do not include currency sign )."
+msgstr ""
+
+#: include/options-config.php:2257
+msgid "Top in search & taxonomy"
+msgstr ""
+
+#: include/options-config.php:2265
+msgid "Ads Duration"
+msgstr ""
+
+#: include/options-config.php:2269
+msgid "1 Day"
+msgstr ""
+
+#: include/options-config.php:2270
+msgid "2 Days"
+msgstr ""
+
+#: include/options-config.php:2271
+msgid "3 Days"
+msgstr ""
+
+#: include/options-config.php:2272
+msgid "4 Days"
+msgstr ""
+
+#: include/options-config.php:2273
+msgid "5 Days"
+msgstr ""
+
+#: include/options-config.php:2274
+msgid "6 Days"
+msgstr ""
+
+#: include/options-config.php:2275
+msgid "1 Week"
+msgstr ""
+
+#: include/options-config.php:2276
+msgid "2 Weeks"
+msgstr ""
+
+#: include/options-config.php:2277
+msgid "3 Weeks"
+msgstr ""
+
+#: include/options-config.php:2278
+msgid "4 Weeks"
+msgstr ""
+
+#: include/options-config.php:2279
+msgid "1 Month"
+msgstr ""
+
+#: include/options-config.php:2298
+msgid "URL Config"
+msgstr ""
+
+#: include/options-config.php:2307
+msgid "Author Page URL"
+msgstr ""
+
+#: include/options-config.php:2315
+msgid "Submit Listing"
+msgstr ""
+
+#: include/options-config.php:2317
+msgid "This is a page for Submiting new listing"
+msgstr ""
+
+#: include/options-config.php:2324
+msgid "Edit Listing"
+msgstr ""
+
+#: include/options-config.php:2326
+msgid "This is a page for Edit your listing"
+msgstr ""
+
+#: include/options-config.php:2333
+msgid "Price plans"
+msgstr ""
+
+#: include/options-config.php:2335
+msgid "This is a page for selecting price plans"
+msgstr ""
+
+#: include/options-config.php:2349
+msgid "Contact Page"
+msgstr ""
+
+#: include/options-config.php:2350
+msgid "Translate all text strings into your own language"
+msgstr ""
+
+#: include/options-config.php:2359
+msgid "Contact Information"
+msgstr ""
+
+#: include/options-config.php:2360
+msgid "Add or edit Content Contact information"
+msgstr ""
+
+#: include/options-config.php:2370 include/options-config.php:2464
+msgid "Title for contact information"
+msgstr ""
+
+#: include/options-config.php:2377 include/options-config.php:2471
+msgid "Your Address"
+msgstr ""
+
+#: include/options-config.php:2384
+msgid "Your Phone"
+msgstr ""
+
+#: include/options-config.php:2391
+msgid "Your Email"
+msgstr ""
+
+#: include/options-config.php:2398
+msgid "Social Links"
+msgstr ""
+
+#: include/options-config.php:2410
+msgid "Form Settings"
+msgstr ""
+
+#: include/options-config.php:2411
+msgid "Add or edit Form settings"
+msgstr ""
+
+#: include/options-config.php:2421 include/options-config.php:2428
+msgid "Title for From"
+msgstr ""
+
+#: include/options-config.php:2435
+msgid "Success message for contact form"
+msgstr ""
+
+#: include/options-config.php:2442
+msgid "failed or error message for contact form"
+msgstr ""
+
+#: include/options-config.php:2453
+msgid "Conatct Map Settings"
+msgstr ""
+
+#: include/options-config.php:2454
+msgid "Set Latitude and longtitude for contact page map"
+msgstr ""
+
+#: include/options-config.php:2484
+msgid "Footer"
+msgstr ""
+
+#: include/options-config.php:2485
+msgid "Add or edit Footer information"
+msgstr ""
+
+#: include/options-config.php:2494 include/options-config.php:2502
+msgid "Footer top area bgcolor"
+msgstr ""
+
+#: include/options-config.php:2495
+msgid "(default: #363f48)."
+msgstr ""
+
+#: include/options-config.php:2503
+msgid "(default: #45505b)."
+msgstr ""
+
+#: include/options-config.php:2510
+msgid "Facebook URL"
+msgstr ""
+
+#: include/options-config.php:2517
+msgid "Twitter URL"
+msgstr ""
+
+#: include/options-config.php:2524
+msgid "Google URL"
+msgstr ""
+
+#: include/options-config.php:2531
+msgid "Instagram URL"
+msgstr ""
+
+#: include/options-config.php:2538
+msgid "Tumbler URL"
+msgstr ""
+
+#: include/options-config.php:2545
+msgid "Copy right information"
+msgstr ""
+
+#: include/options-config.php:2552 templates/dashboard/update-profile.php:148
+msgid "Address"
+msgstr ""
+
+#: include/options-config.php:2559 templates/dashboard/update-profile.php:142
+msgid "Phone"
+msgstr ""
+
+#: include/options-config.php:2566
+msgid "Theme Author Information"
+msgstr ""
+
+#: include/options-config.php:2582
+msgid "Documentation"
+msgstr ""
+
+#: include/options-config.php:2697
+msgid "Section via hook"
+msgstr ""
+
+#: include/options-config.php:2698
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: include/paypal/form-handler.php:47
+msgid "Enjoy using our features of Listings subscription in very cheap price"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:301
+#: include/plugins/install-plugin.php:109
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:302
+#: include/plugins/install-plugin.php:110
+msgid "Install Plugins"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:303
+#: include/plugins/install-plugin.php:111
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:304
+#: include/plugins/install-plugin.php:112
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:306
+#: include/plugins/install-plugin.php:113
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:311
+#: include/plugins/install-plugin.php:114
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:316
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:321
+#: include/plugins/install-plugin.php:119
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:336
+#: include/plugins/install-plugin.php:116
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:341
+#: include/plugins/install-plugin.php:117
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:351
+#: include/plugins/install-plugin.php:121
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:356
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:361
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:365
+#: include/plugins/install-plugin.php:123
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:367
+#: include/plugins/class-tgm-plugin-activation.php:2957
+#: include/plugins/install-plugin.php:124
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:368
+#: include/plugins/class-tgm-plugin-activation.php:2785
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:488
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:489
+msgid "Update Required"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:603
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:796
+#: include/plugins/class-tgm-plugin-activation.php:3362
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:903
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:903
+#: include/plugins/class-tgm-plugin-activation.php:906
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according "
+"to the WordPress guidelines."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:906
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:1084
+#: include/plugins/class-tgm-plugin-activation.php:2781
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:1849
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2166
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2168
+#: templates/dashboard/active-campaigns.php:86 templates/dashboard/packages.php:95
+#: templates/dashboard/packages.php:125
+msgid "Active"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2174
+msgid "Required Update not Available"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2188
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2233
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2236
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2239
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2324
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2332
+msgid "Installed version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2391
+msgid "Type"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2396
+#: templates/dashboard/packages.php:111 templates/dashboard/packages.php:209
+msgid "Status"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2444
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2448
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2453
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2523
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2556
+msgid "Install"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2562
+msgid "Update"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2565
+msgid "Activate"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2636
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2741
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2767
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3288
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3293
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3294
+#: include/plugins/class-tgm-plugin-activation.php:3300
+msgid "Show Details"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3294
+#: include/plugins/class-tgm-plugin-activation.php:3300
+msgid "Hide Details"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3295
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3296
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3299
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3301
+msgid "All installations have been completed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3302
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/plugins/install-plugin.php:115
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/install-plugin.php:118
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/install-plugin.php:120
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/install-plugin.php:122
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/install-plugin.php:125
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: include/reviews/all-reviews.php:24
+msgid "Review for"
+msgstr ""
+
+#: include/reviews/all-reviews.php:26
+msgid "Reviews for "
+msgstr ""
+
+#: include/reviews/all-reviews.php:128
+msgid "Was this review ...?"
+msgstr ""
+
+#: include/reviews/all-reviews.php:132
+msgid " Interesting "
+msgstr ""
+
+#: include/reviews/all-reviews.php:137
+msgid " Lol "
+msgstr ""
+
+#: include/reviews/all-reviews.php:142
+msgid " Love "
+msgstr ""
+
+#: include/reviews/reviews-form.php:14 include/reviews/reviews-form.php:61
+msgid "Your Rating for this listing"
+msgstr ""
+
+#: include/reviews/reviews-form.php:30 include/reviews/reviews-form.php:76
+msgid "Select Images"
+msgstr ""
+
+#: include/reviews/reviews-form.php:31 include/reviews/reviews-form.php:77
+#: templates/dashboard/review-edit.php:133
+msgid "Browse"
+msgstr ""
+
+#: include/reviews/reviews-form.php:37 include/reviews/reviews-form.php:88
+#: include/widgets/widget_ads_listing.php:29
+#: include/widgets/widget_featured_listing.php:29
+#: include/widgets/widget_most_viewed.php:29 templates/dashboard/review-edit.php:139
+msgid "Title"
+msgstr ""
+
+#: include/reviews/reviews-form.php:38
+msgid "Example: It was an awesome experience to be there"
+msgstr ""
+
+#: include/reviews/reviews-form.php:41 include/reviews/reviews-form.php:92
+#: templates/dashboard/review-edit.php:143
+msgid "Review"
+msgstr ""
+
+#: include/reviews/reviews-form.php:42
+msgid ""
+"Tip: A great review covers food, service, and ambiance. Got recommendations for "
+"your favorite dishes and drinks, or something everyone should try here? Include "
+"that too! And remember."
+msgstr ""
+
+#: include/reviews/reviews-form.php:43 include/reviews/reviews-form.php:94
+msgid "Your review recommended to be at least 140 characters long :)"
+msgstr ""
+
+#: include/reviews/reviews-form.php:46 templates/dashboard/review-edit.php:147
+#: templates/listing_detail2.php:204
+msgid "Submit Review"
+msgstr ""
+
+#: include/reviews/reviews-form.php:57
+msgid " Rate us and Write a Review "
+msgstr ""
+
+#: include/reviews/reviews-form.php:84 template-contact.php:26
+#: templates/dashboard/update-profile.php:138
+msgid "Email"
+msgstr ""
+
+#: include/reviews/reviews-form.php:85
+msgid "you@website.com"
+msgstr ""
+
+#: include/reviews/reviews-form.php:97
+msgid "Signup & Submit Review "
+msgstr ""
+
+#: include/search-filter.php:290 include/search-filter.php:302
+#: template-favourites.php:72 templates/listing-simple.php:173
+#: templates/listing-with-map.php:168 templates/listing-with-sidebar.php:228
+msgid "No Results"
+msgstr ""
+
+#: include/search-filter.php:291 include/search-filter.php:303
+#: templates/listing-simple.php:174 templates/listing-with-map.php:169
+#: templates/listing-with-sidebar.php:229
+msgid "Sorry! There are no listings matching your search."
+msgstr ""
+
+#: include/search-filter.php:292 include/search-filter.php:304
+msgid "Try changing your search filters or "
+msgstr ""
+
+#: include/search-filter.php:292 include/search-filter.php:304
+#: templates/listing-simple.php:176 templates/listing-with-map.php:171
+#: templates/listing-with-sidebar.php:231
+msgid "Reset Filter"
+msgstr ""
+
+#: include/search-filter.php:423
+msgid "https://placeholdit.imgix.net/~text?txtsize=33&txt=ListingPro&w=50&h=50"
+msgstr ""
+
+#: include/search-filter.php:444
+msgid "More results for "
+msgstr ""
+
+#: include/setup/envato_setup.php:209 include/setup/envato_setup.php:214
+msgid "Setup Wizard"
+msgstr ""
+
+#: include/setup/envato_setup.php:234
+msgid "Introduction"
+msgstr ""
+
+#: include/setup/envato_setup.php:241
+msgid "Plugins"
+msgstr ""
+
+#: include/setup/envato_setup.php:252
+msgid "Ready!"
+msgstr ""
+
+#: include/setup/envato_setup.php:285
+msgid "...verifying"
+msgstr ""
+
+#: include/setup/envato_setup.php:340
+msgid "Listingpro &rsaquo; Setup Wizard"
+msgstr ""
+
+#: include/setup/envato_setup.php:362
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: include/setup/envato_setup.php:418 include/setup/envato_setup.php:429
+#, php-format
+msgid "Welcome to the Easy Setup Assistant! for %s."
+msgstr ""
+
+#: include/setup/envato_setup.php:419
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This setup "
+"wizard will help ensure all the default settings are correct. It will also show "
+"some information about your new website and support options."
+msgstr ""
+
+#: include/setup/envato_setup.php:422 include/setup/envato_setup.php:450
+msgid "Let's Go!"
+msgstr ""
+
+#: include/setup/envato_setup.php:424 include/setup/envato_setup.php:452
+msgid "Not right now"
+msgstr ""
+
+#: include/setup/envato_setup.php:430
+msgid "It looks like you have already run the setup wizard. "
+msgstr ""
+
+#: include/setup/envato_setup.php:434
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: include/setup/envato_setup.php:440 template-login.php:149 templates/popups.php:150
+msgid "Cancel"
+msgstr ""
+
+#: include/setup/envato_setup.php:445
+msgid "Welcome to the Easy Setup Assistant!"
+msgstr ""
+
+#: include/setup/envato_setup.php:446
+#, php-format
+msgid ""
+"Thank you for choosing the %s. This quick setup wizard will help you configure "
+"your new website. This wizard will install the required WordPress plugins, default "
+"content. It should only take 5 minutes."
+msgstr ""
+
+#: include/setup/envato_setup.php:447
+msgid ""
+"No time right now? Skip and return to the WordPress dashboard. Come back anytime "
+"if you change your mind!"
+msgstr ""
+
+#: include/setup/envato_setup.php:531
+msgid "Let's Install Required Plugins"
+msgstr ""
+
+#: include/setup/envato_setup.php:538
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: include/setup/envato_setup.php:563
+msgid "Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: include/setup/envato_setup.php:566
+msgid ""
+"You can add and remove plugins later on from within WordPress. Click Continue to "
+"install"
+msgstr ""
+
+#: include/setup/envato_setup.php:571
+msgid "Continue"
+msgstr ""
+
+#: include/setup/envato_setup.php:573 include/setup/envato_setup.php:688
+msgid "Skip this step"
+msgstr ""
+
+#: include/setup/envato_setup.php:583
+msgid "No Slug Found"
+msgstr ""
+
+#: include/setup/envato_setup.php:599
+msgid "Activating Plugin"
+msgstr ""
+
+#: include/setup/envato_setup.php:614
+msgid "Updating Plugin"
+msgstr ""
+
+#: include/setup/envato_setup.php:629
+msgid "Installing Plugin"
+msgstr ""
+
+#: include/setup/envato_setup.php:639
+msgid "Success"
+msgstr ""
+
+#: include/setup/envato_setup.php:648
+msgid "Let’s Import Dummy Content"
+msgstr ""
+
+#: include/setup/envato_setup.php:651
+msgid ""
+"It looks like you already have content installed on this website. If you would "
+"like to install the default demo content as well you can select it below. "
+"Otherwise just choose the upgrade option to ensure everything is up to date."
+msgstr ""
+
+#: include/setup/envato_setup.php:653
+msgid ""
+"It's time to insert some default content for your new WordPress website. Choose "
+"what you would like inserted below and click Continue. It is recommended to leave "
+"everything selected. Once inserted, this content can be managed from the WordPress "
+"admin dashboard. "
+msgstr ""
+
+#: include/setup/envato_setup.php:689
+msgid "Import Content"
+msgstr ""
+
+#: include/setup/envato_setup.php:865
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: include/setup/envato_setup.php:875
+msgid "Next Steps"
+msgstr ""
+
+#: include/setup/envato_setup.php:879
+msgid "Follow @cridiostudio on Twitter"
+msgstr ""
+
+#: include/setup/envato_setup.php:882
+msgid "View your new website!"
+msgstr ""
+
+#: include/setup/envato_setup.php:887
+msgid "More Resources"
+msgstr ""
+
+#: include/setup/envato_setup.php:890
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: include/setup/envato_setup.php:893
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: include/setup/envato_setup.php:896
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: include/setup/envato_setup.php:898
+msgid "Get Help and Support"
+msgstr ""
+
+#: include/setup/envato_setup_init.php:65
+msgid "Upgrade"
+msgstr ""
+
+#: include/setup/envato_setup_init.php:66
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: include/setup/envato_setup_init.php:67
+msgid "Pending."
+msgstr ""
+
+#: include/setup/envato_setup_init.php:68
+msgid "Installing Updates."
+msgstr ""
+
+#: include/setup/envato_setup_init.php:69
+msgid "Success."
+msgstr ""
+
+#: include/setup/importer/importer-function.php:91
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: include/setup/importer/importer-function.php:134
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: include/setup/importer/importer-function.php:173
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: include/setup/importer/importer-function.php:192
+msgid "Site does not support widget"
+msgstr ""
+
+#: include/setup/importer/importer-function.php:209
+msgid "Widget already exists"
+msgstr ""
+
+#: include/setup/importer/importer-function.php:253
+msgid "Imported"
+msgstr ""
+
+#: include/setup/importer/importer-function.php:256
+msgid "Imported to Inactive"
+msgstr ""
+
+#: include/setup/importer/importer-function.php:263
+msgid "No Title"
+msgstr ""
+
+#: include/setup/importer/importer-function.php:285
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: include/setup/importer/importer-function.php:301
+msgid "Theme options import data could not be read. Please try a different file."
+msgstr ""
+
+#: include/setup/importer/importer/parsers.php:42
+#: include/setup/importer/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: include/setup/importer/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: include/setup/importer/importer/parsers.php:67
+#: include/setup/importer/importer/parsers.php:72
+#: include/setup/importer/importer/parsers.php:262
+#: include/setup/importer/importer/parsers.php:451
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:134
+#: include/setup/importer/importer/wordpress-importer.php:143
+#: include/setup/importer/importer/wordpress-importer.php:194
+#: include/setup/importer/importer/wordpress-importer.php:198
+#: include/setup/importer/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this was "
+"caused by a permissions problem."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the importer. "
+"Please consider updating."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to "
+"reassign the author of the imported item to an existing user of this site. For "
+"example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated "
+"and the new user&#8217;s role will be set as %s. Manually changing the new "
+"user&#8217;s details will be necessary."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:286
+#: templates/dashboard/services-screen.php:84
+msgid "Submit"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:505
+#: include/setup/importer/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to ensure "
+"compatibility with newer export files."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the "
+"posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: include/setup/importer/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: include/single-ajax.php:52
+msgid "Claim for"
+msgstr ""
+
+#: include/single-ajax.php:89
+msgid "Claim has been submitted."
+msgstr ""
+
+#: include/single-ajax.php:135
+msgid "User Sent A Message From "
+msgstr ""
+
+#: include/single-ajax.php:136
+msgid "A person has contacted for following post"
+msgstr ""
+
+#: include/single-ajax.php:138
+msgid "Post Title : "
+msgstr ""
+
+#: include/single-ajax.php:140
+msgid "Contacted by "
+msgstr ""
+
+#: include/single-ajax.php:141 template-contact.php:42
+msgid "Name : "
+msgstr ""
+
+#: include/single-ajax.php:143
+msgid "Contact : "
+msgstr ""
+
+#: include/single-ajax.php:145 template-contact.php:43
+msgid "Email : "
+msgstr ""
+
+#: include/single-ajax.php:164
+msgid "Oh sorry! something missing"
+msgstr ""
+
+#: include/single-ajax.php:231
+msgid "Email has been sent."
+msgstr ""
+
+#: include/single-ajax.php:235
+msgid "Something went wrong."
+msgstr ""
+
+#: include/time-status.php:40 include/timings.php:29
+msgid "Open Now~"
+msgstr ""
+
+#: include/time-status.php:46 include/timings.php:31
+msgid "Closed Now!"
+msgstr ""
+
+#: include/timings.php:2
+msgid "Opening Hours"
+msgstr ""
+
+#: include/timings.php:38
+msgid "Day Off!"
+msgstr ""
+
+#: include/timings.php:41
+msgid "Show all timings"
+msgstr ""
+
+#: include/widgets/widget_ads_listing.php:13
+msgid "It will show the Listings in ads"
+msgstr ""
+
+#: include/widgets/widget_ads_listing.php:33
+msgid "Maximum 3 Ads listings will show in sidebar in \"random\" order"
+msgstr ""
+
+#: include/widgets/widget_featured_listing.php:33
+#: include/widgets/widget_most_viewed.php:33
+msgid "Number of Listings:"
+msgstr ""
+
+#: include/widgets/widget_featured_listing.php:43
+#: include/widgets/widget_most_viewed.php:43
+msgid "Check this to show thumbnails"
+msgstr ""
+
+#: include/widgets/widget_featured_listing.php:46
+#: include/widgets/widget_most_viewed.php:46
+msgid "Social Style:"
+msgstr ""
+
+#: include/widgets/widget_featured_listing.php:48
+#: include/widgets/widget_most_viewed.php:48
+msgid "Style One"
+msgstr ""
+
+#: include/widgets/widget_featured_listing.php:49
+#: include/widgets/widget_most_viewed.php:49
+msgid "Style Two"
+msgstr ""
+
+#: include/widgets/widget_featured_listing.php:50
+#: include/widgets/widget_most_viewed.php:50
+msgid "Style Three"
+msgstr ""
+
+#: listing-loop.php:52 templates/listing_detail2.php:31 templates/preview.php:16
+msgid "Claimed"
+msgstr ""
+
+#: listing-loop.php:81 listing-loop.php:87 listing-loop.php:103 listing-loop.php:109
+#: listing-loop.php:254 listing-loop.php:260 listing-loop.php:276
+#: listing-loop.php:282
+msgid "https://placeholdit.imgix.net/~text?txtsize=33&txt=ListingPro&w=372&h=240"
+msgstr ""
+
+#: listing-loop.php:123 listing-loop.php:296
+msgid "Preview"
+msgstr ""
+
+#: listing-loop.php:144 listing-loop.php:316
+msgid "Rating"
+msgstr ""
+
+#: listing-loop.php:146 listing-loop.php:318 templates/listing_detail2.php:180
+msgid "Ratings"
+msgstr ""
+
+#: loop.php:21
+msgid "https://placeholdit.imgix.net/~text?txtsize=33&w=372&h=240"
+msgstr ""
+
+#: template-contact.php:21
+msgid "Required : "
+msgstr ""
+
+#: template-contact.php:23
+msgid "Name"
+msgstr ""
+
+#: template-contact.php:29
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:34
+msgid "Your message send seccessfuly"
+msgstr ""
+
+#: template-contact.php:39
+msgid "Contact Us Email"
+msgstr ""
+
+#: template-contact.php:41
+msgid "Details : "
+msgstr ""
+
+#: template-contact.php:44
+msgid "Message : "
+msgstr ""
+
+#: template-contact.php:126
+msgid "Name:"
+msgstr ""
+
+#: template-contact.php:129
+msgid "Email:"
+msgstr ""
+
+#: template-contact.php:134
+msgid "Subject:"
+msgstr ""
+
+#: template-contact.php:139
+msgid "Message:"
+msgstr ""
+
+#: template-contact.php:144
+msgid "Send Message"
+msgstr ""
+
+#: template-dashboard.php:96
+msgid "Post has deleted succesfully"
+msgstr ""
+
+#: template-dashboard.php:99
+msgid "You have no permission to delete this post"
+msgstr ""
+
+#: template-dashboard.php:128 template-dashboard.php:187
+#: templates/dashboard/update-profile.php:86
+msgid "Your profile updated successfully."
+msgstr ""
+
+#: template-dashboard.php:172
+msgid "Please enter a valid email id."
+msgstr ""
+
+#: template-dashboard.php:178
+msgid "Password must be 5 to 15 characters in length"
+msgstr ""
+
+#: template-dashboard.php:223
+msgid "Howdy!"
+msgstr ""
+
+#: template-dashboard.php:236
+msgid "All Listing"
+msgstr ""
+
+#: template-dashboard.php:240 template-dashboard.php:250 template-dashboard.php:260
+#: template-dashboard.php:270 template-dashboard.php:281
+msgid "Items"
+msgstr ""
+
+#: template-dashboard.php:246 templates/dashboard/expired.php:112
+#: templates/dashboard/listing.php:136
+msgid "Pending"
+msgstr ""
+
+#: template-dashboard.php:256 templates/dashboard/expired.php:110
+#: templates/dashboard/listing.php:134 templates/dashboard/saved.php:133
+msgid "Published"
+msgstr ""
+
+#: template-dashboard.php:266 templates/dashboard/expired.php:114
+#: templates/dashboard/packages.php:190
+msgid "Expired"
+msgstr ""
+
+#: template-dashboard.php:277
+msgid "Active Campaigns"
+msgstr ""
+
+#: template-dashboard.php:293
+msgid "Contact Support"
+msgstr ""
+
+#: template-dashboard.php:448
+msgid " Dashboard"
+msgstr ""
+
+#: template-dashboard.php:451
+msgid "My Listing "
+msgstr ""
+
+#: template-dashboard.php:453
+msgid " Published"
+msgstr ""
+
+#: template-dashboard.php:454
+msgid "  Pending"
+msgstr ""
+
+#: template-dashboard.php:455
+msgid "   Expired"
+msgstr ""
+
+#: template-dashboard.php:460
+msgid " Invoices "
+msgstr ""
+
+#: template-dashboard.php:462
+msgid " For Listings"
+msgstr ""
+
+#: template-dashboard.php:463
+msgid " For Ads"
+msgstr ""
+
+#: template-dashboard.php:466 templates/dashboard/packages.php:3
+msgid "Packages"
+msgstr ""
+
+#: template-dashboard.php:472
+msgid "Ad Campaigns "
+msgstr ""
+
+#: template-dashboard.php:474
+msgid " Active Campaigns "
+msgstr ""
+
+#: template-dashboard.php:475
+msgid "Start New Campaign"
+msgstr ""
+
+#: template-dashboard.php:486
+msgid " Reviews "
+msgstr ""
+
+#: template-dashboard.php:488
+msgid " Reviews Received"
+msgstr ""
+
+#: template-dashboard.php:489
+msgid "Reviews Submited "
+msgstr ""
+
+#: template-dashboard.php:498
+msgid "Bookings "
+msgstr ""
+
+#: template-dashboard.php:501
+msgid " Resurva"
+msgstr ""
+
+#: template-dashboard.php:504
+msgid " Timekit"
+msgstr ""
+
+#: template-dashboard.php:510
+msgid "Food / Service Menu"
+msgstr ""
+
+#: template-dashboard.php:513
+msgid " My Profile"
+msgstr ""
+
+#: template-dashboard.php:515
+msgid " Logout"
+msgstr ""
+
+#: template-dashboard.php:535
+msgid "Sorry! You have no permisssion to access this page. Please contact web admin."
+msgstr ""
+
+#: template-favourites.php:24 templates/banner.php:70 templates/banner.php:238
+#: templates/listing-with-sidebar.php:202
+msgid "View on map"
+msgstr ""
+
+#: template-favourites.php:73
+msgid "Sorry! You have not selected any list as favorite."
+msgstr ""
+
+#: template-favourites.php:74
+msgid "Go and select lists as favorite"
+msgstr ""
+
+#: template-favourites.php:75
+msgid "Visit Here"
+msgstr ""
+
+#: template-login.php:23 template-login.php:42 templates/popups.php:24
+msgid "Sign in"
+msgstr ""
+
+#: template-login.php:27 templates/popups.php:28
+msgid "Username or Email Address *"
+msgstr ""
+
+#: template-login.php:31 templates/popups.php:32
+msgid "Password *"
+msgstr ""
+
+#: template-login.php:37 templates/popups.php:38
+msgid "Keep me signed in"
+msgstr ""
+
+#: template-login.php:48 templates/popups.php:49
+msgid "Not a member? Sign up"
+msgstr ""
+
+#: template-login.php:49 template-login.php:104
+msgid "Forgot Password?"
+msgstr ""
+
+#: template-login.php:51 template-login.php:106 templates/popups.php:52
+#: templates/popups.php:107
+msgid "Connect with your Social Network"
+msgstr ""
+
+#: template-login.php:57 template-login.php:112
+#: templates/dashboard/update-profile.php:174 templates/popups.php:58
+#: templates/popups.php:113
+msgid "Google"
+msgstr ""
+
+#: template-login.php:65 template-login.php:120
+#: templates/dashboard/update-profile.php:160 templates/popups.php:66
+#: templates/popups.php:121
+msgid "Facebook"
+msgstr ""
+
+#: template-login.php:73 template-login.php:128
+#: templates/dashboard/update-profile.php:164 templates/popups.php:74
+#: templates/popups.php:129
+msgid "Twitter"
+msgstr ""
+
+#: template-login.php:82 templates/popups.php:83
+msgid "Sign Up"
+msgstr ""
+
+#: template-login.php:86 templates/popups.php:87
+msgid "Username *"
+msgstr ""
+
+#: template-login.php:90 template-login.php:140 templates/popups.php:91
+#: templates/popups.php:141
+msgid "Email Address *"
+msgstr ""
+
+#: template-login.php:94 templates/popups.php:95
+msgid "Password will be e-mailed to you."
+msgstr ""
+
+#: template-login.php:97
+msgid "Register"
+msgstr ""
+
+#: template-login.php:103 templates/popups.php:104
+msgid "Already have an account? Sign in"
+msgstr ""
+
+#: template-login.php:137 templates/popups.php:138
+msgid "Forgotten Password"
+msgstr ""
+
+#: template-login.php:144 templates/popups.php:145
+msgid "Get New Password"
+msgstr ""
+
+#: templates/banner.php:8 templates/banner.php:24
+#: templates/listing-with-sidebar.php:69
+msgid "Home"
+msgstr ""
+
+#: templates/banner.php:25
+msgid "Blog"
+msgstr ""
+
+#: templates/banner.php:158
+msgid "Image courtesy by"
+msgstr ""
+
+#: templates/blog-comments.php:19
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: templates/blog-comments.php:42
+msgid "Reply"
+msgstr ""
+
+#: templates/blog-comments.php:48
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: templates/breadcrumb.php:119
+msgid "Page"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:3
+msgid "Active Ad Campaigns"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:86
+msgid "Ad"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:111 templates/dashboard/packages.php:106
+#: templates/dashboard/packages.php:204
+msgid "Trans ID"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:112 templates/dashboard/packages.php:108
+#: templates/dashboard/packages.php:206
+msgid "Ammount"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:113 templates/dashboard/packages.php:109
+#: templates/dashboard/packages.php:207
+msgid "Duration"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:114
+msgid "Payment Method"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:115
+msgid "Date From"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:116
+msgid "Date To"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:123 templates/dashboard/packages.php:171
+msgid "days"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:138
+#: templates/dashboard/ads-invoices.php:85 templates/dashboard/campaigns.php:87
+#: templates/dashboard/campaigns.php:283 templates/dashboard/expired.php:147
+#: templates/dashboard/list-invoices.php:55 templates/dashboard/listing.php:175
+#: templates/dashboard/packages.php:227 templates/dashboard/pending.php:171
+#: templates/dashboard/reviews-submited.php:151 templates/dashboard/reviews.php:161
+#: templates/dashboard/saved.php:160 templates/dashboard/saved.php:168
+msgid "Ooops!"
+msgstr ""
+
+#: templates/dashboard/active-campaigns.php:139
+msgid "Sorry ! Your have no active campaigns yet!"
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:3
+msgid "Invoices for Ads"
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:51
+msgid " - Purchased Ads"
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:52 templates/dashboard/list-invoices.php:18
+msgid "View Detail"
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:57 templates/dashboard/list-invoices.php:23
+msgid "No."
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:58 templates/dashboard/list-invoices.php:24
+msgid "Order#"
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:61
+msgid "Purchased Date"
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:62
+msgid "Expiry Date"
+msgstr ""
+
+#: templates/dashboard/ads-invoices.php:86 templates/dashboard/list-invoices.php:56
+msgid "Sorry ! There is no Invoice generated yet!"
+msgstr ""
+
+#: templates/dashboard/bookings.php:53 templates/dashboard/timekit-bookings.php:58
+msgid "Bookings"
+msgstr ""
+
+#: templates/dashboard/bookings.php:60
+msgid "Add Resurva Bookings"
+msgstr ""
+
+#: templates/dashboard/bookings.php:64
+msgid "Enter your resurva url"
+msgstr ""
+
+#: templates/dashboard/bookings.php:65
+msgid "Enter your resurva url..."
+msgstr ""
+
+#: templates/dashboard/bookings.php:68
+msgid "Select your list to assign your resurva booking"
+msgstr ""
+
+#: templates/dashboard/bookings.php:78 templates/dashboard/services-screen.php:81
+#: templates/dashboard/timekit-bookings.php:103
+msgid "You have no published listing."
+msgstr ""
+
+#: templates/dashboard/bookings.php:97
+msgid "Resurva Bookings Currently Active On"
+msgstr ""
+
+#: templates/dashboard/bookings.php:108 templates/dashboard/timekit-bookings.php:133
+msgid "Remove Booking"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:3
+msgid "Ads - Promote your Listings"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:83
+msgid "Get Started Now!"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:88
+msgid "Sorry ! Your have no Published listings yet!"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:167
+msgid "Promote"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:182
+msgid "Where you want to show your ad"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:191
+msgid "Show Random Ads  "
+msgstr ""
+
+#: templates/dashboard/campaigns.php:200
+msgid "Show Detail Page Ads "
+msgstr ""
+
+#: templates/dashboard/campaigns.php:209
+msgid "Show Ads in search and taxonomy  "
+msgstr ""
+
+#: templates/dashboard/campaigns.php:231
+msgid "Total : "
+msgstr ""
+
+#: templates/dashboard/campaigns.php:237 templates/dashboard/campaigns.php:238
+msgid "next"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:239 templates/dashboard/campaigns.php:293
+msgid "Back"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:284
+msgid "Sorry ! Your have no checkout payment method"
+msgstr ""
+
+#: templates/dashboard/campaigns.php:291 templates/dashboard/campaigns.php:292
+msgid "Proceed"
+msgstr ""
+
+#: templates/dashboard/expired.php:3
+msgid "Expired Listings"
+msgstr ""
+
+#: templates/dashboard/expired.php:131 templates/dashboard/listing.php:159
+#: templates/dashboard/pending.php:154
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: templates/dashboard/expired.php:148
+msgid "Sorry ! Your have no list expired yet!"
+msgstr ""
+
+#: templates/dashboard/list-invoices.php:3
+msgid "Invoices for Listing"
+msgstr ""
+
+#: templates/dashboard/list-invoices.php:17
+msgid " - Purchased Listing"
+msgstr ""
+
+#: templates/dashboard/list-invoices.php:25
+msgid "Method"
+msgstr ""
+
+#: templates/dashboard/list-invoices.php:28
+msgid ">Date"
+msgstr ""
+
+#: templates/dashboard/list-invoices.php:29 templates/dashboard/packages.php:120
+#: templates/dashboard/packages.php:217
+msgid "Days"
+msgstr ""
+
+#: templates/dashboard/listing.php:3
+msgid "Published Listings"
+msgstr ""
+
+#: templates/dashboard/listing.php:121 templates/dashboard/packages.php:175
+#: templates/dashboard/pending.php:113 templates/dashboard/saved.php:120
+msgid "Unlimited"
+msgstr ""
+
+#: templates/dashboard/listing.php:123
+msgid " Days Left"
+msgstr ""
+
+#: templates/dashboard/listing.php:149 templates/dashboard/pending.php:144
+#: templates/dashboard/saved.php:150
+msgid "Remove"
+msgstr ""
+
+#: templates/dashboard/listing.php:176 templates/dashboard/pending.php:172
+msgid "Sorry ! Your have no listing yet!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:24
+msgid "Welcome! "
+msgstr ""
+
+#: templates/dashboard/main-screen.php:24
+msgid "Get Started by adding a new listing!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:25
+msgid ""
+"Lets start by adding your listing. Make sure to provide as much as details as "
+"possible."
+msgstr ""
+
+#: templates/dashboard/main-screen.php:37
+msgid "Promote!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:37
+msgid "Did you know you can generate 10x leads!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:38
+msgid ""
+"Start advertising today and reach 100 times more audience which can increase the "
+"potential of getting up to 10x leads and double the conversions."
+msgstr ""
+
+#: templates/dashboard/main-screen.php:50
+msgid "Listing Pending! "
+msgstr ""
+
+#: templates/dashboard/main-screen.php:50
+msgid "Publish your Listings today and get new customers!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:51
+msgid " Please review and submit to get new leads and customers."
+msgstr ""
+
+#: templates/dashboard/main-screen.php:66
+msgid "Total Views"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:83
+msgid "Total Leads"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:95
+msgid "Total Reviews"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:126
+msgid "New Reaction!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:127
+msgid "on a comment by "
+msgstr ""
+
+#: templates/dashboard/main-screen.php:139
+msgid "New Lead!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:140
+msgid "just contacted you."
+msgstr ""
+
+#: templates/dashboard/main-screen.php:152
+msgid "New Review!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:153
+msgid "left a"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:153
+msgid " rating and a review on "
+msgstr ""
+
+#: templates/dashboard/main-screen.php:164 templates/dashboard/main-screen.php:168
+msgid "Recent activities about your listings will be here"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:174
+msgid "Recent activities about your listings will be here."
+msgstr ""
+
+#: templates/dashboard/main-screen.php:225
+msgid "Following need your urgent Attention"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:246
+msgid "Attention!"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:247
+msgid "rating"
+msgstr ""
+
+#: templates/dashboard/main-screen.php:257
+msgid "Low ratings Notifications will be here."
+msgstr ""
+
+#: templates/dashboard/packages.php:98
+msgid "Listings Used : "
+msgstr ""
+
+#: templates/dashboard/packages.php:99
+msgid "Remaining Listings : "
+msgstr ""
+
+#: templates/dashboard/packages.php:107 templates/dashboard/packages.php:205
+msgid "Date"
+msgstr ""
+
+#: templates/dashboard/packages.php:110 templates/dashboard/packages.php:208
+msgid "Total Listings"
+msgstr ""
+
+#: templates/dashboard/packages.php:122
+msgid "Day"
+msgstr ""
+
+#: templates/dashboard/packages.php:219
+msgid "Inactive"
+msgstr ""
+
+#: templates/dashboard/packages.php:228
+msgid "Sorry ! You have no active or exired Package yet!"
+msgstr ""
+
+#: templates/dashboard/pending.php:3
+msgid "Pending Listings"
+msgstr ""
+
+#: templates/dashboard/pending.php:115
+msgid "  Days Left"
+msgstr ""
+
+#: templates/dashboard/review-edit.php:91
+msgid "Your Rating"
+msgstr ""
+
+#: templates/dashboard/review-edit.php:132
+msgid "Select New Images"
+msgstr ""
+
+#: templates/dashboard/reviews-submited.php:19
+msgid "Reviews Submitted"
+msgstr ""
+
+#: templates/dashboard/reviews-submited.php:119 templates/dashboard/reviews.php:110
+msgid "See More"
+msgstr ""
+
+#: templates/dashboard/reviews-submited.php:123
+msgid "Edit this review"
+msgstr ""
+
+#: templates/dashboard/reviews-submited.php:152
+msgid "Sorry ! Your have not submitted any Review yet!"
+msgstr ""
+
+#: templates/dashboard/reviews.php:9
+msgid "Reviews Received"
+msgstr ""
+
+#: templates/dashboard/reviews.php:115
+msgid "Reply Closed"
+msgstr ""
+
+#: templates/dashboard/reviews.php:117
+msgid "Reply this review"
+msgstr ""
+
+#: templates/dashboard/reviews.php:129
+msgid "Write something in reply of this review"
+msgstr ""
+
+#: templates/dashboard/reviews.php:162
+msgid "Sorry ! Your have no received Reviews yet!"
+msgstr ""
+
+#: templates/dashboard/saved.php:3
+msgid "Saved Listings"
+msgstr ""
+
+#: templates/dashboard/saved.php:122
+msgid "Days Left"
+msgstr ""
+
+#: templates/dashboard/saved.php:161
+msgid "Sorry ! Your have no published Listing yet!"
+msgstr ""
+
+#: templates/dashboard/saved.php:169
+msgid "Sorry ! Your have no saved Listing yet!"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:50
+msgid "Restaurant Menu"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:57
+msgid "Add Menu to any listing"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:62
+msgid "Title (example: \"See Full Menu\")"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:63
+msgid "See Full Menu"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:68
+msgid "(JPEG, PNG, GIF)\")"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:73
+msgid "Select your list to assign your food / service menu"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:96
+msgid "Menu Option is Currently Active On"
+msgstr ""
+
+#: templates/dashboard/services-screen.php:107
+msgid "Remove Menu Option"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:65
+msgid "Add Timekit Bookings"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:69
+msgid "Enter your Timekit Name:"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:70
+msgid "Enter your Timekit name for booking widget"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:71
+msgid "Enter your Timekit Name"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:74
+#: templates/dashboard/timekit-bookings.php:76
+msgid "Enter your Timekit email"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:75
+msgid "Enter your Timekit email which you are using for Timekit Bookings."
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:83
+#: templates/dashboard/timekit-bookings.php:84
+msgid "Enter your Timekit API Token"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:87
+#: templates/dashboard/timekit-bookings.php:88
+msgid "Enter your Timekit APP Name"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:93
+msgid "Select your list to assign your Timekit booking"
+msgstr ""
+
+#: templates/dashboard/timekit-bookings.php:122
+msgid "Timekit Bookings Currently Active On"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:87
+msgid "success"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:97 templates/join-now.php:40
+msgid "Update Profile"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:115
+msgid ""
+"Update your photo manually If the photo is not set the default Gravatar will be "
+"the same as your login email account"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:119
+msgid "Upload Photo"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:128
+msgid "First Name"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:132
+msgid "Last Name"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:154
+msgid "About"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:170
+msgid "Linkedin"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:180
+msgid "Instagram"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:184
+msgid "Pinterest"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:191
+msgid "Update Password"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:196
+msgid "New Password"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:200
+msgid "Repeat Password"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:206
+msgid ""
+"Enter same password in both fields Use an uppercase letter and a number for "
+"stronger password"
+msgstr ""
+
+#: templates/dashboard/update-profile.php:211
+msgid "Update profile"
+msgstr ""
+
+#: templates/headers/header-menu-dropdown.php:102
+#: templates/headers/header-with-topbar.php:110
+#: templates/headers/header-without-topbar.php:119
+msgid "Add Listing"
+msgstr ""
+
+#: templates/join-now.php:9
+msgid "Join Now"
+msgstr ""
+
+#: templates/join-now.php:39
+msgid "Dashboard"
+msgstr ""
+
+#: templates/join-now.php:41
+msgid "Sign out "
+msgstr ""
+
+#: templates/listing-simple.php:120 templates/listing-with-map.php:117
+#: templates/listing-with-sidebar.php:43
+msgid "Results"
+msgstr ""
+
+#: templates/listing-simple.php:122 templates/listing-with-map.php:119
+#: templates/listing-with-sidebar.php:45
+msgid "Result"
+msgstr ""
+
+#: templates/listing-simple.php:175 templates/listing-with-map.php:170
+#: templates/listing-with-sidebar.php:230
+msgid "Try changing your search filters or"
+msgstr ""
+
+#: templates/listing-with-sidebar.php:75
+msgid "Showing all Listings for"
+msgstr ""
+
+#: templates/listing-with-sidebar.php:82
+msgid "Reset"
+msgstr ""
+
+#: templates/listing-with-sidebar.php:100
+msgid "All Locations"
+msgstr ""
+
+#: templates/listing-with-sidebar.php:130
+msgid "All Categoires"
+msgstr ""
+
+#: templates/listing_detail2.php:191
+msgid "Book Now"
+msgstr ""
+
+#: templates/listing_detail2.php:232
+msgid "Checkout"
+msgstr ""
+
+#: templates/listing_detail2.php:235
+msgid "Watch Video"
+msgstr ""
+
+#: templates/listing_detail2.php:259
+msgid "Features"
+msgstr ""
+
+#: templates/listing_detail2.php:291
+msgid "Quick questions"
+msgstr ""
+
+#: templates/listing_detail2.php:376
+msgid "View Large Map"
+msgstr ""
+
+#: templates/listing_detail2.php:391
+msgid "Get Directions"
+msgstr ""
+
+#: templates/popups.php:9
+msgid "Content is loading..."
+msgstr ""
+
+#: templates/popups.php:12
+msgid "Close"
+msgstr ""
+
+#: templates/popups.php:13
+msgid "Print"
+msgstr ""
+
+#: templates/popups.php:50 templates/popups.php:105
+msgid "Forgot Password"
+msgstr ""
+
+#: templates/preview.php:44 templates/preview.php:51
+msgid "https://placeholdit.imgix.net/~text?txtsize=33&txt=ListingPro&w=650&h=300"
+msgstr ""
+
+#: templates/search/filter.php:39 templates/search/filter.php:45
+msgid "Results For"
+msgstr ""
+
+#: templates/search/filter.php:58
+msgid "In "
+msgstr ""
+
+#: templates/search/filter.php:94 templates/search/filter.php:96
+msgid " Listings"
+msgstr ""
+
+#: templates/search/filter.php:96
+msgid "Results For "
+msgstr ""
+
+#: templates/search/filter.php:109
+msgid "See Filters"
+msgstr ""
+
+#: templates/search/filter.php:123
+msgid "Open Now"
+msgstr ""
+
+#: templates/search/filter.php:128
+msgid "Highest Rated"
+msgstr ""
+
+#: templates/search/filter.php:129
+msgid "Most Reviewed"
+msgstr ""
+
+#: templates/search/filter.php:136
+msgid "All Categories"
+msgstr ""
+
+#: templates/search/home-search.php:14 templates/search/top_search.php:52
+msgid "What"
+msgstr ""
+
+#: templates/search/home-search.php:59 templates/search/top_search.php:92
+msgid "Where"
+msgstr ""
+
+#: templates/search/home-search.php:88
+msgid "Search"
+msgstr ""
+
+#: templates/search/top_search.php:24
+msgid "City..."
+msgstr ""
+
+#: templates/single-list/claim-form.php:98
+msgid "Claim This Listing"
+msgstr ""
+
+#: templates/single-list/claimed.php:11
+msgid "Own or work here?"
+msgstr ""
+
+#: templates/single-list/claimed.php:17 templates/single-list/claimed.php:20
+#: templates/single-list/claimed.php:25 templates/single-list/claimed.php:28
+msgid "Claim Now!"
+msgstr ""
+
+#: templates/template-payment-cancel.php:19
+msgid "Oh Sorry! Your payment failed"
+msgstr ""
+
+#: templates/template-payment-thankyou.php:28
+msgid "Congratulations! Your payment has been made successfull"
+msgstr ""

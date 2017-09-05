@@ -1,0 +1,352 @@
+/**
+ * GENERAL STYLING
+ */
+/* Body Text */
+.minigo {
+  color: white;
+  /*
+    font-family: Lato;
+*/
+  font-size: 18px;
+  font-weight: 300; }
+
+/* Text Links */
+.minigo a,
+.minigo .contact-info a {
+  color: white; }
+
+/* Text Links Hover */
+.minigo a:hover,
+.minigo .contact-info a:hover {
+  color: white; }
+
+/* Text Link Underlines */
+.minigo .site-page a::before {
+  background-color: rgba(255, 255, 255, 0.25); }
+
+.minigo .site-page a:hover::before {
+  background-color: rgba(255, 255, 255, 0.5); }
+
+/* Paragraphs */
+.minigo p,
+.minigo .contact-info {
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 300;
+  color: #fff;
+  line-height: 26px; }
+
+/* Heading H1 */
+.minigo h1 {
+  font-family: Lato;
+  font-size: 60px;
+  font-weight: 100;
+  color: #fff; }
+
+/* Heading H2 */
+.minigo h2 {
+  font-family: Lato;
+  font-size: 36px;
+  font-weight: 300;
+  color: #fff; }
+
+/* Heading H3 */
+.minigo h3 {
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: 300;
+  color: #fff;
+  line-height: 30px; }
+
+/* Heading H4 */
+.minigo h4 {
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 300;
+  color: #fff;
+  line-height: 24px; }
+
+/* Heading H5 */
+.minigo h5 {
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 300;
+  color: #fff;
+  line-height: 20px; }
+
+/* Heading H6 */
+.minigo h6 {
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 300;
+  color: #fff;
+  line-height: 18px; }
+
+/* Content Buttons */
+.minigo .btn {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 22px;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0);
+  color: rgba(255, 255, 255, 0.9); }
+
+/* Content Buttons - Hover */
+.minigo .btn:hover {
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: white;
+  background: rgba(0, 0, 0, 0.25);
+  color: white; }
+
+/* [Main Navigation] */
+/* Main Navigation - Label */
+.minigo .nav-left .site-page__trigger span,
+.minigo .nav-right .site-page__trigger span,
+.minigo .site-to__top span,
+.minigo .nav-close .site-page__close span,
+.minigo .nav-menu a span {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5); }
+
+/* Main Navigation - Icon */
+.minigo .nav-left .site-page__trigger i,
+.minigo .nav-right .site-page__trigger i,
+.minigo .site-to__top i,
+.minigo .nav-close .site-page__close i,
+.minigo .nav-menu a i {
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  border-style: dotted;
+  border-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0);
+  color: rgba(255, 255, 255, 0.75); }
+
+/* Main Navigation - Label - Hover */
+.minigo .nav-left .site-page__trigger:hover span,
+.minigo .nav-left .site-page__trigger.active:hover span,
+.minigo .nav-right .site-page__trigger:hover span,
+.minigo .nav-right .site-page__trigger.active:hover span,
+.minigo .site-to__top:hover span,
+.minigo .nav-close .site-page__close:hover span,
+.minigo .nav-menu a:hover span {
+  color: white; }
+
+/* Main Navigation - Icon - Hover */
+.minigo .nav-left .site-page__trigger:hover i,
+.minigo .nav-left .site-page__trigger.active:hover i,
+.minigo .nav-right .site-page__trigger:hover i,
+.minigo .nav-right .site-page__trigger.active:hover i,
+.minigo .site-to__top:hover i,
+.minigo .nav-close .site-page__close:hover i,
+.minigo .nav-menu a:hover i {
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(255, 255, 255, 0.91);
+  color: black !important; }
+
+/* Main Navigation - Label - Selected */
+.minigo .nav-left .site-page__trigger.active span,
+.minigo .nav-right .site-page__trigger.active span,
+.minigo .site-to__top:focus span,
+.minigo .nav-close .site-page__close:focus span,
+.minigo .nav-menu a:focus span {
+  color: white; }
+
+/* Main Navigation - Icon - Selected */
+.minigo .nav-left .site-page__trigger.active i,
+.minigo .nav-right .site-page__trigger.active i,
+.minigo .site-to__top:focus i,
+.minigo .nav-close .site-page__close:focus i,
+.minigo .nav-menu a:focus i {
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.75);
+  background-color: white;
+  color: black !important; }
+
+/* Icon Menu Navigation */
+.minigo .nav-social a,
+.minigo .icon-menu a,
+.minigo .team-holder .grid__item .team-links a,
+.minigo .setup-audio {
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  color: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0); }
+
+/* Icon Menu Nav - Hover */
+.minigo .nav-social a:hover,
+.minigo .icon-menu a:hover,
+.minigo .team-holder .grid__item .team-links a:hover,
+.minigo .setup-audio:hover {
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+  background: rgba(0, 0, 0, 0.25);
+  color: white; }
+
+.minigo .setup-audio .audio-icons i {
+  color: rgba(255, 255, 255, 0.1); }
+
+.minigo .setup-audio .audio-icons:hover i {
+  color: white; }
+
+/* Icon Menu Nav - Label */
+.minigo .nav-social a::after,
+.minigo .nav-social a:hover::after,
+.minigo .icon-menu a::after,
+.minigo .icon-menu a:hover::after {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px; }
+
+/* Icon Menu Nav - Label - Hover */
+.minigo .nav-social a:hover::after,
+.minigo .icon-menu a:hover::after {
+  color: white; }
+
+/* [Forms] */
+/* Input - Typography */
+.minigo .text-input,
+.minigo textarea,
+.minigo select,
+.minigo .contact-info,
+.minigo .contact-info a {
+  font-family: Lato;
+  font-size: 22px; }
+
+/* Inputs */
+.minigo .text-input,
+.minigo textarea,
+.minigo select {
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  color: white;
+  background: rgba(255, 255, 255, 0); }
+
+/* Inputs - Hover */
+.minigo .text-input:hover,
+.minigo textarea:hover,
+.minigo select:hover {
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.15);
+  -moz-box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.15);
+  -webkit-box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.15); }
+
+/* Inputs - Focus */
+.minigo .text-input:focus,
+.minigo textarea:focus,
+.minigo select:focus {
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.25);
+  color: white;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0 8px 0 rgba(255, 255, 255, 0.4);
+  -moz-box-shadow: 0 0 8px 0 rgba(255, 255, 255, 0.4);
+  -webkit-box-shadow: 0 0 8px 0 rgba(255, 255, 255, 0.4); }
+
+/* Inputs - Labels */
+.minigo form label {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400; }
+
+/* Inputs - Notifications */
+/* Inputs - Placeholder Text */
+.minigo input:-moz-placeholder,
+.minigo textarea:-moz-placeholder {
+  color: rgba(255, 255, 255, 0.7); }
+
+.minigo input::-moz-placeholder,
+.minigo textarea::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.7); }
+
+.minigo input:-ms-input-placeholder,
+.minigo textarea:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.7); }
+
+.minigo input::-webkit-input-placeholder,
+.minigo textarea::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.7); }
+
+.minigo input:hover:-moz-placeholder,
+.minigo textarea:hover:-moz-placeholder {
+  color: rgba(255, 255, 255, 0.85); }
+
+.minigo input:hover::-moz-placeholder,
+.minigo textarea:hover::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.85); }
+
+.minigo input:hover:-ms-input-placeholder,
+.minigo textarea:hover:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.85); }
+
+.minigo input:hover::-webkit-input-placeholder,
+.minigo textarea:hover::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.85); }
+
+.minigo input:focus:-moz-placeholder,
+.minigo textarea:focus:-moz-placeholder {
+  color: rgba(255, 255, 255, 0.5); }
+
+.minigo input:focus::-moz-placeholder,
+.minigo textarea:focus::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.5); }
+
+.minigo input:focus:-ms-input-placeholder,
+.minigo textarea:focus:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.5); }
+
+.minigo input:focus::-webkit-input-placeholder,
+.minigo textarea:focus::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.5); }
+
+/**
+ * VARIOUS STYLING
+ */
+.minigo .loader {
+  background: #267a76; }
+
+/* Icon Menu Colors */

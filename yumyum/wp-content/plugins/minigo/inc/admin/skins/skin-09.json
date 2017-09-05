@@ -1,0 +1,1678 @@
+{
+  "last_tab": "",
+  "comingsoon-enabled": "coming_soon",
+  "display-on": "all",
+  "custom-urls-mode": "whitelist",
+  "custom-urls-list": "http://example.com/blog/*",
+  "share-shortcodes": "0",
+  "switch-themes": "skin-09",
+  "site-title": "MiniGO - Uber Minimal Flat Coming Soon WP Plugin",
+  "logo": {
+    "url": "//premiothemes.com/demos/assets/images/trense/trense-logo-filled.png",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "logo-width": "178",
+  "logo-height": "156",
+  "favicon": {
+    "url": "//premiothemes.com/demos/minigo/assets/template/favicon.ico",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "meta-title": "",
+  "meta-description": "",
+  "analytics-code": "",
+  "logo-on-loading": "1",
+  "loader-logo-switcher": "default",
+  "loader-logo": {
+    "url": "//premiothemes.com/demos/minigo/assets/template/images/logo-dark.png",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "loader-logo-width": "141",
+  "loader-logo-height": "141",
+  "animated-intro": "0",
+  "loader-animation-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "loader-background-color": {
+    "color": "#3c252a",
+    "alpha": "1",
+    "rgba": "rgba(60,37,42,1)"
+  },
+  "gradient-loader": "1",
+  "gradient-loading-backgrounds": {
+    "from": "#2b1a21",
+    "to": "#491f29"
+  },
+  "gradient-loader-color-degree": "315",
+  "hash-url": "1",
+  "navigation-type": "one-page",
+  "navigation-position": "top",
+  "navigation-align": "center",
+  "navigation-orientation": "horizontal",
+  "navigation-style": "small",
+  "navigation-labels": "always",
+  "navigation-adaptive-style": "0",
+  "navigation-responsive": "1",
+  "navigation-style-tablet": "mobile",
+  "navigation-style-mobile": "expanding",
+  "menu-background-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "menu-background-color-mobile": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "close-button-label": "CLOSE",
+  "close-button-icon": "fa-times-circle",
+  "to-top-position": "bottom-right",
+  "to-top-text": "Top",
+  "to-top-icon": "fa-arrow-up",
+  "menu-button-label": "MENU",
+  "menu-button-icon": "fa-bars",
+  "menu-close-button-label": "CLOSE",
+  "menu-close-button-icon": "fa-close",
+  "footer-show": "0",
+  "footer-visibility": "default",
+  "footer-size": "small",
+  "footer-vertical-position": "bottom",
+  "footer-horizontal-align": "left",
+  "footer-orientation": "horizontal",
+  "footer-background-color": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "footer-background-color-mobile": {
+    "color": "#000000",
+    "alpha": "0.95",
+    "rgba": "rgba(0,0,0,0.95)"
+  },
+  "background-color": "#222222",
+  "background-type": "vimeo",
+  "background-slideshow-duration": "10",
+  "background-slideshow-kenburns-minScale": "1.2",
+  "background-slideshow-kenburns-maxScale": "1.7",
+  "background-slideshow-kenburns-minMove": "5",
+  "background-slideshow-kenburns-maxMove": "15",
+  "background-slideshow-gallery": "",
+  "background-video-imageFallback": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-video-volume": "0",
+  "background-video-mp4": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-video-webm": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-video-ogg": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-youtube-url": "https://www.youtube.com/watch?v=iCd32Eiuxak",
+  "background-youtube-startAt": "0",
+  "background-youtube-endAt": "0",
+  "background-vimeo-url": "139601645",
+  "background-video-loop": "0",
+  "gradient-color-switch": "1",
+  "gradient-color": {
+    "from": "#000000",
+    "to": "#3c252a"
+  },
+  "gradient-opacity": "0.75",
+  "gradient-color-degree": "270",
+  "js-animation-switch": "0",
+  "js-animation-options": "particles",
+  "js-animation-opacity": "0.5",
+  "background-pattern": "custom",
+  "background-patternPreset": "//premiothemes.com/demos/minigo/assets/template/images/patterns/dotted-1.png",
+  "background-patternCustom": {
+    "url": "//premiothemes.com/demos/minigo/assets/template/images/patterns/trense-pattern-white.png",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "background-pattern-opacity": "0.1",
+  "form-validation-required": "This field is required.",
+  "form-validation-email": "Please enter a valid email address.",
+  "contact-target-address": "hello@premiothemes.com",
+  "contact-from-address": "",
+  "contact-subject-prefix": "MiniGO message from - ",
+  "contact-form-name-label": "Your name",
+  "contact-form-email-label": "Your e-mail address",
+  "contact-form-message-label": "Message",
+  "contact-form-button-label": "SEND MESSAGE",
+  "contact-form-success-message": "Message sent!",
+  "subscribe-form-title": "Get Your Free Sample!",
+  "subscribe-form-email-label": "Your e-mail address",
+  "subscribe-form-button-label": "GO",
+  "subscribe-form-success-message": "Instructions sent, thank you!",
+  "subscribe-use_Mailchimp": "1",
+  "subscribe-Mailchimp_API_Key": "1da1462f73495883e81efd45e324decc-us4",
+  "subscribe-Mailchimp_list_ID": "d1a2c1442d",
+  "subscribe-Mailchimp_double_optin": "0",
+  "subscribe-Mailchimp_send_welcome": "0",
+  "enable-audio": "0",
+  "audio-switch": "url",
+  "audio-track": {
+    "url": "",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "url-audio-track": "//premiothemes.com/demos/assets/audio/wathne-lounge.mp3",
+  "track-name": "Optional Track Name to Display",
+  "audio-volume": "0.2",
+  "audio-controls": "1",
+  "audio-autoplay": "1",
+  "audio-loop": "1",
+  "custom-css": "",
+  "custom-html": "",
+  "pages-align": "default",
+  "pages-text-align": "default",
+  "pages-background": "1",
+  "pages-background-color": {
+    "color": "#140f10",
+    "alpha": "0.75",
+    "rgba": "rgba(20,15,16,0.75)"
+  },
+  "pages-border-radius": {
+    "width": "0px",
+    "units": "px"
+  },
+  "pages-background-border": "1",
+  "pages-border": {
+    "border-top": "20px",
+    "border-right": "20px",
+    "border-bottom": "20px",
+    "border-left": "20px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "pages-border-color": {
+    "color": "#3c252a",
+    "alpha": "1",
+    "rgba": "rgba(60,37,42,1)"
+  },
+  "pages-width-switch": "1",
+  "pages-width": {
+    "width": "100%",
+    "units": "%"
+  },
+  "pages-spacing-switch": "1",
+  "pages-margins": {
+    "margin-top": "120px",
+    "margin-right": "0",
+    "margin-bottom": "120px",
+    "margin-left": "0",
+    "units": "px"
+  },
+  "pages-paddings": {
+    "padding-top": "60px",
+    "padding-right": "",
+    "padding-bottom": "60px",
+    "padding-left": "",
+    "units": "px"
+  },
+  "page-full-height": "0",
+  "page-1-enabled": "1",
+  "page-1-title-show": "0",
+  "page-1-title": "Welcome!",
+  "page-1-content": "[PT_row][PT_column size=\"one-half lap-one-whole\"][minigo-logo][minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"][minigo-title title=\"Welcome to Trense!\" subtitle=\"Product mini-site demo\" style=\"small-divider\"][minigo-counter-features][minigo-addthis][/PT_column][PT_column size=\"one-half lap-one-whole\"]<img src=\"//premiothemes.com/demos/assets/images/trense/trense-products-all-transparent.png\" alt=\"The New Product\" />\r\n<h3>New In Stores!</h3>\r\nCielo and Dynamique are now available and we're sending out free samples!\r\nEnter your e-mail below to get started.[minigo-subscribe-form][/PT_column][/PT_row]",
+  "page-1-nav": "1",
+  "page-1-label": "HOME",
+  "page-1-icon": "fa-home",
+  "page-2-enabled": "1",
+  "page-2-label": "DISCOVER",
+  "page-2-icon": "fa-info-circle",
+  "page-2-title": "About the Product",
+  "page-2-content": "[minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-no-line\" opacity=\"0.25\"][PT_row]\r\n[PT_column size=\"two-thirds lap-one-whole\"][minigo-icon-features][/PT_column][PT_column size=\"one-third lap-one-whole\"]\r\n[minigo-progress-bars][/PT_column][/PT_row][minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"][minigo-testimonials]",
+  "page-3-enabled": "1",
+  "page-3-label": "PROMOTION",
+  "page-3-icon": "fa-gift",
+  "page-3-title": "Don't miss out, limited time offer",
+  "page-3-content": "[minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"]\r\n[PT_row]\r\n[PT_column size=\"one-half lap-one-whole\"]\r\n<h2>50% Off If you Order Now!</h2>\r\n[minigo-countdown][minigo-button text=\"Buy Now from Amazon!\" url=\"//pre.la/minigo\" class=\"\" target=\"_blank\" style=\"btn--large\"]\r\n[/PT_column]\r\n[PT_column size=\"one-half lap-one-whole\"]\r\n[minigo-icon-list]\r\n[/PT_column]\r\n[/PT_row]\r\n[minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"]",
+  "page-4-enabled": "1",
+  "page-4-label": "THE STORE",
+  "page-4-icon": "fa-map-marker",
+  "page-4-title": "Where to find us",
+  "page-4-content": "[PT_row]\r\n[PT_column size=\"one-third lap-one-whole\"]\r\n<h4>Come down and try our selection!</h4>\r\nWe're friendly and <strong>open Mon-Fri, 9AM-5PM</strong>.\r\n[minigo-contact-info]\r\n[minigo-divider size=\"1px\" top=\"15px\" bottom=\"15px\" style=\"divider-line\" opacity=\"0.25\"]\r\n[minigo-button text=\"Get Directions!\" url=\"https://www.google.co.uk/maps/dir//345+Rodeo+Dr,+San+Jose,+CA+95111,+USA/@37.2903724,-121.8402619,17z/data=!4m16!1m7!3m6!1s0x808e325c688072e3:0xbc7a566e08cd2957!2s345+Rodeo+Dr,+San+Jose,+CA+95111,+USA!3b1!8m2!3d37.2903724!4d-121.8380732!4m7!1m0!1m5!1m1!1s0x808e325c688072e3:0xbc7a566e08cd2957!2m2!1d-121.8380732!2d37.2903724\" class=\"\" target=\"_blank\" style=\"btn--small\"]\r\n[/PT_column]\r\n[PT_column size=\"two-thirds lap-one-whole\"]\r\n[minigo-map]\r\n[/PT_column]\r\n[/PT_row]<img src=\"//premiothemes.com/demos/assets/images/trense/trense-storefront-short-hires.jpg\" alt=\"Store Front\" />",
+  "page-5-enabled": "1",
+  "page-5-label": "BUY ONLINE",
+  "page-5-icon": "fa-shopping-bag",
+  "page-5-title": "Online Shop",
+  "page-5-content": "[minigo-shop]",
+  "page-6-enabled": "1",
+  "page-6-label": "GALLERY",
+  "page-6-icon": "fa-photo",
+  "page-6-title": "Latest Photos",
+  "page-6-content": "[minigo-gallery]",
+  "page-7-enabled": "0",
+  "page-7-label": "COMPANY",
+  "page-7-icon": "fa-star-o",
+  "page-7-title": "About the Company",
+  "page-7-content": "[minigo-team]\r\n[minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"]\r\n[minigo-contact-form]\r\n[minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"]\r\n[minigo-icon-menu]",
+  "page-8-enabled": "1",
+  "page-8-label": "COMPANY",
+  "page-8-icon": "fa-star-o",
+  "page-8-title": "About the Company",
+  "page-8-content": "[minigo-team]\r\n[minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"]\r\n[minigo-contact-form]\r\n[minigo-divider size=\"4px\" top=\"30px\" bottom=\"30px\" style=\"divider-double-line\" opacity=\"0.25\"]\r\n[minigo-icon-menu]",
+  "page-9-enabled": "0",
+  "page-9-label": "FEATURES",
+  "page-9-icon": "fa-star",
+  "page-9-title": "Product Features",
+  "page-9-content": "[PT_row]\r\n[PT_column size=\"one-half lap-one-whole\"]\r\n[minigo-icon-list]\r\n[/PT_column]\r\n[PT_column size=\"one-half lap-one-whole\"]\r\n[minigo-video title=\"Embed Videos from Youtube or Vimeo\"]<iframe src=\"https://player.vimeo.com/video/185412081?badge=0\" width=\"800\" height=\"340\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>[/minigo-video]\r\n[/PT_column]\r\n[/PT_row]\r\n[minigo-addthis]",
+  "page-10-enabled": "0",
+  "page-10-label": "SHOP",
+  "page-10-icon": "fa-shopping-bag",
+  "page-10-title": "Online Shop",
+  "page-10-content": "[minigo-shop]",
+  "page-11-enabled": "0",
+  "page-11-label": "LOCATION",
+  "page-11-icon": "fa-map-marker",
+  "page-11-title": "Google Map",
+  "page-11-content": "[minigo-map]\r\n[minigo-divider size=\"1px\" top=\"0px\" bottom=\"15px\" style=\"divider-line\" opacity=\"0.15\"]You can display a map with plenty of options, custom dividers or buttons such as the one below.[minigo-divider size=\"2px\" top=\"10px\" bottom=\"10px\" style=\"divider-dashed\" opacity=\"0.25\"]\r\n[minigo-button text=\"Get Directions\" url=\"//pre.la/minigo-map\" class=\"\" target=\"_blank\" style=\"btn--large\"]",
+  "page-12-enabled": "0",
+  "page-12-label": "CONTACT",
+  "page-12-icon": "fa-envelope",
+  "page-12-title": "Get in Touch",
+  "page-12-content": "[minigo-contact-info]\r\n[minigo-contact-form]",
+  "page-13-enabled": "0",
+  "page-13-label": "",
+  "page-13-icon": "",
+  "page-13-title": "",
+  "page-13-content": "",
+  "addthis-switcher": "1",
+  "addthis-heading": "Tell your Friends!",
+  "addthis-script": "<!-- Go to www.addthis.com/dashboard to customize your tools -->\r\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-543cf7a01fea0260\"></script>",
+  "addthis-code": "<!-- Go to www.addthis.com/dashboard to customize your tools -->\r\n<div class=\"addthis_sharing_toolbox\"></div>",
+  "countdown-enabled": "1",
+  "countdown-heading": "Countdown",
+  "countdown-type": "default",
+  "switch-charts": "0",
+  "chart-track-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "chart-bar-color": {
+    "color": "",
+    "alpha": "1",
+    "rgba": ""
+  },
+  "chart-outline-color": {
+    "color": "",
+    "alpha": "1",
+    "rgba": ""
+  },
+  "chart-line-width": {
+    "width": ""
+  },
+  "countdown-startDate": "02/15/2017",
+  "countdown-startHour": "23",
+  "countdown-startMinutes": "59",
+  "countdown-targetDate": "08/28/2017",
+  "countdown-targetHour": "23",
+  "countdown-targetMinutes": "59",
+  "countdown-labels": "DAYS,HOURS,MINUTES,SECONDS",
+  "contact-info-switcher": "1",
+  "contact-info-heading": "",
+  "contact_info": [
+    {
+      "title": "345 Rodeo Drive San Jose, CA 95111, USA",
+      "url": "",
+      "select": "fa-map-marker",
+      "sort": "0",
+      "force_row": "0"
+    },
+    {
+      "title": "+1 555 8595",
+      "url": "tel:15558595",
+      "select": "fa-phone",
+      "force_row": "1",
+      "sort": "1"
+    },
+    {
+      "title": "+1 555 9863",
+      "url": "tel:15559863",
+      "select": "fa-whatsapp",
+      "force_row": "1",
+      "sort": "2"
+    },
+    {
+      "title": "hello@premiothemes.com",
+      "url": "mailto:hello@premiothemes.com",
+      "select": "fa-envelope-o",
+      "force_row": "1",
+      "sort": "3"
+    },
+    {
+      "title": "skype_id",
+      "url": "#",
+      "select": "fa-skype",
+      "force_row": "1",
+      "sort": "4"
+    }
+  ],
+  "counter-features-switcher": "1",
+  "counter-features-heading": "",
+  "counter-features-columns": "3",
+  "counter_features": [
+    {
+      "select": "fa-heart-o",
+      "title": "Vogue",
+      "counter": "9.8",
+      "text": "May 2016 Issue",
+      "sort": "0"
+    },
+    {
+      "select": "fa-heart-o",
+      "title": "Bazaar",
+      "counter": "9.5",
+      "text": "August 2016 Issue",
+      "sort": "1"
+    },
+    {
+      "select": "fa-heart-o",
+      "title": "Glamour",
+      "counter": "9.7",
+      "text": "November 2016 Issue",
+      "sort": "2"
+    }
+  ],
+  "map-switcher": "1",
+  "map_heading": "",
+  "map-style": "custom",
+  "map-latitude": "37.32961",
+  "map-longitude": "-121.89063",
+  "map-allow-drag": "1",
+  "map-zoom-level": "15",
+  "map-wheel-zoom": "0",
+  "map-button-zoom": "0",
+  "map-type": "0",
+  "map-street-view": "0",
+  "map-marker": {
+    "url": "//premiothemes.com/demos/minigo/assets/template/images/map-marker.png",
+    "id": "",
+    "height": "",
+    "width": "",
+    "thumbnail": ""
+  },
+  "map-height": "300",
+  "icon-features-switcher": "1",
+  "icon-features-heading": "",
+  "icon-features-columns": "3",
+  "icon_features": [
+    {
+      "select": "fa-lightbulb-o",
+      "title": "Strategy",
+      "text": "In a world of MVPs MiniGO lets you publish early, test and grow an idea efficiently  and with no fuss.",
+      "sort": "0"
+    },
+    {
+      "select": "fa-pencil",
+      "title": "Design",
+      "text": "Designed to have an unobtrusive UI, it lets your content speak and your visuals impress. First impressions matter.",
+      "sort": "1"
+    },
+    {
+      "select": "fa-bullhorn",
+      "title": "Marketing",
+      "text": "Get your name out there, have a web placeholder, build a lead list right now, build the website in the meantime.",
+      "sort": "3"
+    }
+  ],
+  "icon-list-switcher": "1",
+  "icon-list-heading": "",
+  "icon-list-columns": "2",
+  "icon_list": [
+    {
+      "select": "fa-align-center",
+      "title": "Page Editors for Sections",
+      "sort": "0"
+    },
+    {
+      "select": "fa-bell",
+      "title": "5 Minute Set-up",
+      "sort": "1"
+    },
+    {
+      "select": "fa-calendar",
+      "title": "Count down to Launch",
+      "sort": "2"
+    },
+    {
+      "select": "fa-car",
+      "title": "Robustly Engineered",
+      "sort": "3"
+    },
+    {
+      "select": "fa-certificate",
+      "title": "Got some Awards!",
+      "sort": "4"
+    },
+    {
+      "select": "fa-codepen",
+      "title": "Gulp and SASS",
+      "sort": "5"
+    },
+    {
+      "select": "fa-dashboard",
+      "title": "Fully Featured Admin",
+      "sort": "6"
+    },
+    {
+      "select": "fa-database",
+      "title": "Build your Mailing List",
+      "sort": "7"
+    },
+    {
+      "select": "fa-diamond",
+      "title": "Pre-sell your Products",
+      "sort": "8"
+    },
+    {
+      "select": "fa-flag-checkered",
+      "title": "Build a quick MVP",
+      "sort": "9"
+    },
+    {
+      "select": "fa-heart",
+      "title": "4.9/5 Customer Rating",
+      "sort": "10"
+    },
+    {
+      "select": "fa-hourglass-2",
+      "title": "Newly Updated <strong>v3</strong> !",
+      "sort": "11"
+    }
+  ],
+  "icon-menu-heading": "Icon Menu",
+  "icon_menu": [
+    {
+      "title": "Follow us on Twitter",
+      "url": "https://twitter.com/PremioThemes",
+      "select": "fa-twitter",
+      "color": "",
+      "color-hover": "",
+      "border-color": "",
+      "border-color-hover": "",
+      "background": "",
+      "background-hover": "",
+      "sort": "0",
+      "new-window": "0"
+    },
+    {
+      "title": "Like us on Facebook",
+      "url": "https://www.facebook.com/PremioThemes",
+      "select": "fa-facebook",
+      "color": "",
+      "color-hover": "",
+      "border-color": "",
+      "border-color-hover": "",
+      "background": "",
+      "background-hover": "",
+      "sort": "1",
+      "new-window": "0"
+    },
+    {
+      "title": "Our Youtube Channel",
+      "url": "https://www.youtube.com/channel/UCsVztxXlDTQsLxgr2AVa31Q",
+      "select": "fa-youtube-square",
+      "color": "",
+      "color-hover": "",
+      "border-color": "",
+      "border-color-hover": "",
+      "background": "",
+      "background-hover": "",
+      "sort": "2",
+      "new-window": "0"
+    },
+    {
+      "title": "Behance Portfolio",
+      "url": "https://www.behance.net/PremioThemes",
+      "select": "fa-behance",
+      "color": "",
+      "color-hover": "",
+      "border-color": "",
+      "border-color-hover": "",
+      "background": "",
+      "background-hover": "",
+      "sort": "3",
+      "new-window": "0"
+    },
+    {
+      "title": "Connect on Linkedin",
+      "url": "https://www.linkedin.com/company/4994120",
+      "select": "fa-linkedin",
+      "color": "",
+      "color-hover": "",
+      "border-color": "",
+      "border-color-hover": "",
+      "background": "",
+      "background-hover": "",
+      "sort": "4",
+      "new-window": "0"
+    },
+    {
+      "title": "© 2014-2017 Premio Themes, All rights reserved.",
+      "url": "",
+      "select": "fa-copyright",
+      "color": "",
+      "color-hover": "",
+      "border-color": "",
+      "border-color-hover": "",
+      "background": "",
+      "background-hover": "",
+      "sort": "5",
+      "new-window": "0"
+    }
+  ],
+  "gallery-switcher": "1",
+  "photo-gallery": "",
+  "gallery-thumbnails": "large",
+  "open-images-in-lightbox": "1",
+  "show-gallery-dots": "1",
+  "show-gallery-numbers": "",
+  "show-gallery-left-right-arrows": "1",
+  "gallery-rows": "3",
+  "gallery-cols": "4",
+  "slides-to-scroll": "4",
+  "gallery-autoplay": "",
+  "gallery-autoplay-speed": "3000",
+  "slides-scroll-speed": "500",
+  "gallery-infinite-scroll": "",
+  "gallery-centermode": "",
+  "gallery-break-1-width": "1024",
+  "gallery-break-1-slides": "4",
+  "gallery-break-1-slides-to-scroll": "4",
+  "gallery-break-2-width": "768",
+  "gallery-break-2-slides": "3",
+  "gallery-break-2-slides-to-scroll": "3",
+  "gallery-break-3-width": "520",
+  "gallery-break-3-slides": "2",
+  "gallery-break-3-slides-to-scroll": "2",
+  "progress-bars-switcher": "1",
+  "progress_heading": "",
+  "progress-bars-columns": "1",
+  "progress_bars": [
+    {
+      "title": "Fragrance",
+      "value": "10/10",
+      "progress": "100",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "0"
+    },
+    {
+      "title": "Lasting",
+      "value": "8.5/10",
+      "progress": "85",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "1"
+    },
+    {
+      "title": "Intensity",
+      "value": "7.2",
+      "progress": "72",
+      "bar-color": "",
+      "border-color": "",
+      "background": "",
+      "sort": "2"
+    }
+  ],
+  "shop-switcher": "1",
+  "shop-heading": "Get the Gear",
+  "shop-before-content-switcher": "0",
+  "shop-before-content": "",
+  "shop-code": "<div id=\"my-store-10270054\"></div>\r\n<div><script type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?10270054&data_platform=code&data_date=2016-10-10\" charset=\"utf-8\"></script>\r\n<script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(3,3) list(10) table(20)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-10270054\");</script>\r\n</div>",
+  "shop-after-content-switcher": "0",
+  "shop-after-content": "",
+  "team-switcher": "1",
+  "team-heading": "The Founders",
+  "team-columns": "3",
+  "team_profiles": [
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "first_name": "Jeremy",
+      "last_name": "May",
+      "job_title": "UX Designer",
+      "sort": "0",
+      "fa-link": "#",
+      "fa-envelope": "",
+      "fa-phone": "",
+      "fa-facebook": "#",
+      "fa-twitter": "",
+      "fa-linkedin": "",
+      "fa-pinterest": "",
+      "fa-google-plus": "#",
+      "fa-youtube": "",
+      "fa-instagram": "",
+      "fa-flickr": "",
+      "fa-skype": "",
+      "fa-whatsapp": "",
+      "fa-snapchat": "#",
+      "fa-vine": "",
+      "fa-wordpress": "",
+      "fa-tumblr": "",
+      "fa-slack": "",
+      "fa-git": "",
+      "fa-behance": "",
+      "fa-dribbble": "",
+      "fa-deviantart": ""
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "first_name": "Richard",
+      "last_name": "Clarkson",
+      "job_title": "Front-End Developer",
+      "sort": "1",
+      "fa-link": "",
+      "fa-envelope": "",
+      "fa-phone": "",
+      "fa-facebook": "#",
+      "fa-twitter": "",
+      "fa-linkedin": "",
+      "fa-pinterest": "",
+      "fa-google-plus": "",
+      "fa-youtube": "",
+      "fa-instagram": "",
+      "fa-flickr": "#",
+      "fa-skype": "",
+      "fa-whatsapp": "",
+      "fa-snapchat": "",
+      "fa-vine": "",
+      "fa-wordpress": "",
+      "fa-tumblr": "#",
+      "fa-slack": "",
+      "fa-git": "",
+      "fa-behance": "",
+      "fa-dribbble": "#",
+      "fa-deviantart": ""
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "first_name": "Matt",
+      "last_name": "Jones",
+      "job_title": "Marketing Expert",
+      "sort": "0",
+      "fa-link": "",
+      "fa-envelope": "",
+      "fa-phone": "#",
+      "fa-facebook": "",
+      "fa-twitter": "",
+      "fa-linkedin": "#",
+      "fa-pinterest": "#",
+      "fa-google-plus": "",
+      "fa-youtube": "",
+      "fa-instagram": "",
+      "fa-flickr": "#",
+      "fa-skype": "",
+      "fa-whatsapp": "",
+      "fa-snapchat": "",
+      "fa-vine": "",
+      "fa-wordpress": "",
+      "fa-tumblr": "",
+      "fa-slack": "",
+      "fa-git": "",
+      "fa-behance": "#",
+      "fa-dribbble": "",
+      "fa-deviantart": ""
+    }
+  ],
+  "testimonials-switcher": "1",
+  "testimonials-heading": "Our customers love it!",
+  "testimonials": [
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "name": "Edward Williams",
+      "position": "CEO, Square Clothes",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Medal of Support! This guys should get a medal for his support. He mailed me in seconds after I asked for support and helped me out. Thx PremioThemes! Great plugin for a quick \"Under Maintenance\" or \"Under Construction\" website. Very flexible and easy going. Saved me hours of work. Thank you and keep up the great work.",
+      "sort": "0"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "name": "Charles Bowker",
+      "position": "CMO, Toncon",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Hello ! This word to tell you that your 2.0 version is purely AWESOME ! I never thought a coming soon plugin could offer such lots of visual configuration ! Plus, you added audio also as well as tons of styles, fonts, colors etc…the freaking MOST KILLER COMING SOON on codecanyon ! Hyper nice job !! I’m totally bluffed ! Cheers, Seb",
+      "sort": "1"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "name": "Mark Healy",
+      "position": "PR, K-dox",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Great plugin for a quick \"Under Maintenance\" or \"Under Construction\" website. Very flexible and easy going. Saved me hours of work. Thank you and keep up the great work.",
+      "sort": "2"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "name": "Charles Hillman",
+      "position": "Director, Convolin",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "We've used many different Coming Soon plugins, but MiniGO is without a doubt the best one we've used to date! It has so many different features allowing us to create a page that looks and functions exactly how we want it to! Add in the simple SEO capabilities, easy controls, overall style and of course, the AMAZING customer support and you've got yourself the complete package! If you are choosing what Coming Soon plugin to use, this is definitely the one to get!",
+      "sort": "3"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-3.jpg",
+      "name": "Paul Tovar",
+      "position": "Founder, Inchcare",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "The plugin is a lifesaver, it is fully customizable with an elegant design for the price. And when it comes to support, the seller is 100% there, even at odd hours of the week. I am very pleased with this purchase and would recommend them to everyone. Thanks a ton for making this so useful and easy!",
+      "sort": "4"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-2.jpg",
+      "name": "David Burden",
+      "position": "CMO, Triotex",
+      "url": "#",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "It does what really need for a coming soon plugin and it does it well. A lot of options, elegant and effective. The best on the market. This plugin has everything you would ever need for any small site. Amazing work!!",
+      "sort": "5"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-4.jpg",
+      "name": "Bruce Petty",
+      "position": "Manager, Ranstreet",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "What a great coming soon template. Some options to customize the text, content background colour and opacity are a few areas I would suggest improving upon but it really is a nice plugin. Well done. I'll try to keep it simple, I had a problem, and they fixed it, like incredibly quick. These guys are awesome, clean coding, superb design. For anyone looking for a coming soon. This is the would be the go to choice.",
+      "sort": "6"
+    },
+    {
+      "attachment_id": "",
+      "thumb": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "image": "//premiothemes.com/demos/assets/images/people/profiles/profile-1.jpg",
+      "name": "Gregory Carroll",
+      "position": "CTO, Zoomlux",
+      "url": "//pre.la/minigo-reviews",
+      "new_window": "1",
+      "select": "fa-quote-left",
+      "quote": "Beautiful design and easy install. Than you so much for this elegant coming soon plugin! This is, hands down, the best looking Word Press plugin available. Worth every penny! Excellent Admin, Customisation and superb Customer Services, thank you to the Team behind MiniGo. I 100% recommend this plugin.",
+      "sort": "7"
+    }
+  ],
+  "testimonials-show-images": "1",
+  "testimonials-show-dots": "1",
+  "testimonials-show-numbers": "",
+  "testimonials-show-arrows": "0",
+  "testimonials-rows": "1",
+  "testimonials-cols": "1",
+  "testimonials-slides-to-scroll": "1",
+  "testimonials-autoplay": "1",
+  "testimonials-autoplay-speed": "5000",
+  "testimonials-slides-scroll-speed": "800",
+  "testimonials-infinite-scroll": "",
+  "testimonials-centermode": "",
+  "testimonials-break-1-width": "1280",
+  "testimonials-break-1-slides": "1",
+  "testimonials-break-1-slides-to-scroll": "1",
+  "testimonials-break-2-width": "1024",
+  "testimonials-break-2-slides": "1",
+  "testimonials-break-2-slides-to-scroll": "1",
+  "testimonials-break-3-width": "768",
+  "testimonials-break-3-slides": "1",
+  "testimonials-break-3-slides-to-scroll": "1",
+  "enable-visual-settings": "1",
+  "base-typo": {
+    "font-family": "Ubuntu",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "300",
+    "font-style": "",
+    "font-size": "18px"
+  },
+  "body-font-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "link-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "link-color-hover": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "link-underline-color": {
+    "color": "#d77788",
+    "alpha": "0.5",
+    "rgba": "rgba(215,119,136,0.5)"
+  },
+  "link-underline-hover": {
+    "color": "#d77788",
+    "alpha": "0.75",
+    "rgba": "rgba(215,119,136,0.75)"
+  },
+  "paragraph-styles": {
+    "font-family": "Ubuntu",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "300",
+    "font-style": "",
+    "font-size": "18px",
+    "line-height": "26px",
+    "color": "#fff"
+  },
+  "heading-1": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "60px",
+    "line-height": "60px",
+    "color": "#fff"
+  },
+  "heading-2": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "36px",
+    "color": "#ffffff"
+  },
+  "heading-3": {
+    "font-family": "Ubuntu",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "300",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "30px",
+    "line-height": "30px",
+    "color": "#ffffff"
+  },
+  "heading-4": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "24px",
+    "line-height": "24px",
+    "color": "#fff"
+  },
+  "heading-5": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "700",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "20px",
+    "line-height": "20px",
+    "color": "#fff"
+  },
+  "heading-6": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "text-transform": "",
+    "font-size": "18px",
+    "line-height": "18px",
+    "color": "#fff"
+  },
+  "nav-button-typo": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "700",
+    "font-style": "",
+    "font-size": "16px"
+  },
+  "nav-button-style": "circle",
+  "nav-button-style-rounded": "4",
+  "nav-button-icon-color": {
+    "color": "#ffffff",
+    "alpha": "0.5",
+    "rgba": "rgba(255,255,255,0.5)"
+  },
+  "nav-button-label-color": {
+    "color": "#ffffff",
+    "alpha": "0.75",
+    "rgba": "rgba(255,255,255,0.75)"
+  },
+  "nav-button-border": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "dashed",
+    "border-color": ""
+  },
+  "nav-button-border-color": {
+    "color": "#ffffff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "nav-button-bg": {
+    "color": "#8a4c57",
+    "alpha": "0.25",
+    "rgba": "rgba(138,76,87,0.25)"
+  },
+  "nav-button-icon-color-hover": {
+    "color": "#8a4c57",
+    "alpha": "1",
+    "rgba": "rgba(138,76,87,1)"
+  },
+  "nav-button-label-color-hover": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "nav-button-border-hover": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "dashed",
+    "border-color": ""
+  },
+  "nav-button-border-color-hover": {
+    "color": "#8a4c57",
+    "alpha": "0.75",
+    "rgba": "rgba(138,76,87,0.75)"
+  },
+  "nav-button-bg-hover": {
+    "color": "#000000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "nav-button-icon-color-selected": {
+    "color": "#8a4c57",
+    "alpha": "1",
+    "rgba": "rgba(138,76,87,1)"
+  },
+  "nav-button-label-color-selected": {
+    "color": "#3c252a",
+    "alpha": "1",
+    "rgba": "rgba(60,37,42,1)"
+  },
+  "nav-button-border-selected": {
+    "border-top": "2px",
+    "border-right": "2px",
+    "border-bottom": "2px",
+    "border-left": "2px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "nav-button-border-color-selected": {
+    "color": "#ffffff",
+    "alpha": "0.75",
+    "rgba": "rgba(255,255,255,0.75)"
+  },
+  "nav-button-bg-selected": {
+    "color": "#ffffff",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "icon-button-typo": {
+    "font-family": "Ubuntu",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "font-size": "16px",
+    "line-height": "24px"
+  },
+  "icon-button-style": "none",
+  "icon-button-style-rounded": "4",
+  "icon-button-label-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "icon-button-label-background-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "icon-button-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "icon-button-border": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "icon-button-border-color": {
+    "color": "#fff",
+    "alpha": "0.5",
+    "rgba": "rgba(255,255,255,0.5)"
+  },
+  "icon-button-bg": {
+    "color": "#fff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "icon-button-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "icon-button-border-hover": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "icon-button-border-color-hover": {
+    "color": "#fff",
+    "alpha": "0.75",
+    "rgba": "rgba(255,255,255,0.75)"
+  },
+  "icon-button-bg-hover": {
+    "color": "#000",
+    "alpha": "0.25",
+    "rgba": "rgba(0,0,0,0.25)"
+  },
+  "content-button-typo": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "font-size": "22px"
+  },
+  "content-button-color": {
+    "color": "#fff",
+    "alpha": "0.9",
+    "rgba": "rgba(255,255,255,0.9)"
+  },
+  "content-button-border": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "content-button-border-color": {
+    "color": "#fff",
+    "alpha": "0.9",
+    "rgba": "rgba(255,255,255,0.9)"
+  },
+  "content-button-bg": {
+    "color": "#ffffff",
+    "alpha": "0.1",
+    "rgba": "rgba(255,255,255,0.1)"
+  },
+  "content-button-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "content-button-border-hover": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "content-button-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "content-button-bg-hover": {
+    "color": "#d77788",
+    "alpha": "0.15",
+    "rgba": "rgba(215,119,136,0.15)"
+  },
+  "input-typo": {
+    "font-family": "Ubuntu",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "300",
+    "font-style": "",
+    "font-size": "22px"
+  },
+  "input-notification-typo": {
+    "font-family": "Ubuntu",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": "",
+    "font-size": "16px",
+    "color": ""
+  },
+  "input-border": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "input-border-color": {
+    "color": "#fff",
+    "alpha": "0.8",
+    "rgba": "rgba(255,255,255,0.8)"
+  },
+  "input-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "input-background": {
+    "color": "#fff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "input-placeholder-color": {
+    "color": "#fff",
+    "alpha": "0.7",
+    "rgba": "rgba(255,255,255,0.7)"
+  },
+  "input-shadow-size": "0",
+  "input-shadow-color": {
+    "color": "#fff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "input-hover-border": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "input-hover-border-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "input-hover-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "input-hover-background-color": {
+    "color": "#000000",
+    "alpha": "0.15",
+    "rgba": "rgba(0,0,0,0.15)"
+  },
+  "input-hover-placeholder-color": {
+    "color": "#fff",
+    "alpha": "0.85",
+    "rgba": "rgba(255,255,255,0.85)"
+  },
+  "input-hover-shadow-size": "6",
+  "input-hover-shadow-color": {
+    "color": "#fff",
+    "alpha": "0.15",
+    "rgba": "rgba(255,255,255,0.15)"
+  },
+  "input-active-border": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "input-active-border-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "input-active-color": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "input-active-background-color": {
+    "color": "#ffffff",
+    "alpha": "0.1",
+    "rgba": "rgba(255,255,255,0.1)"
+  },
+  "input-active-placeholder-color": {
+    "color": "#fff",
+    "alpha": "0.5",
+    "rgba": "rgba(255,255,255,0.5)"
+  },
+  "input-active-shadow-size": "8",
+  "input-active-shadow-color": {
+    "color": "#d77788",
+    "alpha": "0.4",
+    "rgba": "rgba(215,119,136,0.4)"
+  },
+  "enable-blocks-visual-settings": "1",
+  "titles-title-color": {
+    "color": "#FFF",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "titles-subtitle-color": {
+    "color": "#FFF",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "titles-divider-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "dividers-color": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "contact-info-color": {
+    "color": "#d77788",
+    "alpha": "0.75",
+    "rgba": "rgba(215,119,136,0.75)"
+  },
+  "contact-info-color-hover": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "countdown-numbers": {
+    "font-family": "Montserrat",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "400",
+    "font-style": ""
+  },
+  "countdown-numbers-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "countdown-numbers-bg": {
+    "color": "#fff",
+    "alpha": "0",
+    "rgba": "rgba(255,255,255,0)"
+  },
+  "countdown-numbers-border": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "countdown-numbers-border-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "countdown-typo-labels": {
+    "font-family": "Ubuntu",
+    "font-options": "",
+    "google": "1",
+    "font-weight": "500",
+    "font-style": ""
+  },
+  "countdown-labels-color": {
+    "color": "#fff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "progress-bar-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "progress-bar-border": {
+    "border-top": "1px",
+    "border-right": "1px",
+    "border-bottom": "1px",
+    "border-left": "1px",
+    "border-style": "solid",
+    "border-color": ""
+  },
+  "progress-bar-border-color": {
+    "color": "#d77788",
+    "alpha": "0.25",
+    "rgba": "rgba(215,119,136,0.25)"
+  },
+  "counter-features-counter-color": {
+    "color": "#ffffff",
+    "alpha": "0.75",
+    "rgba": "rgba(255,255,255,0.75)"
+  },
+  "counter-features-counter-color-hover": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "counter-features-icon-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "counter-features-icon-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "counter-features-border-color": {
+    "color": "#ffffff",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "counter-features-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "0.75",
+    "rgba": "rgba(215,119,136,0.75)"
+  },
+  "counter-features-background-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "counter-features-background-color-hover": {
+    "color": "#000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "icon-features-icon-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "icon-features-icon-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "icon-features-border-color": {
+    "color": "#FFF",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "icon-features-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "0.75",
+    "rgba": "rgba(215,119,136,0.75)"
+  },
+  "icon-features-background-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "icon-features-background-color-hover": {
+    "color": "#000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "icon-list-icon-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "icon-list-icon-color-hover": {
+    "color": "#fefefe",
+    "alpha": "1",
+    "rgba": "rgba(254,254,254,1)"
+  },
+  "icon-list-border-color": {
+    "color": "#FFF",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "icon-list-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "0.75",
+    "rgba": "rgba(215,119,136,0.75)"
+  },
+  "icon-list-background-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "icon-list-background-color-hover": {
+    "color": "#000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "map-border-color": {
+    "color": "#FFF",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "map-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "0.5",
+    "rgba": "rgba(215,119,136,0.5)"
+  },
+  "map-background-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "map-background-color-hover": {
+    "color": "#000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "gallery-thumb-border-size": "1",
+  "gallery-thumb-background-color": {
+    "color": "#000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "gallery-thumb-background-color-hover": {
+    "color": "#000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "gallery-thumb-border-color": {
+    "color": "#FFF",
+    "alpha": "0.1",
+    "rgba": "rgba(255,255,255,0.1)"
+  },
+  "gallery-thumb-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "0.5",
+    "rgba": "rgba(215,119,136,0.5)"
+  },
+  "progress-bars-value-color": {
+    "color": "#FFF",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "progress-bars-color": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "progress-bars-background-color": {
+    "color": "#d77788",
+    "alpha": "0.1",
+    "rgba": "rgba(215,119,136,0.1)"
+  },
+  "progress-bars-border-color": {
+    "color": "#ffffff",
+    "alpha": "0.5",
+    "rgba": "rgba(255,255,255,0.5)"
+  },
+  "shop-brand-color": {
+    "color": "#FFF",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "shop-bg-color": {
+    "color": "#000",
+    "alpha": "1",
+    "rgba": "rgba(0,0,0,1)"
+  },
+  "slider-nav-color": {
+    "color": "#d77788",
+    "alpha": "0.25",
+    "rgba": "rgba(215,119,136,0.25)"
+  },
+  "slider-nav-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "slider-nav-color-active": {
+    "color": "#d77788",
+    "alpha": "0.75",
+    "rgba": "rgba(215,119,136,0.75)"
+  },
+  "slider-nav-arrow-color": {
+    "color": "#d77788",
+    "alpha": "0.25",
+    "rgba": "rgba(215,119,136,0.25)"
+  },
+  "slider-nav-arrow-color-hover": {
+    "color": "#ffffff",
+    "alpha": "1",
+    "rgba": "rgba(255,255,255,1)"
+  },
+  "team-thumb-border-color": {
+    "color": "#FFF",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "team-thumb-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "0.5",
+    "rgba": "rgba(215,119,136,0.5)"
+  },
+  "team-thumb-background-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "team-thumb-background-color-hover": {
+    "color": "#000",
+    "alpha": "0.1",
+    "rgba": "rgba(0,0,0,0.1)"
+  },
+  "testimonials-icon-color": {
+    "color": "#ffffff",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "testimonials-icon-color-hover": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "testimonials-divider-color": {
+    "color": "#FFF",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "testimonials-divider-color-hover": {
+    "color": "#d77788",
+    "alpha": "0.5",
+    "rgba": "rgba(215,119,136,0.5)"
+  },
+  "testimonials-avatar-border-color": {
+    "color": "#FFF",
+    "alpha": "0.25",
+    "rgba": "rgba(255,255,255,0.25)"
+  },
+  "testimonials-avatar-border-color-hover": {
+    "color": "#d77788",
+    "alpha": "1",
+    "rgba": "rgba(215,119,136,1)"
+  },
+  "testimonials-avatar-background-color": {
+    "color": "#000",
+    "alpha": "0",
+    "rgba": "rgba(0,0,0,0)"
+  },
+  "testimonials-avatar-background-color-hover": {
+    "color": "#000",
+    "alpha": "0.25",
+    "rgba": "rgba(0,0,0,0.25)"
+  },
+  "load-other-assets": "0",
+  "strip-theme-assets": "1",
+  "whitelist-ips": "",
+  "purchase-key": "",
+  "redux-backup": 1
+}
